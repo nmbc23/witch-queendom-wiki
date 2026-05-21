@@ -1,0 +1,17 @@
+# OS cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Local temporary / generated working folders
+.wiki-backups/
+temp_outputs/
+
+# Common scratch files
+*.tmp
+*.bak
+~$*

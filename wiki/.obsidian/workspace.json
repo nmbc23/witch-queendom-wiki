@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "349d667726f1f179",
+    "type": "split",
+    "children": [
+      {
+        "id": "28c8c57465c27b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95aa80f1c7599b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events/네리네의 흡혈귀 토벌과 아세로리온 최후 사건.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "네리네의 흡혈귀 토벌과 아세로리온 최후 사건"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ddd994f23c6d454",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a764a89def65601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19afa976a90ce751",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c63f0dec3e53f62a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "04f0a45ea24d109e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c212ade7bfbd0787",
+    "type": "split",
+    "children": [
+      {
+        "id": "644c44d545ea89a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6cac18ad1b527a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "entities/chronica-criella.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "chronica-criella 의 백링크"
+            }
+          },
+          {
+            "id": "d24108a870156811",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "entities/chronica-criella.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "chronica-criella 의 나가는 링크"
+            }
+          },
+          {
+            "id": "bdc6affcb1133e8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "5e725c72c7581c9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "beea134cbc0c6c68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "entities/chronica-criella.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "chronica-criella 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "95aa80f1c7599b62",
+  "lastOpenFiles": [
+    "syntheses/chronica-criella-character-sheet.md",
+    "sources/current-session-chronica-split-body-additions.md",
+    "events/네리네 접견 뒤 아세로리온의 분노.md",
+    "events/2026-04-28.md",
+    "entities/saijera.md",
+    "entities/terai.md",
+    "events/네리네의 보주와 시조 수감.md",
+    "events/마기나 사도우의 미네바 납치.md",
+    "events/슈시에 엘 치료와 아세로리온의 성녀 인식.md",
+    "events/시에라 동일성 문제.md",
+    "events/식물성 피 열매 하사.md",
+    "events/크로니카의 공유 주술 창안.md",
+    "events/크로니카의 공유 주술과 흡혈 마술 기원 사건.md",
+    "sources/current-session-aref-sierra-additions.md",
+    "sources/acerorion-image-reference-and-session-check.md",
+    "entities/acerorion-liminaris.md",
+    "entities/aika-desmone-mubeil-aiki-lau.md",
+    "entities/shiraraki-sainaid.md",
+    "entities/siri.md",
+    "entities/wimea-haran.md",
+    "entities/zerose-reirei.md",
+    "entities/merika-kairei.md",
+    "entities/meijers-desmone-medalicia.md",
+    "entities/aref-accel-seia.md",
+    "events/디마리의 미래 반역과 실종.md",
+    "events/네리네의 뮤베일 영입 명령.md",
+    "assets/images/references/acerorion-liminaris-origin-reference.webp",
+    "assets/images/references",
+    "assets/images/_inspection/cache-extracted",
+    "assets/images/_inspection/contact-019db66d.jpg",
+    "assets/images/_inspection/contact-019db915.jpg",
+    "assets/images/_inspection/contact-019db523.jpg",
+    "assets/images/_inspection/contact-019dc0bb.jpg",
+    "assets/images/_inspection/contact-019dbb0f.jpg",
+    "assets/images/_inspection/contact-019dbe72.jpg",
+    "assets/images/_inspection/contact-019ddd79.jpg",
+    "assets/images/_inspection/contact-019ddf78.jpg",
+    "assets/images/_inspection",
+    "assets/images/codex-generated/session-019dbb0f/28-chronica-golden-forest-vineyard-canon.png",
+    "assets/images/codex-generated/session-019dbb0f",
+    "assets/images/codex-generated",
+    "assets/images/character-references",
+    "assets/images",
+    "assets"
+  ]
+}
