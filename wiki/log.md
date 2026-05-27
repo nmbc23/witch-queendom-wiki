@@ -1021,3 +1021,29 @@ Notes:
   - 차원술사 귀족은 보통 가주의 뜻을 따르지만, 마법사령 전체에 해가 되는 일이라면 대마법사에게 직접 보고할 수 있도록 교육받는다.
   - 이 직접 보고권은 리미나리스 귀족 특권이 아니라 마법사령 법령의 기본이다.
   - 여왕령 출신 귀족들은 이 구조를 리미나리스 지방 군주와 네리네 황제의 위계처럼 이해하지만, 실제 마법사령은 신분제가 아니다.
+
+## 2026-05-28 - 휴리 혈족과 마법사령 프로젝트 집단 보정
+
+- 작업: 현재 대화에서 추가된 휴리 혈족의 기원, 공통 외형/에텔, 리미나리스 견제 역할, 프로젝트·군사·학술 집단 성격, 자율 보장과 네리네의 감시를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-hyuri-bloodline.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 휴리는 네리네가 직접 만든 두 번째 차원술사 혈족이다.
+  - 휴리는 은발, 푸른 눈, 높은 백색 에텔 적성을 공통으로 지닌다.
+  - 휴리는 마법사령의 가장 강력한 군대이자 학술 집단이며, 주요 프로젝트 대부분을 수행하는 계획 종족/서번트 종족이다.
+  - 리미나리스가 거의 자치령처럼 방치되는 것과 달리, 휴리는 네리네에게 지속적으로 의뢰와 명령을 받는다.
+  - 휴리는 차원술사 귀족이 헛된 꿈을 꾸지 못하게 하는 가장 강력한 억제력이다.
+  - 휴리의 가주회의와 가주의 거취는 대마법사도 침범할 수 없는 절대 보장 영역이지만, 네리네는 비공식 수단으로 정보를 훔쳐보려 한다.
