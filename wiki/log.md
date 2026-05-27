@@ -1293,3 +1293,30 @@ Notes:
   - 네리네로부터 내려온 자들은 가주회의에 참여하지 못하고, 존재 자체도 모른다.
   - 참가자는 초대 디마리 휴리 시절부터 이어져 온 집안과 네리네와 무관한 휴리 중에서 선택된다.
   - 이레니아는 원칙적으로 가주회의에 접근하지 못하지만, 표면 가주 후보/행정 권한을 통해 회의록과 부재기록의 흔적을 캐낼 수 있어 제라애에게 위험하다.
+
+## 2026-05-28 - 리미나리스 가주회의와 귀족 의회 보정
+
+- 작업: 현재 대화에서 추가된 리미나리스 가주회의의 밥상머리 회의 성격과, 귀족 의회가 중대 사안을 결정한다는 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-family-council-parliament.md`
+  - `wiki/concepts/리미나리스 가주회의.md`
+  - `wiki/concepts/리미나리스 의회.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/리미나리스 뒷문 구조.md`
+  - `wiki/sources/current-session-liminaris-hotline.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/aradnoa-liminaris.md`
+  - `wiki/entities/sizurinai-liminaris.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 리미나리스 가주회의는 휴리 가주회의와 달리 실질 의사결정 이너서클이 아니라 밥상머리 집안 회의다.
+  - 진짜 중요한 일은 귀족들이 참여하는 리미나리스 의회에서 결정된다.
+  - 가주의 의향은 절대적이지만, 귀족 전체가 반대하는 일까지 실행하지는 못한다.
+  - 귀족들의 반대와 파벌 다툼은 가주를 제약하는 동시에, 실패 시 가주가 단독 책임을 지지 않게 하는 책임 분산 장치다.

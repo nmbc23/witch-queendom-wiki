@@ -17,6 +17,7 @@ sources:
   - [[sources/aradnoa-disappearance]]
   - [[sources/current-session-mage-seat-distribution]]
   - [[sources/current-session-liminaris-hotline]]
+  - [[sources/current-session-liminaris-family-council-parliament]]
   - [[sources/current-session-hyuri-bloodline]]
   - [[sources/current-session-jerae-sierra-conspiracy]]
   - [[sources/current-session-izkata-true-heir]]
@@ -51,6 +52,8 @@ sources:
 정기 접견에서 네리네는 아세로리온에게 세금이 적게 늘었다고 질책한다. 리미나리스가 버는 돈은 마법사령 전체가 지원해서 번 것이며, 혼자 잘나서 번 것이 아니라고 말한다. 또한 하이시아의 후계를 육성 중이며, 리미나리스만큼 강하고 똑똑한 아이들이 있으니 자꾸 이러면 교체하겠다고 압박한다.
 
 리미나리스에 모인 [[concepts/차원술사 귀족|차원술사 귀족]]들은 마법사 경쟁에 참여하면 성공할 가능성이 높지만, 네리네의 직계 지배령 안에서 최고 권력자 바로 아래 관리로 승급하는 것을 매력적으로 보지 않는다. 그들은 네리네를 직접 상대하기보다 귀족적 신하 질서와 내부 자치권 안에서 나라 안의 나라를 세우는 편을 택한다.
+
+리미나리스 내부 정치에서 [[concepts/리미나리스 가주회의|가주회의]]는 휴리식 이너서클이 아니라 밥상머리 집안 회의에 가깝다. 진짜 중요한 일은 귀족들이 참여하는 [[concepts/리미나리스 의회|리미나리스 의회]]에서 결정된다. 가주의 의향은 절대적이지만 귀족 전체가 반대하는 일은 실행하기 어렵고, 귀족들의 반대와 파벌 다툼은 실패 책임을 가주에게서 분산시키는 방패로도 기능한다. 이 구조 때문에 네리네가 리미나리스에 보낸 인재는 휴리처럼 지정된 자리를 보장받기보다, 의회와 귀족 정치 속에서 스스로 자리 잡아야 한다.
 
 ## 휴리 제작과 운용
 
@@ -141,6 +144,8 @@ sources:
 - [[concepts/차원 닻]]: 이즈카타가 거역할 경우를 대비해 만든 차원 방랑자 대응 장치.
 - [[concepts/차원술사 귀족]]: 능력은 있으나 네리네 직할 체제의 공개 경쟁보다 리미나리스 내부 자치를 택한 귀족층.
 - [[concepts/리미나리스 뒷문 구조]]: 리미나리스 가주의 이상행동을 차원술사 귀족들이 대마법사에게 직접 보고할 수 있게 하는 법령적 통치 장치.
+- [[concepts/리미나리스 의회]]: 네리네 직계 지배령 안에서도 리미나리스 귀족들이 중대 사안을 결정하고 가주의 책임을 분산하는 정치 무대.
+- [[concepts/리미나리스 가주회의]]: 휴리 가주회의와 달리 실질 이너서클이 아니라 집안 회의에 가까운 리미나리스 내부 회의.
 - [[entities/haisia]], [[entities/naksha]], [[entities/shugoro-desmone]] 등: 네리네가 보유하거나 호출하는 시조/권능 축.
 
 ## 미확정
