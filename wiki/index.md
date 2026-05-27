@@ -1,7 +1,7 @@
 ﻿---
 type: index
 status: draft
-updated: 2026-05-20
+updated: 2026-05-28
 ---
 
 # Wiki Index
@@ -25,6 +25,8 @@ updated: 2026-05-20
 - [[sources/current-session-sydeia-corrections]] - 시데이아는 시에라가 만든 존재가 아니라, 시에라에게 주물질계 마술 대응법을 배웠다는 현 정본 보정.
 - [[sources/current-session-aref-sierra-additions]] - 아레프가 숨은 마을에서 시에라에게 들은 뮤베일 분체, 아이카 포말 연구, 괴조 의혹, 보석검 실패감 설정.
 - [[sources/aradnoa-disappearance]] - `아라드노아의 소실.txt`와 2026-05-05 대화에서 추출한 아라드노아 분체, 소실, 노리어, 스자스 루트 분기 요약.
+- [[sources/mukere-rinasita-side-stories]] - `뮤케레와 리나시타 .md` 외전 묶음에서 추출한 유계, 반복 부활, 에텔, 영면, 미료카리온, 의도된 오답 설정.
+- [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
 - [[sources/acerorion-image-reference-and-session-check]] - `P:\AI\Codex\generated_images`에서 회수한 아세로리온 세션 생성컷 27장과 정본/주의 컷 분류.
@@ -49,6 +51,7 @@ updated: 2026-05-20
 - [[syntheses/pleasant-nightmare-if-route]] - 이즐레아의 망설임으로 길어진 아세로리온·뮤베일의 IF 루트와, 결국 같은 파국으로 수렴하는 `즐거운 악몽` 정리.
 - [[syntheses/aref-sierra-hidden-town-arc]] - 아레프가 뮤베일을 추적해 시에라의 미니어처 타운에 들어가고, 아이카와 보석검의 진상을 배우는 문답 아크.
 - [[syntheses/aradnoa-disappearance-arc]] - 아라드노아 리미나리스 분체의 교사·연구자·스테리 행적, 이즈카타 결투 소실, 노리어와 스자스 루트 분기.
+- [[syntheses/mukere-rinasita-and-miriokarion]] - 뮤케레와 리나시타의 반복 부활 실패, 노리어 에텔 기반, 미료카리온의 의도된 오답과 시에라 상아탑 진체.
 - [[syntheses/chronica-kamaso-blood-core-arc]] - 크로니카의 공유 주술, 혈핵, 카마소 카밀라 사태, 스자스의 훗날 반역 기반.
 - [[syntheses/chronica-criella-complete-storyline]] - 크로니카 크리엘라의 전체 개인 서사를 시간순으로 정리한 한국어 정본.
 - [[syntheses/chronica-criella-character-sheet]] - 크로니카의 외형, 성격, 잠재력, 한계, 관계, 작법 포인트를 한 장에 모은 캐릭터 시트.
@@ -71,6 +74,7 @@ updated: 2026-05-20
 - [[entities/szas-sreya]] - 처형 귀족, 검은 마견 이미지, 카마소 자멸 판단과 훗날 카밀라 재구축 기반의 행적.
 - [[entities/laroka]] - 질량 있는 환영의 마녀, 스자스의 동문, 카밀라 재구축 공범의 행적.
 - [[entities/sierra-serasie]] - 마법 창시자, 스자스와 라로카의 스승, 북부 호수 습격의 배후로 추정되는 행적.
+- [[entities/miriokarion]] - 유계와 우주론에 거의 도달했으나 의도된 오답 덕분에 살아남고, 죽은 뒤 시에라 진체에 감사가 닿는 학자.
 - [[entities/sushie-el]] - 시에라의 분체이자 북부 호수 온천 종업원, 여왕을 알아보고 희생양이 된 행적.
 - [[entities/kamaso-kamila]] - 영지 전체 흡혈 의식으로 얼티밋급 혈핵 재난이 된 북부 영주의 행적.
 - [[entities/meijers-desmone-medalicia]] - 강제 승리 포말로 카마소 카밀라의 직격을 버틴 듯 보인 마녀 대장군의 행적.
@@ -134,6 +138,12 @@ updated: 2026-05-20
 - [[concepts/마나 고갈과 대이주]] - 늙은 차원, 주물질계 마나 부족, 개인 탈출과 문명 대이주, 마신 생존 캡슐 이론.
 - [[concepts/위치-퀸덤-아트-스타일|위치 퀸덤 아트 스타일]] - 유러피언 로망, 벨 에포크, 아케인 펑크를 결합한 세계관 공통 시각 기준.
 - [[concepts/캐릭터 시각 정본|캐릭터 시각 정본]] - 이미지 생성용 캐릭터 외형 정본과 레퍼런스 유지 지침.
+- [[concepts/유계와 진체 기억 장막]] - 유계에서 얻은 기억이 현세의 마녀 자아에 연결되지 않는 정보 방화벽.
+- [[concepts/영면과 검은 개 진체]] - 마녀 자아가 희미해질 때 진체가 주도권을 되찾는 영면과 스자스의 검은 개 진체.
+- [[concepts/의도된 오답]] - 완전한 진실 대신 일부러 조금 틀린 답을 남겨 감시망에서 살아남게 하는 보호 방식.
+- [[concepts/72-대마신|72 대마신]] - 여왕령의 최고위 대마신 좌석/관료/방어 체계.
+- [[concepts/초절자]] - 마법사령의 오래 누적된 상위 마법사/방어 예비 전력.
+- [[concepts/승천자]] - 마법사 예비로 지정된 상위 마술사와 공석 즉시 승급 체계.
 
 ## LLM Wiki Sources
 

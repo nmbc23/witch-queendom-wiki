@@ -866,3 +866,40 @@ Notes:
   - 크로니카가 흡혈귀 현상을 과소평가한 이유는 자신이 마신이라 흡혈귀화를 진체가 자동 복구해버렸기 때문이며, 뮤베일 역시 그 구조 때문에 흡혈귀가 되지 않는다.
   - 흡혈귀화는 마신 승천 가능성을 크게 떨어뜨리는 퇴행으로 정리했고, 스자스와 라로카가 혈핵만 진체에 연결하는 우회술로 그 한계를 깨고 카마소 카밀라를 새로운 얼티밋급 마신으로 재구축했다는 보강을 추가했다.
   - 나크샤의 강제 흡혈 사건, 메이벨이 가세한 황금 수해 탈주, 크로니카의 검은 잎 나무 진체와 발밑 검은 뿌리 연출을 크로니카 축 서사에 묶었다.
+
+## 2026-05-28 - 뮤케레·리나시타 외전과 상위 개념 위키 반영
+
+- 작업: `뮤케레와 리나시타 .md` 외전 묶음과 현 세션에서 정리한 72 대마신·초절자·승천자 초안을 실제 위키 문서로 승격했다.
+- 변경 페이지:
+  - `wiki/sources/mukere-rinasita-side-stories.md`
+  - `wiki/sources/current-session-high-concept-drafts.md`
+  - `wiki/syntheses/mukere-rinasita-and-miriokarion.md`
+  - `wiki/entities/emukare-mukere.md`
+  - `wiki/entities/eridina-rinasita.md`
+  - `wiki/entities/miriokarion.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/szas-sreya.md`
+  - `wiki/concepts/노리어.md`
+  - `wiki/concepts/유계와 진체 기억 장막.md`
+  - `wiki/concepts/영면과 검은 개 진체.md`
+  - `wiki/concepts/의도된 오답.md`
+  - `wiki/concepts/72-대마신.md`
+  - `wiki/concepts/초절자.md`
+  - `wiki/concepts/승천자.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+- 핵심 정리:
+  - 뮤케레와 리나시타는 1차 마법전쟁에서 죽고 유계에서 먼저 깨어난 초기 제자/시조급 존재로 정리했다.
+  - 두 사람의 반복 부활 실패가 현세에 녹색·붉은색 에텔을 퍼뜨리고, 노리어의 에너지 기반으로 이어진다는 구조를 반영했다.
+  - 유계에서 얻은 기억은 현세의 마녀 자아에 연결되지 않는 정보 방화벽으로 정리했다.
+  - 미료카리온은 거의 정확한 우주론을 파악했지만, 뮤케레와 리나시타의 의도된 오답 덕분에 네리네의 감시망에서 살아남은 학자로 문서화했다.
+  - 시에라의 상아탑 진체와 미료카리온의 마지막 감사, 스자스의 검은 개 진체와 영면 구조를 새 개념으로 분리했다.
+  - 노리어는 분산형 네트워크, 휘/쿠이라 노드, 네트워크 피 토큰, 아라드노아 킬 스위치, 트레저리 생체 백업 우선순위를 포함하도록 보강했다.
+  - 72 대마신, 초절자, 승천자는 각각 여왕령 최고위 대마신 체계, 마법사령의 역사적 방어 예비 전력, 마법사 공석 즉시 승급 대기열로 정리했다.
+- 검삭 필요:
+  - 뮤케레와 리나시타 각각의 에텔 색상 대응.
+  - 부활 후 두 사람이 시에라 곁에서 지내는 장면의 정본/IF 여부.
+  - 노리어 네트워크 피 토큰과 두 마신의 에텔이 같은 자원인지, 층위가 다른 자원인지.
+  - 초절자 400명, 승천자 1000명, 72 대마신 숫자의 정본성.
