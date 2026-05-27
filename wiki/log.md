@@ -1211,3 +1211,32 @@ Notes:
   - 지시의 목적은 이레니아가 가주 후보가 되는 것을 막는 것이다.
   - 제라애의 부재는 이레니아에게 해방이 아니라 새 암살 트리거가 된다.
   - 나마애의 명령 지연이 살아 있는 제라애의 명령에는 통할 수 있지만, 사후/실종 트리거 지시까지 막을 수 있는지는 미확정으로 남겼다.
+
+## 2026-05-28 - 이즈카타 휴리 6 진짜 후계자 보정
+
+- 작업: 현재 대화에서 추가된 이즈카타 휴리 6의 극비 후계자 설정, 차원 방랑자 복원계획, 네리네의 차원 닻 대비, 죽음의 계곡 휴리 비밀 차원 연구소를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-izkata-true-heir.md`
+  - `wiki/entities/izkata.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/차원 방랑자 복원계획.md`
+  - `wiki/concepts/차원 닻.md`
+  - `wiki/concepts/죽음의 계곡 휴리 비밀 차원 연구소.md`
+  - `wiki/concepts/휴리 가주회의 회의록.md`
+  - `wiki/concepts/제라애의 사후 암살 지시.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 이즈카타 휴리 6은 제라애가 정말로 가주로 만들려는 자다.
+  - 이즈카타는 차원 방랑자 복원계획의 성공례다.
+  - 이즈카타의 존재는 휴리 가주회의 참가자와 죽음의 계곡 비밀 차원 연구소 외에는 모르는 극비다.
+  - 네리네는 이즈카타의 존재를 알고 있으며, 거역에 대비해 차원 닻을 만들어두었다.
+  - 이레니아는 네리네가 알려주지 않았기 때문에 이즈카타의 존재를 모른다.
+  - 기존 회의록/시에라 공모 흔적은 방첩상의 공포로 유지하고, 제라애가 이레니아를 인정하지 않는 진짜 계승 사유는 이즈카타로 상위 보정했다.
