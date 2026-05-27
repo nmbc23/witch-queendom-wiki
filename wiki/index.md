@@ -26,6 +26,7 @@ updated: 2026-05-28
 - [[sources/current-session-aref-sierra-additions]] - 아레프가 숨은 마을에서 시에라에게 들은 뮤베일 분체, 아이카 포말 연구, 괴조 의혹, 보석검 실패감 설정.
 - [[sources/aradnoa-disappearance]] - `아라드노아의 소실.txt`와 2026-05-05 대화에서 추출한 아라드노아 분체, 소실, 노리어, 스자스 루트 분기 요약.
 - [[sources/mukere-rinasita-side-stories]] - `뮤케레와 리나시타 .md` 외전 묶음에서 추출한 유계, 반복 부활, 에텔, 영면, 미료카리온, 의도된 오답 설정.
+- [[sources/current-session-eternal-sleep-correction]] - 영면 시작 시 유계 의식이 깨어나 현세를 내려다보지만, 현세 마녀에게는 비현실감과 나른한 휴식 유혹으로만 나타난다는 보정.
 - [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
