@@ -34,6 +34,7 @@ updated: 2026-05-28
 - [[sources/current-session-jerae-sierra-conspiracy]] - 제라애가 이레니아를 경계하는 진짜 이유인 시에라 공모 흔적, 회의록, 부재 정보 접근 위험과 네리네 사망 시 기록 폐기 보정.
 - [[sources/current-session-hyuri-executors]] - 제라애의 명을 받드는 휴리 실권자 스이카와 카나데라, 이레니아 제거 명령, 고백과 도주 조력 보정.
 - [[sources/current-session-namaae-hyuri]] - 제라애의 친딸 나마애, 가주 후보가 아닌 친딸 지위, 이레니아의 오해와 명령 지연 구원 보정.
+- [[sources/current-session-jerae-deadman-order]] - 제라애가 죽거나 사라질 경우 이레니아의 가주 후보화를 막기 위해 발동되는 즉시 암살 지시 보정.
 - [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
@@ -160,6 +161,7 @@ updated: 2026-05-28
 - [[concepts/리미나리스 뒷문 구조]] - 리미나리스 귀족이 가주 이상행동을 대마법사 네리네에게 직접 보고할 수 있는 법령적 핫라인과 정치 연극.
 - [[concepts/휴리]] - 네리네가 직접 만든 은발·푸른 눈·백색 에텔 적성의 두 번째 차원술사 혈족이자, 혼혈 지향과 순혈 지배층 재생산이 공존하는 마법사령의 주요 군사·학술 집단.
 - [[concepts/휴리 가주회의 회의록]] - 이레니아 배척 논의와 제라애의 부재 정보가 남아, 시에라 공모 흔적 접근로가 될 수 있으며 네리네 사망 분기에서는 폐기될 수 있는 휴리 내부 기록.
+- [[concepts/제라애의 사후 암살 지시]] - 제라애가 죽거나 사라질 경우 이레니아의 가주 후보화를 막기 위해 미리 내려놓은 즉시 암살 명령.
 
 ## LLM Wiki Sources
 

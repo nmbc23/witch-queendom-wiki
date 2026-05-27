@@ -1184,3 +1184,30 @@ Notes:
   - 이레니아는 나마애 때문에 제라애가 자신을 인정하지 않는다고 오해한다.
   - 나마애는 이레니아 제거를 부당하다고 여기며, 제라애의 친딸이라는 지위를 이용해 스이카의 명령 실행을 계속 지연시킨다.
   - 이 지연을 통해 나마애는 이레니아를 구한다.
+
+## 2026-05-28 - 제라애 사후/실종 트리거 암살 지시 보정
+
+- 작업: 현재 대화에서 추가된 제라애의 사후/실종 대비 즉시 암살 지시를 소스와 개념 문서로 분리하고 관련 휴리 문서에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-jerae-deadman-order.md`
+  - `wiki/concepts/제라애의 사후 암살 지시.md`
+  - `wiki/sources/current-session-hyuri-executors.md`
+  - `wiki/sources/current-session-namaae-hyuri.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/namaae-hyuri.md`
+  - `wiki/entities/suika-hyuri.md`
+  - `wiki/entities/kanadera-hyuri.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 가주회의 회의록.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 제라애는 자신이 죽거나 사라질 경우를 대비해 즉시 암살 지시를 미리 내려놓았다.
+  - 지시의 목적은 이레니아가 가주 후보가 되는 것을 막는 것이다.
+  - 제라애의 부재는 이레니아에게 해방이 아니라 새 암살 트리거가 된다.
+  - 나마애의 명령 지연이 살아 있는 제라애의 명령에는 통할 수 있지만, 사후/실종 트리거 지시까지 막을 수 있는지는 미확정으로 남겼다.
