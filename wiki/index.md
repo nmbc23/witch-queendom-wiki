@@ -32,6 +32,7 @@ updated: 2026-05-28
 - [[sources/current-session-liminaris-hotline]] - 리미나리스 차원술사 귀족의 네리네 직통 핫라인, 법령상 보고 의무, 모두가 아는 정치 연극 구조 보정.
 - [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산, 이레니아 가주 후보 지정 구조로 보정.
 - [[sources/current-session-jerae-sierra-conspiracy]] - 제라애가 이레니아를 경계하는 진짜 이유인 시에라 공모 흔적, 회의록, 부재 정보 접근 위험과 네리네 사망 시 기록 폐기 보정.
+- [[sources/current-session-hyuri-executors]] - 제라애의 명을 받드는 휴리 실권자 스이카와 카나데라, 이레니아 제거 명령, 고백과 도주 조력 보정.
 - [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
@@ -100,6 +101,8 @@ updated: 2026-05-28
 - [[entities/linarirora]] - 아세로리온의 차녀, 레오나와 보석검 지원으로 계승전에 승리하는 후보.
 - [[entities/fanta-hyuri]] - 라플라리아의 검으로 선 차원 방랑 마신, 보석검에 패하는 휴리.
 - [[entities/jerae-hyuri]] - 현 휴리 가주이자 휴리 상회의 거두, 이레니아 접근권이 시에라 공모 흔적에 닿을까 두려워하는 인물.
+- [[entities/suika-hyuri]] - 제라애의 명을 받드는 휴리 실권자, 이레니아를 웃으며 대하지만 결국 명을 실행하는 인물.
+- [[entities/kanadera-hyuri]] - 제라애의 직접 실행 명령을 받은 휴리 실권자, 마지막에 이레니아에게 고백하고 도망치게 하는 인물.
 - [[entities/izkata]] - 아라드노아의 소실 무대가 되는 휴리의 차원 방랑 마신/최종 병기이자, 리미나리스에게 공포와 증오를 남긴 완성형 차원 방랑자.
 - [[entities/oriana-hyuri]] - 디마리의 딸이자 아이카 혈통 인과로 이어지는 미래 핵심 인물.
 - [[entities/galieira-hyuri]] - 디마리의 후임 비서, 네리네의 변덕에 시달리는 과로 코미디 인물.

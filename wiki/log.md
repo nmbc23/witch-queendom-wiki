@@ -1135,3 +1135,27 @@ Notes:
   - 네리네가 사망한 분기에서는 제라애가 자기 권한으로 회의록을 폐기하고, 해당 시기의 기록은 관리 소홀로 사라졌다고 처리할 수 있다.
   - 눈치를 줄 상위권자가 사라졌기 때문에 기록 폐기를 제지할 권위도 사라진다.
   - 이 조건에서는 이레니아가 제라애의 치명적 증거 접근자가 아니게 되며, 역설적으로 휴리의 일원으로 수용될 수 있다.
+
+## 2026-05-28 - 스이카와 카나데라 휴리 집행 라인 보정
+
+- 작업: 현재 대화에서 추가된 제라애 휘하 휴리 실권자 스이카 휴리와 카나데라 휴리를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-hyuri-executors.md`
+  - `wiki/entities/suika-hyuri.md`
+  - `wiki/entities/kanadera-hyuri.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 가주회의 회의록.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 스이카 휴리와 카나데라 휴리는 제라애의 명을 받드는 휴리 실권자들이다.
+  - 스이카는 이레니아를 겉으로 웃으며 대해주지만, 언젠가 제거해야 한다는 사실에 가슴아파한다.
+  - 스이카는 결국 제라애의 명을 실행한다.
+  - 카나데라는 직접 실행 명령을 받았으나 이레니아가 껄끄러워 피해다닌다.
+  - 카나데라는 마지막에 크게 망설이다가 이레니아에게 고백하고 도망치게 한다.
