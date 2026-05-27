@@ -30,7 +30,7 @@ updated: 2026-05-28
 - [[sources/current-session-ascendant-correction]] - 승천자가 1000명 단위 대기열이 아니라 본래 자동 자리뺏기 경쟁이며, 현재는 지방 지배 구조와 예우 때문에 둔화되었다는 보정.
 - [[sources/current-session-mage-seat-distribution]] - 마법사 14석의 시조 고정석 3, 주요 세력 시드 4, 이즈쥴·세이리테 제자 중심 순환석 7, 차원술사 귀족의 경쟁 회피 구조 보정.
 - [[sources/current-session-liminaris-hotline]] - 리미나리스 차원술사 귀족의 네리네 직통 핫라인, 법령상 보고 의무, 모두가 아는 정치 연극 구조 보정.
-- [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력으로 보정.
+- [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산 구조로 보정.
 - [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
@@ -152,7 +152,7 @@ updated: 2026-05-28
 - [[concepts/승천자]] - 마법사 예비로 지정된 상위 마술사와 자동 자리뺏기 경쟁, 현재 둔화된 지방 지배형 운용.
 - [[concepts/차원술사 귀족]] - 마법사 경쟁 성공 가능성이 높지만 비전 공개보다 리미나리스 내부 자치를 택한 폐쇄적 차원술 귀족층.
 - [[concepts/리미나리스 뒷문 구조]] - 리미나리스 귀족이 가주 이상행동을 대마법사 네리네에게 직접 보고할 수 있는 법령적 핫라인과 정치 연극.
-- [[concepts/휴리]] - 네리네가 직접 만든 은발·푸른 눈·백색 에텔 적성의 두 번째 차원술사 혈족이자 마법사령의 주요 군사·학술 집단.
+- [[concepts/휴리]] - 네리네가 직접 만든 은발·푸른 눈·백색 에텔 적성의 두 번째 차원술사 혈족이자, 혼혈 지향과 순혈 지배층 재생산이 공존하는 마법사령의 주요 군사·학술 집단.
 
 ## LLM Wiki Sources
 
