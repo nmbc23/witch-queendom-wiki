@@ -1364,3 +1364,21 @@ Notes:
   - 파벌 대립은 필요할 때 안건별 협력으로 전환될 수 있다.
   - 백성들은 유연한 협력을 보고 겉으로만 싸우고 실제로는 한통속이라고 오해한다.
   - 실제 내부의 주도권 싸움은 언제나 치열하며, 협력은 경쟁의 중단이 아니라 전술적 연합이다.
+
+## 2026-05-28 - 차원술사 불문율의 일반인 반응 보정
+
+- 작업: 현재 대화에서 추가된 차원술사 동족 공작 금지 불문율에 대한 일반인의 당연한 윤리 반응을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-unwritten-rule-commoner-reaction.md`
+  - `wiki/concepts/차원술사 동족 공작 금지 불문율.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/리미나리스 의회.md`
+  - `wiki/concepts/리미나리스 의회 좌우파.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 차원술사 귀족 사회에서는 같은 차원술사 귀족을 상대로 모함, 암살, 사기를 하지 않는다는 불문율이 의미 있는 규범이다.
+  - 일반인에게는 이것이 대단한 문명화가 아니라, 원래 다른 사람에게 하면 안 되는 당연한 최소 윤리로 보인다.
+  - 이 반응은 리미나리스 의회와 차원술사 귀족 사회가 일반 시민 윤리가 아니라 폭력 정치의 자기 제한에서 출발했다는 블랙 코미디를 강화한다.
