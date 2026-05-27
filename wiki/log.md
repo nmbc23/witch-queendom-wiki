@@ -1342,3 +1342,25 @@ Notes:
   - 다수결과 토론은 이상주의가 아니라, 차원술사 귀족 사회가 다시 통합 불능 상태에 빠지지 않기 위한 생존 장치다.
   - 일부 차원술사 귀족은 여전히 공작과 암살을 좋아하지만, 같은 차원술사 귀족을 상대로는 하지 않는 불문율이 있다.
   - 이 불문율은 리미나리스 의회가 폭력 정치로 되돌아가지 않기 위한 최소한의 자기 통제 규범이다.
+
+## 2026-05-28 - 리미나리스 의회 좌우파와 한통속 오해 보정
+
+- 작업: 현재 대화에서 추가된 리미나리스 의회 우파/좌파 대립, 파벌 간 유연한 협력, 백성들의 한통속 오해를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-parliament-left-right-factions.md`
+  - `wiki/concepts/리미나리스 의회 좌우파.md`
+  - `wiki/concepts/리미나리스 의회.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/리미나리스 뒷문 구조.md`
+  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 리미나리스 의회는 우파와 좌파, 또는 보수파와 진보파로 갈라져 첨예하게 대립한다.
+  - 파벌 대립은 필요할 때 안건별 협력으로 전환될 수 있다.
+  - 백성들은 유연한 협력을 보고 겉으로만 싸우고 실제로는 한통속이라고 오해한다.
+  - 실제 내부의 주도권 싸움은 언제나 치열하며, 협력은 경쟁의 중단이 아니라 전술적 연합이다.

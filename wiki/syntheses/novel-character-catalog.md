@@ -19,6 +19,7 @@ sources:
   - [[sources/mukere-rinasita-side-stories]]
   - [[sources/current-session-hyuri-bloodline]]
   - [[sources/current-session-liminaris-family-council-parliament]]
+  - [[sources/current-session-liminaris-parliament-left-right-factions]]
   - [[sources/current-session-jerae-sierra-conspiracy]]
   - [[sources/current-session-hyuri-executors]]
   - [[sources/current-session-namaae-hyuri]]
@@ -60,7 +61,7 @@ sources:
 ## 시데이아·아레프 축
 
 - [[entities/sydeia|시데이아]]: 외부 우주적 슈프림 플레인스워커급 차원술사. 시에라에게 주물질계 마술 대응법과 현지 수준을 배웠지만, 핵심 능력은 원래 능력이다.
-- [[entities/aref-accel-seia|아레프 액셀 세이아]]: 시데이아의 여왕령/리미나리스 가면. 반여왕 투사로 명성을 얻은 뒤 리미나리스 진보파의 수장이 되고, 뮤베일의 흔적을 따라 시에라의 숨은 마을에 들어가 제자가 된다.
+- [[entities/aref-accel-seia|아레프 액셀 세이아]]: 시데이아의 여왕령/리미나리스 가면. 반여왕 투사로 명성을 얻은 뒤 리미나리스 진보파의 수장이 된다. 리미나리스 의회는 우파/좌파 또는 보수파/진보파로 갈라져 첨예하게 대립하지만 안건별 협력도 가능하고, 백성들은 이를 한통속으로 오해한다. 아레프는 그 안에서 진보파의 주도권 싸움을 이끄는 인물이다.
 
 ## 에메랄드 타블렛·스테리 축
 

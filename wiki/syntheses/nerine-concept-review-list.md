@@ -14,6 +14,7 @@ sources:
   - [[sources/current-session-liminaris-hotline]]
   - [[sources/current-session-liminaris-family-council-parliament]]
   - [[sources/current-session-liminaris-parliament-origin]]
+  - [[sources/current-session-liminaris-parliament-left-right-factions]]
   - [[sources/current-session-hyuri-bloodline]]
   - [[sources/current-session-jerae-sierra-conspiracy]]
   - [[sources/current-session-hyuri-executors]]
@@ -69,6 +70,7 @@ sources:
 | 확정 | 차원술사 귀족 | 리미나리스에 많이 모인 폐쇄적 차원술 귀족층. 마법사 경쟁 성공 가능성은 높지만 비전 공개보다 내부 자치와 나라 안의 나라를 택한다. |
 | 확정 | 리미나리스 가주회의 | 휴리식 실질 이너서클이 아니라, 밥상머리에서 하는 집안 회의에 가까운 가문 내부 회의. |
 | 확정 | 리미나리스 의회 | 귀족들이 참여해 리미나리스의 중대 사안을 결정하는 정치 무대. 과거 차원술사 귀족이 음모·공작·암살 때문에 외부 위기에 통합 대응하지 못한 일을 반성해 만든 토론·다수결 기구다. 가주의 의향은 절대적이지만 귀족 전체가 반대하는 일까지 실행하지는 못한다. |
+| 확정 | 리미나리스 의회 좌우파 | 우파와 좌파 또는 보수파와 진보파로 나뉘어 첨예하게 대립하지만, 때에 따라 유연한 협력이 가능하다. 백성들은 겉으로만 싸우는 한통속이라고 오해하지만 실제 주도권 싸움은 치열하다. |
 | 확정 | 차원술사 동족 공작 금지 불문율 | 일부 차원술사 귀족은 여전히 공작과 암살을 좋아하지만, 같은 차원술사 귀족 상대로는 하지 않는다는 비공식 규범. |
 | 확정 | 휴리 | 네리네가 직접 만든 두 번째 차원술사 혈족. 은발·푸른 눈·높은 백색 에텔 적성을 공유하며, 마법사령의 핵심 프로젝트·군대·학술 집단이자 리미나리스 견제축이다. 내부적으로는 혼혈을 추구하지만, 네리네가 새 순수 휴리를 고위층에 투입해 지배층을 유지한다. |
 | 확정 | 휴리 가주회의 | 표면의 휴리 행정부와 별개로 실질 의사를 결정하는 이너서클. 네리네로부터 내려온 자들은 참여하지 못하고 존재도 모르며, 초대 디마리 휴리 시절부터 이어진 집안과 네리네와 무관한 휴리만 선택된다. |
