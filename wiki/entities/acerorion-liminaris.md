@@ -13,6 +13,7 @@ sources:
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-character-catalog]]
   - [[syntheses/novel-event-catalog]]
+  - [[sources/current-session-mage-seat-distribution]]
 ---
 
 # 아세로리온 리미나리스
@@ -48,6 +49,8 @@ sources:
 리미나리스령에는 여왕령의 귀족들이 다수 망명해 아세로리온의 신하를 자처한다. 그러나 그들은 진정으로 아세로리온에게 충성하지 않는다. 네리네는 그들에게 뒷문을 연결해두었고, 아세로리온이 이상하면 자신에게 직접 연락하라고 했다.
 
 아세로리온은 모두가 자신을 거치지 않고 네리네에게 조종당한다는 사실을 알고 있었다. 그녀는 자기 영지의 주인처럼 보이지만 실제로는 네리네가 연출한 무대의 조연이었다.
+
+리미나리스의 [[concepts/차원술사 귀족|차원술사 귀족]]들은 마법사 경쟁에서 성공할 재능과 성과를 갖추고도, 자기 비전과 성과를 공공에 공개하기보다 리미나리스 내부에 묶어두려 한다. 그들에게 마법사 승급은 권력 정점이 아니라 네리네 바로 아래 관리가 되는 일에 가깝고, 아세로리온의 가주 권력은 그런 귀족적 폐쇄성과 자치 욕망의 매개가 된다.
 
 ## 뮤베일에게 기대게 된 이유
 
@@ -98,6 +101,7 @@ sources:
 ## 관계
 
 - [[entities/nerine]]: 사랑받았던 어머니이자 버림받은 공포의 근원.
+- [[concepts/차원술사 귀족]]: 아세로리온의 리미나리스가 품은 폐쇄적 차원술 귀족층.
 - [[entities/aika-desmone-mubeil-aiki-lau]]: 진심으로 기대고 사랑한 대상. 동시에 정체를 알고 집착한 여왕.
 - [[entities/meibell-nast]]: 충성스러운 퍼스트 서번트.
 - [[entities/dimari-hyuri]]: 자신을 대체할 휴리의 실체처럼 보이는 공포의 대상.

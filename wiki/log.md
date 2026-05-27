@@ -974,3 +974,27 @@ Notes:
   - 마법사가 되려면 마법 시스템이 마술 발전에 업적을 남겼다고 인정해야 한다.
   - 휴리, 리미나리스, 사도우, 브쥴의 좌석은 가문과 지역 자원을 몰아받는 할당석이며, 나라급 지역에 대한 도전으로 취급되어 사실상 시드급이다.
   - 이즈쥴과 세이리테의 제자들은 빠르게 마법사가 되고 빠르게 초절자로 은퇴하는 순환 경로를 만든다.
+
+## 2026-05-28 - 차원술사 귀족의 마법사 경쟁 회피 보정
+
+- 작업: 현재 대화에서 추가된 리미나리스 차원술사 귀족의 폐쇄성과 마법사 경쟁 회피 동기를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-mage-seat-distribution.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/concepts/승천자.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 차원술사 귀족들은 마법사 경쟁에 참여하면 성공 확률이 높지만, 비전과 성과를 공공에 공유하기보다 리미나리스 내부에 독점하려 한다.
+  - 그들 대부분이 모인 리미나리스는 이미 네리네의 직계 지배령이므로, 마법사 승급은 최고 권력 획득보다 네리네 아래 지사장급 승급처럼 보인다.
+  - 귀족들은 네리네를 직접 상대하기보다 신하 질서와 내부 자치권에 익숙하며, 이 선택은 리미나리스의 나라 안의 나라 욕망을 설명한다.
+  - 아레프는 이 폐쇄 귀족 사회의 진보파 수장으로서, 내부 비전 독점 구조를 바깥 기술과 차원 관측으로 흔드는 예외 변수다.

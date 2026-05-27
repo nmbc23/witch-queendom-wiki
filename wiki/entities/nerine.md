@@ -15,6 +15,7 @@ sources:
   - [[sources/supreme-planeswalker-sydeia]]
   - [[sources/current-session-sydeia-corrections]]
   - [[sources/aradnoa-disappearance]]
+  - [[sources/current-session-mage-seat-distribution]]
 ---
 
 # 네리네 네에나리
@@ -39,6 +40,8 @@ sources:
 네리네는 리미나리스령에 망명한 여왕령 귀족들에게 뒷문을 달아두었다. 아세로리온이 이상하면 자신에게 직접 연락하게 한 것이다. 겉으로는 아세로리온이 리미나리스의 주인처럼 보이나, 실제로는 네리네가 연출한 연극 안에 있었다.
 
 정기 접견에서 네리네는 아세로리온에게 세금이 적게 늘었다고 질책한다. 리미나리스가 버는 돈은 마법사령 전체가 지원해서 번 것이며, 혼자 잘나서 번 것이 아니라고 말한다. 또한 하이시아의 후계를 육성 중이며, 리미나리스만큼 강하고 똑똑한 아이들이 있으니 자꾸 이러면 교체하겠다고 압박한다.
+
+리미나리스에 모인 [[concepts/차원술사 귀족|차원술사 귀족]]들은 마법사 경쟁에 참여하면 성공할 가능성이 높지만, 네리네의 직계 지배령 안에서 최고 권력자 바로 아래 관리로 승급하는 것을 매력적으로 보지 않는다. 그들은 네리네를 직접 상대하기보다 귀족적 신하 질서와 내부 자치권 안에서 나라 안의 나라를 세우는 편을 택한다.
 
 ## 뮤베일 확보 시도
 
@@ -102,6 +105,7 @@ sources:
 - [[entities/aika-desmone-mubeil-aiki-lau]]: 확보하려 한 강자이자, 정체를 모른 채 뮤베일로 대한 여왕.
 - [[entities/chronica-criella]]: 흡혈귀 문제를 떠넘긴 창시자 겸 마법사령 이주자.
 - [[entities/aradnoa-liminaris]]: 숨은 천재로 오판해 리미나리스 중심부로 보낸 시에라의 분체.
+- [[concepts/차원술사 귀족]]: 능력은 있으나 네리네 직할 체제의 공개 경쟁보다 리미나리스 내부 자치를 택한 귀족층.
 - [[entities/haisia]], [[entities/naksha]], [[entities/shugoro-desmone]] 등: 네리네가 보유하거나 호출하는 시조/권능 축.
 
 ## 미확정
