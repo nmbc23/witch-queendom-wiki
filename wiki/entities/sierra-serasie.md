@@ -21,6 +21,7 @@ sources:
   - [[syntheses/aradnoa-disappearance-arc]]
   - [[sources/mukere-rinasita-side-stories]]
   - [[sources/current-session-jerae-sierra-conspiracy]]
+  - [[sources/current-session-hyuri-family-council-inner-circle]]
 ---
 
 # 시에라 세라시에
@@ -102,7 +103,7 @@ sources:
 
 ## 제라애와 반역 공모 흔적
 
-[[entities/jerae-hyuri|제라애 휴리]]는 시에라 세라시에와 함께 네리네에 대한 반역을 공모한 흔적을 가진다. 이 흔적은 [[concepts/휴리 가주회의 회의록|휴리 가주회의 회의록]]에 노골적인 반역 문구로 남아 있지는 않다. 대신 제라애의 수많은 부재 정보와 행적 공백이 남아 있어, 가주 접근권을 얻은 [[entities/irenia-hyuri-34|이레니아 휴리 34]]가 파고들면 시에라에게 닿을 수 있다.
+[[entities/jerae-hyuri|제라애 휴리]]는 시에라 세라시에와 함께 네리네에 대한 반역을 공모한 흔적을 가진다. 이 흔적은 [[concepts/휴리 가주회의 회의록|휴리 가주회의 회의록]]에 노골적인 반역 문구로 남아 있지는 않다. 대신 제라애의 수많은 부재 정보와 행적 공백이 남아 있어, 표면 가주 후보나 행정 권한을 얻은 [[entities/irenia-hyuri-34|이레니아 휴리 34]]가 파고들면 시에라에게 닿을 수 있다.
 
 이 설정은 시에라의 반네리네 행동이 노리어만이 아니라 휴리 정치의 어두운 기록과도 연결됨을 보여준다. 또한 시에라가 직접 전면에 나서기보다, 행적 공백과 우회 접점만 남기는 방식으로 움직였음을 시사한다.
 
