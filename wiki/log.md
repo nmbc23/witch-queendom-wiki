@@ -1320,3 +1320,25 @@ Notes:
   - 진짜 중요한 일은 귀족들이 참여하는 리미나리스 의회에서 결정된다.
   - 가주의 의향은 절대적이지만, 귀족 전체가 반대하는 일까지 실행하지는 못한다.
   - 귀족들의 반대와 파벌 다툼은 가주를 제약하는 동시에, 실패 시 가주가 단독 책임을 지지 않게 하는 책임 분산 장치다.
+
+## 2026-05-28 - 리미나리스 의회 기원과 동족 공작 금지 불문율 보정
+
+- 작업: 현재 대화에서 추가된 리미나리스 의회의 성립 배경, 차원술사 귀족의 폭력 정치 반성, 동족 대상 공작·암살 금지 불문율을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-parliament-origin.md`
+  - `wiki/concepts/리미나리스 의회.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/차원술사 동족 공작 금지 불문율.md`
+  - `wiki/concepts/리미나리스 뒷문 구조.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 리미나리스 의회는 차원술사 귀족들이 과거 음모·공작·암살 때문에 외부 위기에 통합 대응하지 못한 일을 반성해 만든 기구다.
+  - 다수결과 토론은 이상주의가 아니라, 차원술사 귀족 사회가 다시 통합 불능 상태에 빠지지 않기 위한 생존 장치다.
+  - 일부 차원술사 귀족은 여전히 공작과 암살을 좋아하지만, 같은 차원술사 귀족을 상대로는 하지 않는 불문율이 있다.
+  - 이 불문율은 리미나리스 의회가 폭력 정치로 되돌아가지 않기 위한 최소한의 자기 통제 규범이다.
