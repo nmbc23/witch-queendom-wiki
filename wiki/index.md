@@ -30,7 +30,7 @@ updated: 2026-05-28
 - [[sources/current-session-ascendant-correction]] - 승천자가 1000명 단위 대기열이 아니라 본래 자동 자리뺏기 경쟁이며, 현재는 지방 지배 구조와 예우 때문에 둔화되었다는 보정.
 - [[sources/current-session-mage-seat-distribution]] - 마법사 14석의 시조 고정석 3, 주요 세력 시드 4, 이즈쥴·세이리테 제자 중심 순환석 7, 차원술사 귀족의 경쟁 회피 구조 보정.
 - [[sources/current-session-liminaris-hotline]] - 리미나리스 차원술사 귀족의 네리네 직통 핫라인, 법령상 보고 의무, 모두가 아는 정치 연극 구조 보정.
-- [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산 구조로 보정.
+- [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산, 이레니아 가주 후보 지정 구조로 보정.
 - [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
@@ -98,12 +98,12 @@ updated: 2026-05-28
 - [[entities/laplaria-liminaris]] - 아세로리온의 장녀, 휴리 지원을 받는 리미나리스 계승 후보.
 - [[entities/linarirora]] - 아세로리온의 차녀, 레오나와 보석검 지원으로 계승전에 승리하는 후보.
 - [[entities/fanta-hyuri]] - 라플라리아의 검으로 선 차원 방랑 마신, 보석검에 패하는 휴리.
-- [[entities/jerae-hyuri]] - 휴리 상회의 거두, 라플라리아 파벌 지원자.
+- [[entities/jerae-hyuri]] - 현 휴리 가주이자 휴리 상회의 거두, 라플라리아 파벌 지원자, 이레니아의 차기 가주 후보 지정을 경계하는 인물.
 - [[entities/izkata]] - 아라드노아의 소실 무대가 되는 휴리의 차원 방랑 마신/최종 병기이자, 리미나리스에게 공포와 증오를 남긴 완성형 차원 방랑자.
 - [[entities/oriana-hyuri]] - 디마리의 딸이자 아이카 혈통 인과로 이어지는 미래 핵심 인물.
 - [[entities/galieira-hyuri]] - 디마리의 후임 비서, 네리네의 변덕에 시달리는 과로 코미디 인물.
-- [[entities/irenia-hyuri-34]] - 미네바 스탄티아의 팔로 붙은 휴리, 마기나를 증오하는 구출 축.
-- [[entities/sizurinai-liminaris]] - 미네바의 또 다른 팔, 리미나리스의 긍지를 대표하는 구출 축.
+- [[entities/irenia-hyuri-34]] - 네리네가 마법사 후보이자 차기 가주 후보로 내려보낸 휴리, 미네바 스탄티아의 팔과 구출 축.
+- [[entities/sizurinai-liminaris]] - 미네바의 또 다른 팔, 리미나리스의 긍지를 대표하는 구출 축이자 리미나리스식 가주 후보 인재 배치 사례.
 - [[entities/minerva-stantia]] - 네리네의 마지막 계승자 후보, 슈고로 인자 기반의 스탄티아 최고 걸작.
 - [[entities/magina-sadou]] - 미네바를 납치해 사도우 혼혈화를 노린 미래 사건의 가해자.
 - [[entities/minaka-sadou]] - 디마리와 네리네 반역을 공모한 것으로 언급되는 사도우 인물.
