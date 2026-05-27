@@ -1159,3 +1159,28 @@ Notes:
   - 스이카는 결국 제라애의 명을 실행한다.
   - 카나데라는 직접 실행 명령을 받았으나 이레니아가 껄끄러워 피해다닌다.
   - 카나데라는 마지막에 크게 망설이다가 이레니아에게 고백하고 도망치게 한다.
+
+## 2026-05-28 - 나마애 휴리와 명령 지연 보정
+
+- 작업: 현재 대화에서 추가된 제라애의 친딸 나마애 휴리, 이레니아의 오해, 스이카의 집행 명령 지연 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-namaae-hyuri.md`
+  - `wiki/entities/namaae-hyuri.md`
+  - `wiki/sources/current-session-hyuri-executors.md`
+  - `wiki/entities/suika-hyuri.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 가주회의 회의록.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 나마애 휴리는 제라애 휴리의 친딸이다.
+  - 나마애는 제라애의 딸이지만 가주 후보로 고려되지는 않는다.
+  - 이레니아는 나마애 때문에 제라애가 자신을 인정하지 않는다고 오해한다.
+  - 나마애는 이레니아 제거를 부당하다고 여기며, 제라애의 친딸이라는 지위를 이용해 스이카의 명령 실행을 계속 지연시킨다.
+  - 이 지연을 통해 나마애는 이레니아를 구한다.
