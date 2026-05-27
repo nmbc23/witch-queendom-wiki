@@ -28,6 +28,7 @@ updated: 2026-05-28
 - [[sources/mukere-rinasita-side-stories]] - `뮤케레와 리나시타 .md` 외전 묶음에서 추출한 유계, 반복 부활, 에텔, 영면, 미료카리온, 의도된 오답 설정.
 - [[sources/current-session-eternal-sleep-correction]] - 영면 시작 시 유계 의식이 깨어나 현세를 내려다보지만, 현세 마녀에게는 비현실감과 나른한 휴식 유혹으로만 나타난다는 보정.
 - [[sources/current-session-ascendant-correction]] - 승천자가 1000명 단위 대기열이 아니라 본래 자동 자리뺏기 경쟁이며, 현재는 지방 지배 구조와 예우 때문에 둔화되었다는 보정.
+- [[sources/current-session-mage-seat-distribution]] - 마법사 14석의 시조 고정석 3, 주요 세력 몫 4, 순환석 7 구조 보정.
 - [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
 - [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
 - [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
@@ -145,6 +146,7 @@ updated: 2026-05-28
 - [[concepts/의도된 오답]] - 완전한 진실 대신 일부러 조금 틀린 답을 남겨 감시망에서 살아남게 하는 보호 방식.
 - [[concepts/72-대마신|72 대마신]] - 여왕령의 최고위 대마신 좌석/관료/방어 체계.
 - [[concepts/초절자]] - 마법사령의 오래 누적된 상위 마법사/방어 예비 전력.
+- [[concepts/마법사 좌석 구조]] - 마법사 14석의 시조 고정석, 주요 세력 몫, 순환석 배분 구조.
 - [[concepts/승천자]] - 마법사 예비로 지정된 상위 마술사와 자동 자리뺏기 경쟁, 현재 둔화된 지방 지배형 운용.
 
 ## LLM Wiki Sources
