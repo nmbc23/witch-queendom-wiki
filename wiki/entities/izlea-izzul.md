@@ -1,7 +1,7 @@
 ---
 type: entity
 status: reviewed
-updated: 2026-05-11
+updated: 2026-05-28
 tags:
   - 소설/보석검파트
 aliases:
@@ -11,11 +11,14 @@ part:
 sources:
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-character-catalog]]
+  - [[sources/current-session-mage-seat-distribution]]
 ---
 
 # 이즐레아 이즈쥴
 
 이즐레아 이즈쥴은 네리네와 같은 14시조 중 하나다. 네리네와 사이가 나쁘기 때문에, 네리네에 대항하는 자라면 누구든 묻지도 따지지도 않고 힘을 빌려주는 인물로 정리된다.
+
+마법사 좌석 구조에서는 네리네, 세이첼 세아루프 세이리테와 함께 3개 시조 고정석 중 하나를 차지한다. 또한 대부분의 7개 순환 마법사가 이즐레아와 세이리테의 제자 계열에서 나왔다는 점에서, 이즐레아는 순환석 인재 공급축이기도 하다.
 
 ## 아세로리온 지원
 
@@ -42,9 +45,11 @@ sources:
 
 - [[entities/nerine]]: 사이가 나쁜 같은 14시조.
 - [[entities/acerorion-liminaris]]: 지원했다가 흡혈귀화를 보고 손을 뗀 대상.
+- [[entities/searup-seirite]]: 순환석 마법사와 초절자 배출에서 함께 핵심 제자 계보를 이루는 시조 축.
 
 ## 미확정
 
 - 이즐레아와 네리네의 불화 원인.
 - 14시조 내 이즐레아의 권능.
+- 이즐레아 제자 중 실제 순환석 마법사와 초절자로 확인되는 인물 명단.
 

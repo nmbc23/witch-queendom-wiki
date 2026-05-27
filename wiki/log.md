@@ -955,3 +955,22 @@ Notes:
   - 휴리, 리미나리스, 사도우, 브쥴은 한 자리씩 나눠먹는다.
   - 남은 7석이 사실상 순환하는 마법사 자리다.
   - 승천자 경쟁은 실질적으로 이 7개 순환석과 주요 세력 내부 교체 문제에 집중된다.
+
+## 2026-05-28 - 순환석과 시드석 보정
+
+- 작업: 현재 대화에서 추가된 순환 7석의 출신 계보와 지역 할당석의 시드 성격을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-mage-seat-distribution.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/concepts/승천자.md`
+  - `wiki/concepts/초절자.md`
+  - `wiki/entities/izlea-izzul.md`
+  - `wiki/entities/searup-seirite.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 대부분의 7개 순환 마법사는 이즐레아 이즈쥴과 세이첼 세아루프 세이리테의 제자들에게서 나왔다.
+  - 마법사가 되려면 마법 시스템이 마술 발전에 업적을 남겼다고 인정해야 한다.
+  - 휴리, 리미나리스, 사도우, 브쥴의 좌석은 가문과 지역 자원을 몰아받는 할당석이며, 나라급 지역에 대한 도전으로 취급되어 사실상 시드급이다.
+  - 이즈쥴과 세이리테의 제자들은 빠르게 마법사가 되고 빠르게 초절자로 은퇴하는 순환 경로를 만든다.
