@@ -1240,3 +1240,29 @@ Notes:
   - 네리네는 이즈카타의 존재를 알고 있으며, 거역에 대비해 차원 닻을 만들어두었다.
   - 이레니아는 네리네가 알려주지 않았기 때문에 이즈카타의 존재를 모른다.
   - 기존 회의록/시에라 공모 흔적은 방첩상의 공포로 유지하고, 제라애가 이레니아를 인정하지 않는 진짜 계승 사유는 이즈카타로 상위 보정했다.
+
+## 2026-05-28 - 이레니아 축출 계획의 즉시 제거 격상 보정
+
+- 작업: 현재 대화에서 추가된 "이즈카타가 있기에 제라애가 가주회의에서 이레니아 축출 계획을 모조리 말했고, 이후 부재기록 위험을 깨달아 즉시 제거로 격상했다"는 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-irenia-elimination-escalation.md`
+  - `wiki/concepts/제라애의 이레니아 제거 명령.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/namaae-hyuri.md`
+  - `wiki/entities/suika-hyuri.md`
+  - `wiki/entities/kanadera-hyuri.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 가주회의 회의록.md`
+  - `wiki/concepts/제라애의 사후 암살 지시.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 이즈카타 휴리 6이 있기 때문에 제라애는 이레니아를 내칠 계획을 가주회의에서 노골적으로 말했다.
+  - 이후 점검에서 이레니아가 회의록 내용보다 수많은 제라애의 부재기록을 캐물을 위험이 높다는 사실을 깨닫는다.
+  - 이 때문에 판단은 단순 축출이 아니라 즉시 제거 명령으로 격상된다.
+  - 스이카와 카나데라는 이즈카타가 진짜 가주 후보라 해도 즉시 제거는 심한 것 아닌가 생각하지만, 제라애와 시에라의 관계를 몰라 진짜 방첩 이유는 알지 못한다.
