@@ -34,6 +34,7 @@ updated: 2026-05-28
 - [[sources/current-session-liminaris-parliament-origin]] - 리미나리스 의회가 과거 차원술사 귀족의 음모·공작·암살 실패를 반성해 만든 토론·다수결 기구라는 보정.
 - [[sources/current-session-liminaris-parliament-left-right-factions]] - 리미나리스 의회 좌우파의 첨예한 대립, 유연한 협력, 백성의 한통속 오해 보정.
 - [[sources/current-session-liminaris-unwritten-rule-commoner-reaction]] - 차원술사 동족 공작 금지 불문율이 일반인에게는 당연한 최소 윤리로 보인다는 사회적 인식 보정.
+- [[sources/current-session-liminaris-openness-spy-network]] - 휴리의 순혈 지배층과 대비되는 리미나리스의 개방성, 역동성, 네리네·여왕령 첩보망 보정.
 - [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산, 이레니아 가주 후보 지정 구조로 보정.
 - [[sources/current-session-jerae-sierra-conspiracy]] - 제라애가 이레니아를 경계하는 진짜 이유인 시에라 공모 흔적, 회의록, 부재 정보 접근 위험과 네리네 사망 시 기록 폐기 보정.
 - [[sources/current-session-hyuri-executors]] - 제라애의 명을 받드는 휴리 실권자 스이카와 카나데라, 이레니아 제거 명령, 고백과 도주 조력 보정.
@@ -165,6 +166,7 @@ updated: 2026-05-28
 - [[concepts/마법사 좌석 구조]] - 마법사 14석의 시조 고정석, 주요 세력 시드, 이즈쥴·세이리테 제자 중심 순환석 배분 구조.
 - [[concepts/승천자]] - 마법사 예비로 지정된 상위 마술사와 자동 자리뺏기 경쟁, 현재 둔화된 지방 지배형 운용.
 - [[concepts/차원술사 귀족]] - 마법사 경쟁 성공 가능성이 높지만 비전 공개보다 리미나리스 내부 자치를 택한 폐쇄적 차원술 귀족층.
+- [[concepts/리미나리스 개방성과 첩보 오염]] - 리미나리스가 외부 개방성으로 역동성을 얻는 대신 네리네와 여왕령 첩자가 산재하는 보안 취약성을 설명하는 구조.
 - [[concepts/리미나리스 뒷문 구조]] - 리미나리스 귀족이 가주 이상행동을 대마법사 네리네에게 직접 보고할 수 있는 법령적 핫라인과 정치 연극.
 - [[concepts/리미나리스 가주회의]] - 실질 이너서클이 아니라 밥상머리 집안 회의에 가까운 리미나리스 가문 내부 회의.
 - [[concepts/리미나리스 의회]] - 귀족들이 참여해 리미나리스 중대 사안을 결정하며, 가주 의향과 귀족 전체 반대의 한계선을 조율하는 정치 무대.

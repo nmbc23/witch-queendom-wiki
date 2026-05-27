@@ -1382,3 +1382,25 @@ Notes:
   - 차원술사 귀족 사회에서는 같은 차원술사 귀족을 상대로 모함, 암살, 사기를 하지 않는다는 불문율이 의미 있는 규범이다.
   - 일반인에게는 이것이 대단한 문명화가 아니라, 원래 다른 사람에게 하면 안 되는 당연한 최소 윤리로 보인다.
   - 이 반응은 리미나리스 의회와 차원술사 귀족 사회가 일반 시민 윤리가 아니라 폭력 정치의 자기 제한에서 출발했다는 블랙 코미디를 강화한다.
+
+## 2026-05-28 - 리미나리스 개방성과 첩보 오염 보정
+
+- 작업: 현재 대화에서 추가된 휴리의 순혈 지배층 유지와 리미나리스의 상대적 개방성, 그로 인한 네리네·여왕령 첩보망 산재 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-openness-spy-network.md`
+  - `wiki/concepts/리미나리스 개방성과 첩보 오염.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/리미나리스 뒷문 구조.md`
+  - `wiki/concepts/리미나리스 의회 좌우파.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 휴리는 지배층의 순수성을 유지하지만, 리미나리스는 상대적으로 외부에 열려 있다.
+  - 리미나리스는 외부 유입이 공급하는 역동성을 자랑으로 여기지만, 보안과 개방성은 양립하기 어렵다.
+  - 네리네가 따로 견제할 필요도 없이 리미나리스 곳곳에는 네리네의 첩자가 산재한다.
+  - 여왕령 첩자도 많으며, 일부는 보수파 귀족들과 연결되어 있고 이것은 비밀도 아니다.

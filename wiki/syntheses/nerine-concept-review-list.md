@@ -16,6 +16,7 @@ sources:
   - [[sources/current-session-liminaris-parliament-origin]]
   - [[sources/current-session-liminaris-parliament-left-right-factions]]
   - [[sources/current-session-liminaris-unwritten-rule-commoner-reaction]]
+  - [[sources/current-session-liminaris-openness-spy-network]]
   - [[sources/current-session-hyuri-bloodline]]
   - [[sources/current-session-jerae-sierra-conspiracy]]
   - [[sources/current-session-hyuri-executors]]
@@ -69,6 +70,7 @@ sources:
 | 확정 | 데스모네 | 아이카의 왕가/혈통, 수호 주술과 대마신 체계의 중심. |
 | 확정 | 리미나리스 | 차원술·연구시설·가주 정치·보석검 공방의 중심 가문/영지. |
 | 확정 | 차원술사 귀족 | 리미나리스에 많이 모인 폐쇄적 차원술 귀족층. 마법사 경쟁 성공 가능성은 높지만 비전 공개보다 내부 자치와 나라 안의 나라를 택한다. |
+| 확정 | 리미나리스 개방성과 첩보 오염 | 리미나리스는 휴리보다 외부에 열려 있어 역동성을 자랑하지만, 보안과 개방성이 양립하기 어려워 네리네 첩자와 여왕령 첩자가 곳곳에 산재한다. 일부 여왕령 첩자는 보수파 귀족과 연결되어 있으며, 이것은 비밀도 아니다. |
 | 확정 | 리미나리스 가주회의 | 휴리식 실질 이너서클이 아니라, 밥상머리에서 하는 집안 회의에 가까운 가문 내부 회의. |
 | 확정 | 리미나리스 의회 | 귀족들이 참여해 리미나리스의 중대 사안을 결정하는 정치 무대. 과거 차원술사 귀족이 음모·공작·암살 때문에 외부 위기에 통합 대응하지 못한 일을 반성해 만든 토론·다수결 기구다. 가주의 의향은 절대적이지만 귀족 전체가 반대하는 일까지 실행하지는 못한다. |
 | 확정 | 리미나리스 의회 좌우파 | 우파와 좌파 또는 보수파와 진보파로 나뉘어 첨예하게 대립하지만, 때에 따라 유연한 협력이 가능하다. 백성들은 겉으로만 싸우는 한통속이라고 오해하지만 실제 주도권 싸움은 치열하다. |
