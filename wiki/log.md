@@ -1,7 +1,7 @@
 ﻿---
 type: log
 status: draft
-updated: 2026-05-16
+updated: 2026-05-28
 ---
 
 # Wiki Log
@@ -1113,3 +1113,25 @@ Notes:
   - 회의록 자체에는 네리네에 대한 직접 반역 문구가 없다.
   - 그러나 제라애의 부재 정보와 행적 공백을 추적하면 시에라 세라시에에게 접근할 수 있다.
   - 이레니아의 가주 후보 지위는 단순 승계 경쟁이 아니라, 제라애의 방첩 약점을 건드리는 위험한 접근권 문제다.
+
+## 2026-05-28 - 네리네 사망 시 회의록 폐기와 이레니아 수용 보정
+
+- 작업: 현재 대화에서 추가된 네리네 사망 분기 조건을 제라애, 이레니아, 휴리 가주회의 회의록 설정에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-jerae-sierra-conspiracy.md`
+  - `wiki/concepts/휴리 가주회의 회의록.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 네리네가 살아 있는 동안 휴리 가주회의 회의록은 제라애의 방첩 약점이다.
+  - 네리네가 사망한 분기에서는 제라애가 자기 권한으로 회의록을 폐기하고, 해당 시기의 기록은 관리 소홀로 사라졌다고 처리할 수 있다.
+  - 눈치를 줄 상위권자가 사라졌기 때문에 기록 폐기를 제지할 권위도 사라진다.
+  - 이 조건에서는 이레니아가 제라애의 치명적 증거 접근자가 아니게 되며, 역설적으로 휴리의 일원으로 수용될 수 있다.
