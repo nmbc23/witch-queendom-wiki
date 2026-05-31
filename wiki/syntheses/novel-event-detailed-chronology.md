@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-northern-lake-sierra-beast-hunt]]
   - [[sources/current-session-izlea-seichel-founder-opposition]]
   - [[sources/current-session-bzul-border-five-great-demons]]
   - [[sources/current-session-bzul-defection-chronica-precedent]]
@@ -114,7 +115,7 @@ sources:
 
 - 관련 인물: [[entities/acerorion-liminaris]], [[entities/aika-desmone-mubeil-aiki-lau]].
 - 사건: 아세로리온은 뮤베일을 서번트로 만들고 최북단 호수의 영주로 임명해 리미나리스에 붙잡으려 한다.
-- 배경: 최북단 호수는 과거 마수가 많아 사람이 살기 어려웠지만, 마수는 줄고 풍부한 마나가 남아 개발 가치가 커진 땅이다.
+- 배경: 최북단 호수는 과거 마수가 많아 사람이 살기 어려웠지만, 마수는 줄고 풍부한 마나가 남아 개발 가치가 커진 땅이다. 리미나리스는 북부 호수가 이상하게 좋아진다고만 느끼지만, 실제로는 시에라가 마법 범위가 닿기 전부터 거주하며 마수를 사냥하고 미니어처 시티 기반으로 삼은 결과다.
 - 결과: 아세로리온은 뮤베일과 북부 호수 여행을 떠난다.
 
 ## 2. 최북단 호수와 시에라의 암살 시도
@@ -124,6 +125,7 @@ sources:
 - 관련 인물: [[entities/acerorion-liminaris]], [[entities/aika-desmone-mubeil-aiki-lau]].
 - 사건: 아세로리온과 뮤베일은 황금 수해를 지나 최북단 호수로 향한다.
 - 전개: 아세로리온은 뮤베일이라면 이 땅을 누구보다 번영시킬 수 있다고 말한다.
+- 배경: 호수 지대는 시에라의 선행 마수 사냥 때문에 사람이 살 수 있을 만큼 안정되었지만, 리미나리스는 그 원인을 알지 못한다.
 - 아이카의 속내: 좋은 땅이지만 리미나리스 깊숙한 영토라 자신의 영토에 합칠 수 없고, 애초에 받을 생각도 없다.
 
 ### E02-02. 온천의 슈시에 엘이 여왕을 알아본다
@@ -138,6 +140,7 @@ sources:
 - 관련 인물: [[entities/sierra-serasie]], [[entities/sushie-el]], [[entities/aika-desmone-mubeil-aiki-lau]], [[entities/acerorion-liminaris]].
 - 사건: 시에라는 네블레이드해두었던 마룡과 여러 마수를 풀어 마을을 습격하게 한다.
 - 세부 마수: 마룡, 담수 크라켄, 걸어다니는 거대 식인 식물, 식인 날도마뱀, 흑수정 땅돼지, 기생 말벌 어미.
+- 배경: 이 마수들은 시에라가 북부 호수에 거주하며 사냥해두었던 위험 자산이며, 사냥된 마수 상당수는 미니어처 시티의 기반에 쓰였다.
 - 의도: 마룡은 자신을 가둔 자의 마력 파동을 기억하고 있었고, 그 파동은 슈시에 엘과 같았다. 시에라는 슈시에가 대피 도중 잡아먹히고 그 곁의 아이카도 위험해지기를 노린다.
 - 결과: 아이카는 암살 시도라고 생각하지 못하고 운 나쁜 마수 습격으로 받아들인다.
 

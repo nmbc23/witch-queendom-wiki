@@ -1,7 +1,7 @@
 ---
 type: entity
 status: reviewed
-updated: 2026-05-31
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-northern-lake-sierra-beast-hunt]]
   - [[sources/acerorion-image-reference-and-session-check]]
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-character-catalog]]
@@ -74,7 +75,7 @@ sources:
 
 ## 최북단 호수 계획
 
-아세로리온은 뮤베일을 서번트로 만들고 최북단 호수의 영주로 임명하려 한다. 그 땅은 한때 마수 때문에 사람이 살기 어려웠지만, 마수는 점차 줄고 풍부한 마나만 남아 꿀땅이 되어가고 있었다.
+아세로리온은 뮤베일을 서번트로 만들고 최북단 호수의 영주로 임명하려 한다. 그 땅은 한때 마수 때문에 사람이 살기 어려웠지만, 마수는 점차 줄고 풍부한 마나만 남아 꿀땅이 되어가고 있었다. 아세로리온과 리미나리스는 이를 이상하게 북부 호수가 갈수록 좋아지는 현상으로만 보았지만, 실제로는 시에라가 마법의 범위가 닿기 전부터 그곳에 거주하며 마수를 사냥한 결과였다.
 
 아세로리온은 뮤베일과 함께 황금 수해를 지나 호수로 여행하고, 온천에서 너라면 이 땅을 누구보다 번영시킬 수 있다고 말한다. 실제로는 시에라의 분체 슈시에 엘이 여왕을 알아보고 비상사태에 들어가면서, 이 여행은 마수 습격 사건으로 이어진다.
 

@@ -2516,3 +2516,33 @@ Notes:
   - 시에라가 대통령으로 불리는 선출·추대·관습의 근거.
   - 시에라가 네리네를 먼저 공격할 수 없는 마법적·정치적 조건.
   - 선공권 확보 시 시에라의 승률이 높아지는 전술 구조.
+
+## 2026-06-01 - 북부 호수 시에라 마수 사냥과 리미나리스 오해 보정
+
+- 작업: 현재 대화에서 추가된 북부 호수 마수 감소의 실제 원인, 시에라의 마법 범위 도달 전 거주와 마수 사냥, 사냥된 마수의 미니어처 시티 기반화, 리미나리스의 오해를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-northern-lake-sierra-beast-hunt.md`
+  - `wiki/concepts/시에라의 북부 호수 미니어처 시티.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/events/최북단 호수와 시에라의 마수 습격 사건.md`
+  - `wiki/concepts/리미나리스.md`
+  - `wiki/concepts/리미나리스 조직 구조.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/events/아세로리온의 뮤베일 신하화 계획.md`
+  - `wiki/events/황금 수해와 최북단 호수 여행.md`
+  - `wiki/events/시에라의 마수 방출.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 북부 호수 지대가 사람이 살 수 있을 정도로 마수가 줄어든 것은 시에라가 아직 마법의 범위가 닿기 전에 이곳에 거주하며 마수를 사냥했기 때문이다.
+  - 사냥된 마수들은 시에라의 북부 호수 미니어처 시티 기반에 쓰였다.
+  - 리미나리스는 이 진상을 모르고, 북부 호수가 이상하게 갈수록 좋아진다고만 느꼈다.
+  - 아세로리온이 최북단 호수를 매력적인 영지 자산으로 본 배경에는 시에라의 은닉 작업이라는 보이지 않는 선행 정화가 있다.
+- 검삭 필요:
+  - 시에라가 사냥한 대표 마수 목록과 각 마수가 미니어처 시티 기반에 쓰인 방식.
+  - 마법의 범위가 북부 호수에 닿기 전후의 시점과 경계.
+  - 리미나리스가 북부 호수 개선을 공식 기록과 경제 지표에서 어떻게 해석했는지.
+  - 시에라가 일부 포식자를 남긴 생태계 유지 기준.
