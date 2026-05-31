@@ -1,4 +1,4 @@
-import { SERVICES, computeWindowLayout } from "./services.js";
+import { SERVICES, computeWindowLayout, pickExistingServiceTab } from "./services.js";
 
 const tabByService = new Map();
 let panelWindowId = null;
@@ -28,6 +28,14 @@ async function openService(serviceId, layout) {
     await chrome.windows.update(existingTab.windowId, layout[serviceId]);
     await chrome.tabs.update(existingTab.id, { active: true });
     return existingTab.id;
+  }
+  const serviceTabs = await chrome.tabs.query({ url: service.hostPattern }).catch(() => []);
+  const reusableTab = pickExistingServiceTab(serviceTabs, serviceId);
+  if (reusableTab?.windowId) {
+    tabByService.set(serviceId, reusableTab.id);
+    await chrome.windows.update(reusableTab.windowId, layout[serviceId]);
+    await chrome.tabs.update(reusableTab.id, { active: true });
+    return reusableTab.id;
   }
   const win = await chrome.windows.create({ url: service.url, type: "normal", ...layout[serviceId] });
   const tabId = win.tabs?.[0]?.id;

@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { SERVICES, computeWindowLayout } from "../services.js";
+import { SERVICES, computeWindowLayout, pickExistingServiceTab, serviceIdFromUrl } from "../services.js";
 
 test("SERVICES defines the three initial targets in display order", () => {
   assert.deepEqual(Object.keys(SERVICES), ["chatgpt", "claude", "aistudio"]);
@@ -16,4 +16,22 @@ test("computeWindowLayout reserves a control strip and three service columns", (
   assert.equal(layout.chatgpt.width, 520);
   assert.equal(layout.claude.left, 880);
   assert.equal(layout.aistudio.left, 1400);
+});
+
+test("serviceIdFromUrl maps supported service URLs", () => {
+  assert.equal(serviceIdFromUrl("https://chatgpt.com/c/abc"), "chatgpt");
+  assert.equal(serviceIdFromUrl("https://claude.ai/chat/abc"), "claude");
+  assert.equal(serviceIdFromUrl("https://aistudio.google.com/app/prompts/abc"), "aistudio");
+  assert.equal(serviceIdFromUrl("https://example.com/"), null);
+});
+
+test("pickExistingServiceTab reuses the first matching tab", () => {
+  const tabs = [
+    { id: 11, windowId: 101, url: "https://example.com/" },
+    { id: 12, windowId: 102, url: "https://claude.ai/chat/abc" },
+    { id: 13, windowId: 103, url: "https://claude.ai/new" }
+  ];
+
+  assert.deepEqual(pickExistingServiceTab(tabs, "claude"), tabs[1]);
+  assert.equal(pickExistingServiceTab(tabs, "chatgpt"), null);
 });

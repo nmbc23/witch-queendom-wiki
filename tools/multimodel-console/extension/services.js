@@ -16,6 +16,23 @@ export const SERVICES = {
   }
 };
 
+export function serviceIdFromUrl(url) {
+  let parsed;
+  try {
+    parsed = new URL(url);
+  } catch {
+    return null;
+  }
+  if (parsed.hostname === "chatgpt.com") return "chatgpt";
+  if (parsed.hostname === "claude.ai") return "claude";
+  if (parsed.hostname === "aistudio.google.com") return "aistudio";
+  return null;
+}
+
+export function pickExistingServiceTab(tabs, serviceId) {
+  return tabs.find((tab) => serviceIdFromUrl(tab.url) === serviceId) || null;
+}
+
 export function computeWindowLayout(bounds) {
   const panelWidth = Math.min(420, Math.max(320, Math.floor(bounds.width * 0.1875)));
   const serviceWidth = Math.floor((bounds.width - panelWidth) / 3);
