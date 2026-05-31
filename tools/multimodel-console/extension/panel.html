@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Multimodel Console</title>
+    <link rel="stylesheet" href="panel.css">
+  </head>
+  <body>
+    <main>
+      <h1>Multimodel Console</h1>
+      <label class="field">
+        <span>Run title</span>
+        <input id="title" type="text" value="multimodel-run">
+      </label>
+      <label class="field">
+        <span>Prompt</span>
+        <textarea id="prompt" rows="12" spellcheck="true"></textarea>
+      </label>
+      <section class="targets" aria-label="Targets">
+        <label><input type="checkbox" value="chatgpt" checked> ChatGPT</label>
+        <label><input type="checkbox" value="claude" checked> Claude</label>
+        <label><input type="checkbox" value="aistudio" checked> AI Studio</label>
+      </section>
+      <div class="actions">
+        <button id="openArrange">Open/Arrange</button>
+        <button id="sendAll">Send to all</button>
+        <button id="capture">Capture results</button>
+        <button id="save">Save run</button>
+      </div>
+      <label class="field">
+        <span>Capture notes</span>
+        <textarea id="notes" rows="4"></textarea>
+      </label>
+      <section id="status" class="status" aria-live="polite"></section>
+    </main>
+    <script src="panel.js"></script>
+  </body>
+</html>
