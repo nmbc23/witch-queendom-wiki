@@ -1,7 +1,7 @@
 ---
 type: entity
 status: draft
-updated: 2026-05-31
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-haisia-hyuri-capital-shock]]
   - [[sources/current-session-fanta-larata-planeswalker-twins]]
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-character-catalog]]
@@ -56,6 +57,8 @@ sources:
 그런 하이시아의 이름과 형질이 "휴리"라는 수십만 인구의 계획 혈족으로 나타난 일은, 마법사령이 어떤 집단인지를 보여주는 충격적인 증거였다. 마법사령은 한 개인의 고유한 형질과 계보 단절의 비극마저 유전자 클론과 혈통 혼합으로 재가공해, 군사·학술·행정 집단으로 확장할 수 있는 체제처럼 보인다.
 
 이 충격은 여왕령 마녀들이 마법사령을 단순한 적국이나 경쟁 세력이 아니라, 혈통과 정체성까지 설계 재료로 다루는 질서로 인식하게 만드는 계기가 된다.
+
+특히 하이시아를 직접 알던 여왕령의 과거 마신들이 휴리 수도에 와서 하이시아의 후손이 우글거리는 광경을 볼 때, 이 충격은 정보나 소문을 넘어 신체 반응으로 터진다. 그들은 초현실적인 감각 속에서 다리에 힘이 풀리고, 가슴이 덜컹거리고, 눈에 공포가 서리는 반응을 보인다. 하이시아 개인에게 품고 있던 존경과 공포가 수십만 규모의 후손 집단을 통해 수백 배로 증폭되기 때문이다.
 
 ## 마신화의 동기
 
