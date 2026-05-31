@@ -26,6 +26,7 @@ updated: 2026-06-01
 - [[sources/current-session-aref-sierra-additions]] - 아레프가 숨은 마을에서 시에라에게 들은 뮤베일 분체, 아이카 포말 연구, 괴조 의혹, 보석검 실패감 설정.
 - [[sources/current-session-sierra-northern-lake-miniature-city]] - 시에라가 북부 호수 동굴 속 미니어처 시티에서 대통령으로 불리며 숨어 힘을 기르고, 선공권이 있을 때만 네리네 상대 승률이 높다는 보정.
 - [[sources/current-session-northern-lake-sierra-beast-hunt]] - 북부 호수 마수 감소가 시에라의 마법 범위 도달 전 사냥과 미니어처 시티 기반 조성 때문이며, 리미나리스는 이를 알지 못했다는 보정.
+- [[sources/current-session-sierra-northern-lake-inn-avatar]] - 북부 호수 리미나리스 개척 마을에 시에라 세라시에의 여관 종업원용 분체가 활동 중이라는 보정.
 - [[sources/current-session-sierra-hidden-influence-network]] - 시에라가 휴리·리미나리스·스테리·브줄 계열에 분체와 비밀조직으로 영향력을 뿌리고, 리미나리스 의회 좌파·휴리 코어 차원술사 사이드·브줄 승천자 모임·스테리 대체신 건조연구회를 대표 영향 조직으로 둔다는 보정.
 - [[sources/aradnoa-disappearance]] - `아라드노아의 소실.txt`와 2026-05-05 대화에서 추출한 아라드노아 분체, 소실, 노리어, 스자스 루트 분기 요약.
 - [[sources/mukere-rinasita-side-stories]] - `뮤케레와 리나시타 .md` 외전 묶음에서 추출한 유계, 반복 부활, 에텔, 영면, 미료카리온, 의도된 오답 설정.
@@ -130,9 +131,9 @@ updated: 2026-06-01
 - [[entities/chronica-criella]] - 공유 주술 창시자, 흡혈 마술 오용의 책임자, 신도와 백성을 이끌고 마법사령에 투항한 보호자, 흡혈귀 단속 담당의 행적.
 - [[entities/szas-sreya]] - 처형 귀족, 검은 마견 이미지, 카마소 자멸 판단과 훗날 카밀라 재구축 기반의 행적.
 - [[entities/laroka]] - 질량 있는 환영의 마녀, 스자스의 동문, 카밀라 재구축 공범의 행적.
-- [[entities/sierra-serasie]] - 마법 창시자, 스자스와 라로카의 스승, 북부 호수 동굴 속 미니어처 시티의 대통령으로 숨어 힘을 기르며 리미나리스 의회 좌파·휴리 코어 차원술사 사이드·브줄 승천자 모임·스테리 대체신 건조연구회에 은닉 영향력을 뿌리는 인물.
+- [[entities/sierra-serasie]] - 마법 창시자, 스자스와 라로카의 스승, 북부 호수 동굴 속 미니어처 시티의 대통령으로 숨어 힘을 기르며 북부 호수 개척 마을의 여관 종업원용 분체와 여러 은닉 영향망을 운용하는 인물.
 - [[entities/miriokarion]] - 유계와 우주론에 거의 도달했으나 의도된 오답 덕분에 살아남고, 죽은 뒤 시에라 진체에 감사가 닿는 학자.
-- [[entities/sushie-el]] - 시에라의 분체이자 북부 호수 온천 종업원, 여왕을 알아보고 희생양이 된 행적.
+- [[entities/sushie-el]] - 시에라의 분체이자 북부 호수 리미나리스 개척 마을의 여관/온천 종업원용 현장 분체, 여왕을 알아보고 희생양이 된 행적.
 - [[entities/kamaso-kamila]] - 영지 전체 흡혈 의식으로 얼티밋급 혈핵 재난이 된 북부 영주의 행적.
 - [[entities/meijers-desmone-medalicia]] - 강제 승리 포말로 카마소 카밀라의 직격을 버틴 듯 보인 마녀 대장군의 행적.
 - [[entities/nigede-gedenia]] - 식물성 피 열매를 개발해 크로니카의 흡혈귀 단속을 가능하게 한 생물학계 대마신.

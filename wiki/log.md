@@ -2614,3 +2614,31 @@ Notes:
   - 핵심 인물들이 시에라를 어떤 정체로 오해했는지.
   - 네 조직이 서로를 시에라 영향권으로 인식하는지, 완전히 별개 흐름인지.
   - 마법사령 수사부가 각 조직을 파고들다 수사를 중지한 대표 사건.
+
+## 2026-06-01 - 북부 호수 개척 마을의 시에라 여관 분체 보정
+
+- 작업: 현재 대화에서 추가된 북부 호수 리미나리스 개척 마을의 시에라 세라시에 여관 종업원용 분체 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-sierra-northern-lake-inn-avatar.md`
+  - `wiki/sources/current-session-northern-lake-sierra-beast-hunt.md`
+  - `wiki/entities/sushie-el.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/concepts/시에라의 북부 호수 미니어처 시티.md`
+  - `wiki/concepts/리미나리스.md`
+  - `wiki/concepts/리미나리스 조직 구조.md`
+  - `wiki/events/최북단 호수와 시에라의 마수 습격 사건.md`
+  - `wiki/events/온천의 슈시에 엘이 여왕을 알아본다.md`
+  - `wiki/events/황금 수해와 최북단 호수 여행.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 당장 북부 호수에 세워진 리미나리스 개척 마을에는 시에라 세라시에의 여관 종업원용 분체가 활동 중이다.
+  - 슈시에 엘은 단순히 사건 당일 온천에 우연히 등장한 종업원이 아니라, 그 개척 마을의 숙박·온천 시설에 섞인 현장 분체로 정리했다.
+  - 여관과 온천은 외부 방문자와 개척민이 드나드는 생활 인프라이므로, 시에라는 이 위장을 통해 북부 호수 개발과 방문자를 관찰한다.
+  - 리미나리스는 이 분체의 정체를 모른 채, 북부 호수 개척을 자기들의 공식 성과로 이해한다.
+- 검삭 필요:
+  - 북부 호수 개척 마을의 공식 명칭과 규모.
+  - 여관/온천 시설을 운영하는 리미나리스 귀족 법인 또는 재단.
+  - 슈시에 엘이 여관 종업원용 분체의 고유 개체인지, 같은 용도의 여러 분체 중 하나인지.
+  - 이 분체의 우선 임무가 개척민 감시, 외부 방문자 감지, 미니어처 시티 보안 중 무엇인지.

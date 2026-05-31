@@ -1,14 +1,18 @@
 ---
 type: entity
 status: reviewed
-updated: 2026-04-28
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
   - 슈시에 엘
+  - 북부 호수 여관 종업원용 분체
+  - 여관 종업원용 분체
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-sierra-northern-lake-inn-avatar]]
+  - [[sources/current-session-northern-lake-sierra-beast-hunt]]
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-character-catalog]]
 ---
@@ -16,6 +20,14 @@ sources:
 # 슈시에 엘
 
 슈시에 엘은 최북단 호수 온천의 종업원으로 등장하는 시에라 세라시에의 분체다. 겉보기에는 평범한 종업원이지만, 뮤베일을 보고 그 정체가 여왕 아이카임을 알아챈다.
+
+## 개척 마을의 현장 분체
+
+슈시에 엘은 단순히 사건 당일 온천에 우연히 배치된 종업원이 아니라, 북부 호수에 세워진 [[concepts/리미나리스|리미나리스]] 개척 마을에서 활동 중인 여관 종업원용 분체로 정리된다.
+
+이 신분은 시에라가 북부 호수 개척 마을의 생활 인프라 안에 자연스럽게 섞이기 위한 위장이다. 여관과 온천은 외부 방문자, 개척민, 리미나리스 관계자가 오가는 장소이므로, 슈시에 엘은 북부 호수의 변화를 현장에서 감지하는 눈이 된다.
+
+리미나리스는 이 종업원이 [[entities/sierra-serasie|시에라 세라시에]]의 분체라는 사실을 모른다. 그들에게 슈시에 엘은 개척 마을의 평범한 숙박·온천 시설 종업원이다.
 
 ## 북부 호수 사건
 
@@ -43,4 +55,5 @@ sources:
 
 - 슈시에 엘이 치료 후 분체로서 계속 유지되었는지.
 - 시에라가 슈시에에게 어느 정도 자율성을 부여했는지.
+- 슈시에 엘이 북부 호수 여관 종업원용 분체의 고유 이름인지, 같은 용도의 여러 분체 중 하나인지.
 
