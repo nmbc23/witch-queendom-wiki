@@ -1,7 +1,7 @@
 ---
 type: entity
 status: reviewed
-updated: 2026-04-28
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-codex-session-novel-notes]]
   - [[sources/chronica-session-source-map]]
   - [[syntheses/chronica-kamaso-blood-core-arc]]
@@ -42,7 +43,7 @@ sources:
 
 ## 사후 영향
 
-카밀라 사태로 여왕령에서 흡혈 마술은 금지되고, 책임은 크로니카에게 돌아간다. 스자스가 처형 귀족으로 크로니카의 영지에 온다는 소문이 돌자, 크로니카는 교단과 함께 마법사령으로 탈주한다.
+카밀라 사태로 여왕령에서 흡혈 마술은 금지되고, 책임은 크로니카에게 돌아간다. 스자스가 처형 귀족으로 크로니카의 영지에 온다는 소문이 돌자, 크로니카는 책임 추궁이 신도와 백성에게 번질 수 있다고 보고 이들을 이끌고 마법사령으로 탈주/투항한다. 그녀는 자기 하나를 제물로 바칠 각오였지만, 마법사령은 크로니카 본인까지 그대로 받아들인다.
 
 스자스는 카밀라의 혈핵을 보며 이를 마신화의 제물로 쓰면 통제 가능한 엄청난 마신을 만들 수 있지 않을까 생각한다. 훗날 스자스와 라로카는 카밀라를 온전한 얼티밋급 대마신으로 재구축해 여왕에게 반역한다.
 

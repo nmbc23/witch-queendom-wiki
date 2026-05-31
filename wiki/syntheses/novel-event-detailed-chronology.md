@@ -1,7 +1,7 @@
 ---
 type: synthesis
 status: reviewed
-updated: 2026-05-31
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
   - [[sources/current-session-fanta-liminaris-duels-assassination]]
@@ -508,7 +509,7 @@ sources:
 - 관련 인물: [[entities/chronica-criella]], [[entities/szas-sreya]], [[entities/kamaso-kamila]].
 - 사건: 카밀라 사태 이후 여왕령에서 흡혈 마술이 금지되고 책임이 크로니카에게 돌아온다.
 - 전개: 처형 귀족 스자스가 크로니카의 영지로 온다는 소문까지 돈다.
-- 결과: 크로니카는 모든 짐을 챙기고 교단째 마법사령으로 탈주한다.
+- 결과: 크로니카는 모든 짐을 챙기고 신도와 백성들을 이끌어 마법사령으로 탈주/투항한다. 자기 하나를 제물로 바쳐서라도 백성들을 살릴 각오였지만, 마법사령은 크로니카 본인까지 그대로 받아들인다.
 
 ## 10. 크로니카의 마법사령 정착과 흡혈귀 단속
 

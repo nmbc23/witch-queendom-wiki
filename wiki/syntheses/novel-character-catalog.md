@@ -1,7 +1,7 @@
 ---
 type: synthesis
 status: reviewed
-updated: 2026-05-31
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-steri-founder-pride-sierra-selection]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
@@ -62,7 +63,7 @@ sources:
 
 ## 크로니카·흡혈·카마소 축
 
-- [[entities/chronica-criella|크로니카 크리엘라]]: 레서 마신 학자. 사랑을 위한 공유 주술을 만들었으나 흡혈 마술과 혈핵 이론으로 오용된다. 마법사령으로 탈주한 뒤 마도서 편찬자, 흡혈귀 단속 담당, 포도밭 운영자가 된다.
+- [[entities/chronica-criella|크로니카 크리엘라]]: 레서 마신 학자. 사랑을 위한 공유 주술을 만들었으나 흡혈 마술과 혈핵 이론으로 오용된다. 흡혈 주술 발명자 책임이 신도와 백성에게 번질까 봐 자기 처분을 각오하고 마법사령에 투항하지만, 마법사령은 그녀까지 받아들인다. 이후 마도서 편찬자, 흡혈귀 단속 담당, 포도밭 운영자가 된다.
 - [[entities/kamaso-kamila|카마소 카밀라]]: 북부 영주. 영지 전체에 흡혈 의식을 펼쳐 얼티밋급 마신에 맞먹는 혈핵 현상이 되었으나 통제에 실패하고 영지민 전멸 뒤 토벌된다.
 - [[entities/szas-sreya|스자스 스레이아]]: 처형 귀족. 검은 마견과 절대적인 밤의 이미지. 카마소 사태에서 자멸 전략을 판단하고, 훗날 라로카와 카밀라를 온전한 대마신으로 재구축하는 기반을 만든다. 아이카의 명령으로 오리아나 휴리를 납치해 여왕령 쪽에서 보호하는 실행자이기도 하다.
 - [[entities/laroka|라로카]]: 질량을 가진 환영의 마녀. 노파 모습과 소녀 모습을 취할 수 있다. 스자스와 함께 카밀라 재구축에 관여한다.

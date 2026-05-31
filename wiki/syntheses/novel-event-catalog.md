@@ -1,7 +1,7 @@
 ---
 type: synthesis
 status: reviewed
-updated: 2026-05-31
+updated: 2026-06-01
 tags:
   - 소설/보석검파트
 aliases:
@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
   - [[sources/current-session-fanta-liminaris-duels-assassination]]
@@ -143,7 +144,7 @@ sources:
 - 카마소 카밀라 사태: 카밀라가 영지 전체 흡혈 의식을 펼쳐 얼티밋급 혈핵 현상이 되고, 영지민 전멸 뒤 토벌된다.
 - 스자스와 나크샤의 결별: 나크샤는 스자스의 판단이 옳음을 알면서도 인간미 없음에 혐오감을 품는다.
 - 메이저스의 강제 승리: 메이저스는 카밀라의 직격에 죽고 되살아나는 방식으로 버틴 것처럼 보인다.
-- 크로니카의 탈주: 흡혈 마술 금지와 책임 추궁을 피해 교단째로 마법사령에 도주한다.
+- 크로니카의 탈주/투항: 흡혈 주술 발명자 책임 때문에 신도와 백성까지 숙청될까 두려워 마법사령에 향한다. 크로니카는 자기 하나를 제물로 바칠 각오였지만, 마법사령은 그녀까지 그대로 받아들여 여왕령 마신들에게 충격을 준다.
 - 크로니카의 마법사령 정착: 마도서 편찬과 분류 능력으로 예상보다 잘 적응한다.
 - 흡혈귀 단속 임명: 네리네가 마법사령 흡혈귀 문제를 크로니카에게 맡긴다.
 - 식물성 피 하사: 아이카가 스자스를 통해 니게데의 식물성 피 열매를 보낸다.

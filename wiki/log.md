@@ -2232,3 +2232,35 @@ Notes:
   - 신생 여왕령 엘리트의 구체 계층과 실제 이탈 사례.
   - 네리네의 마신 척살론이 공식 정책, 연설, 개인적 구호 중 어디에 속하는지.
   - 여왕령의 마신 신앙이 교육·의례·정치 예법에서 나타나는 방식.
+
+## 2026-06-01 - 크로니카 투항과 마법사령 수용 충격 보정
+
+- 작업: 현재 대화에서 추가된 크로니카의 마법사령 투항, 백성 보호 각오, 마법사령의 예상 밖 수용, 여왕령 마신들의 충격을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-chronica-surrender-asylum-shock.md`
+  - `wiki/entities/chronica-criella.md`
+  - `wiki/entities/kamaso-kamila.md`
+  - `wiki/events/크로니카의 탈주.md`
+  - `wiki/events/크로니카의 도서관 정착.md`
+  - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
+  - `wiki/events/카마소 카밀라 혈핵 재난 사건.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
+  - `wiki/syntheses/chronica-criella-complete-storyline.md`
+  - `wiki/syntheses/chronica-kamaso-blood-core-arc.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 크로니카는 흡혈 주술의 발명자라는 이유로 자신뿐 아니라 신도와 영지민, 백성까지 숙청될 수 있다고 보았다.
+  - 그녀는 자기 하나를 제물 또는 책임자로 바쳐서라도 따라온 사람들을 마법사령에서 안전하게 살릴 각오로 투항했다.
+  - 마법사령은 뜻밖에도 크로니카 본인까지 그대로 받아들였고, 그녀의 마도서·행정·조직 관리 능력을 희소한 실무 인력으로 흡수했다.
+  - 이 사건은 여왕령 마신들에게 마법사령이 위험한 발명자도 처형하지 않고 제도 안에 흡수할 수 있다는 충격적인 선례가 되었다.
+  - 크로니카의 성공적 정착은 여왕령 내부의 친마법사령 이반 유혹을 실제 사례로 뒷받침한다.
+- 검삭 필요:
+  - 크로니카의 법적 지위가 투항, 망명, 탈주, 배신 중 무엇으로 기록되는지.
+  - 크로니카가 데려간 신도와 영지민의 규모.
+  - 크로니카 수용을 결정한 마법사령 측 주체.
+  - 여왕령 마신들이 이 사건을 공개 발언과 사적 논의에서 어떻게 해석했는지.
