@@ -1,0 +1,9 @@
+{
+  "name": "multimodel-web-console",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test helper/*.test.js extension/test/*.test.js",
+    "helper": "node helper/server.js"
+  }
+}
