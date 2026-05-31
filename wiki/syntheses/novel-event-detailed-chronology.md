@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-izlea-seichel-founder-opposition]]
   - [[sources/current-session-bzul-border-five-great-demons]]
   - [[sources/current-session-bzul-defection-chronica-precedent]]
   - [[sources/current-session-chronica-surrender-asylum-shock]]
@@ -40,12 +41,13 @@ sources:
 ### E00-01. 네리네의 보주와 시조 수감
 
 - 관련 인물: [[entities/nerine]], [[entities/shugoro-desmone]], [[entities/seijuna]], 기타 보주 속 시조들.
-- 사건: 네리네의 천장에는 보주들이 매달려 있으며, 그 안에는 시조들이 네블레이드되어 갇힌 것으로 보인다.
+- 사건: 네리네의 천장에는 보주들이 매달려 있으며, 그 안에는 대부분의 시조들이 네블레이드되어 갇힌 것으로 보인다.
+- 예외: 네리네는 친구였고 스테리 노예 침공 당시 태어나지도 않았던 [[entities/izlea-izzul|이즐레아 이즈쥴]]과 [[entities/searup-seirite|세이첼 세아루프 세이리테]]를 진체의 부름을 무시하고 살려둔다.
 - 공식 발표: 네리네는 시조 마신들이 자신들의 악행을 속죄하기 위해 모든 권한과 능력을 자신에게 넘기고 진리를 찾으러 떠났다고 발표한다.
 - 외부 반응: 모든 마녀 왕국의 마신들은 이를 쿠데타로 보며, 여왕령도 같은 음모론을 널리 공유한다.
 - 스테리 반응: 스테리 클랜은 마신 피해자라는 정체성 때문에 네리네의 발표를 그대로 믿는다. 정확히는 믿어준 것에 가깝다.
 - 결과: 보주 속 시조들은 의식이 남아 있으며, 훗날 뮤베일을 보고 여왕 아이카임을 알아보거나 아련하게 반응한다.
-- 후속 영향: 아세로리온이 어린 시절 이 보주를 물어본 일이 그녀의 인생을 결정적으로 망가뜨린다. 여왕령은 훗날 스테리가 피해자인 척하다 신정 독재화되었다고 비웃는다.
+- 후속 영향: 아세로리온이 어린 시절 이 보주를 물어본 일이 그녀의 인생을 결정적으로 망가뜨린다. 여왕령은 훗날 스테리가 피해자인 척하다 신정 독재화되었다고 비웃는다. 살아남은 두 시조는 마법사령 내부 야당과 반네리네 성지의 축으로 남는다.
 
 ### E00-02. 아세로리온의 보주 질문과 모녀 관계 붕괴
 

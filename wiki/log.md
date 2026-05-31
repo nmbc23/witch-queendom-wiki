@@ -550,6 +550,7 @@ Notes:
   - `wiki/entities/nerine.md`
   - `wiki/entities/szas-sreya.md`
   - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
@@ -2348,3 +2349,42 @@ Notes:
   - 아이카가 직접 힘을 내렸다는 말의 마술적·제도적 의미.
   - 브줄 이반부터 국경 강화까지의 시간차.
   - 마법사령이 이 국경 강화에 외교적으로 어떻게 반응했는지.
+
+## 2026-06-01 - 이즐레아·세이첼 시조 야당과 성지 보정
+
+- 작업: 현재 대화에서 추가된 이즐레아 이즈쥴과 세이첼 세아루프 세이리테의 생존 이유, 네리네의 공식 신화에 대한 반응, 마법사령 내부 야당과 반네리네 성지 기능을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-izlea-seichel-founder-opposition.md`
+  - `wiki/concepts/마법사령 시조 야당과 성지.md`
+  - `wiki/entities/izlea-izzul.md`
+  - `wiki/entities/searup-seirite.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/concepts/네리네의 시조 네블레이드 공식 신화.md`
+  - `wiki/events/네리네의 보주와 시조 수감.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/concepts/초절자.md`
+  - `wiki/concepts/스테리 반마신 사상교육.md`
+  - `wiki/concepts/스테리 시조 마법사 자긍심.md`
+  - `wiki/concepts/유계와 진체 기억 장막.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
+  - `wiki/sources/current-session-mage-seat-distribution.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 네리네는 시조들을 공격할 때 이즐레아와 세이첼이 자기 친구였고, 스테리 노예 침공 당시 태어나지도 않았다는 이유로 진체의 부름을 무시하고 둘을 살려두었다.
+  - 이즐레아는 네리네가 스승과 선배들이 힘을 넘기고 사라졌다는 말을 믿지 않고, 선배들을 돌려내라고 요구한다.
+  - 세이첼은 겉으로 무관심과 인정을 가장하지만, 뒤로는 네리네에 대항할 수단을 모은다.
+  - 두 시조는 마법사령 내부에서 강한 정권 교체 세력이라기보다, 반네리네 정서와 제도적 견제를 보존하는 야당·카운터파트로 기능한다.
+  - 스테리의 네리네 신앙은 이들의 존재만으로 흔들리지 않으며, 다른 지방도 네리네가 키워냈기 때문에 약한 두 시조를 쉽게 따르지 않는다.
+  - 이즐레아와 세이첼의 지역은 네리네에게 불만을 품은 스테리 클랜과 네리네에게 찍힌 마법사령 마술사들이 대피하는 성지로 정리된다.
+- 검삭 필요:
+  - 이즐레아와 세이첼의 지역 이름, 위치, 성지로서의 법적 지위.
+  - 네리네가 무시한 진체의 부름이 유계적 충동인지, 마법 시스템 또는 의식 압력인지.
+  - 세이첼이 모으는 대항 수단의 구체적 형태.
+  - 스테리 내부에서 두 시조의 성지로 떠난 사람들을 어떻게 부르는지.
+  - 여왕령 정보기관이 두 성지를 실제 망명로 또는 접촉 채널로 활용하는지.

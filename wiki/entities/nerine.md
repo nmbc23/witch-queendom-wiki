@@ -20,6 +20,7 @@ sources:
   - [[sources/current-session-queenrealm-mageorder-legitimacy-truce]]
   - [[sources/current-session-queenrealm-liminaris-investment-trade]]
   - [[sources/current-session-hyuri-steri-rescue-operation]]
+  - [[sources/current-session-izlea-seichel-founder-opposition]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-steri-founder-pride-sierra-selection]]
   - [[sources/current-session-steri-alternative-mashinization]]
@@ -63,6 +64,10 @@ sources:
 보주 속에는 시조들이 네블레이드되어 갇혀 있는 것으로 보인다. 훗날 시조들은 네리네와 아세로리온이 싸울 때 뮤베일을 보고 “저거 때문에 우리가 이렇게 된 건데 여왕이 저기서 우리 애들이랑 뭐하노?”라는 기묘한 반응을 보인다.
 
 네리네는 시조 마신들을 처리한 일을 그대로 발표하지 않았다. 공식적으로는 시조들이 자신들의 악행에 대한 속죄로 네리네에게 모든 권한과 능력을 넘기고 진리를 찾으러 떠났다고 발표했다. 모든 마녀 왕국의 마신들은 이를 자발적 권한 이양이 아니라 쿠데타로 보았지만, 스테리 클랜은 피해자 정체성 때문에 그 발표를 믿어주었다.
+
+다만 이 처리에는 예외가 있었다. 네리네는 시조들을 공격할 때 [[entities/izlea-izzul|이즐레아 이즈쥴]]과 [[entities/searup-seirite|세이첼 세아루프 세이리테]]를 살려두었다. 두 사람이 자기 친구들이었다는 개인적 양심과, 스테리 노예 침공 당시 아직 태어나지도 않았다는 사실 때문이다. 이때 네리네는 진체의 부름을 무시하고 두 시조를 남긴다.
+
+이즐레아는 네리네의 공식 발표를 믿지 않고 선배들을 돌려내라고 요구하지만, 네리네는 무시한다. 세이첼은 겉으로 무관심과 인정의 태도를 보이면서도 뒤로는 대항 수단을 모은다. 이 둘은 이후 마법사령 안에서 [[concepts/마법사령 시조 야당과 성지|시조 야당]]이자 네리네 정치의 카운터파트로 기능한다.
 
 먼 미래 디마리의 암호 해석 내용은 여왕령에 광범위하게 퍼져 있던 음모론, 곧 네리네가 사실 시조들을 처리하고 그 힘을 빼앗았다는 가설을 확신시켜주는 것이었다. 이 내용은 이미 여왕령 정치권에 널리 퍼진 의심을 확인하는 정도였으므로, 새로운 정치 파문을 일으키지는 않았다.
 
