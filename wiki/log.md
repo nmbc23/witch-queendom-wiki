@@ -2576,3 +2576,41 @@ Notes:
   - 마법사령 수사부의 공식 명칭, 권한, 수사 중지 기준.
   - 여왕령 쪽으로 이어지는 단서가 실제 여왕령 첩보망인지, 시에라가 만든 위장 경로인지.
   - 시에라의 분체와 비밀조직이 서로를 인식하는지, 완전 분산형인지.
+
+## 2026-06-01 - 시에라 은닉 영향력 대표 조직 보정
+
+- 작업: 현재 대화에서 추가된 시에라 세라시에 휘하 대표 조직, 핵심 인물과 조직원의 이중 무지 구조를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-sierra-hidden-influence-network.md`
+  - `wiki/concepts/시에라의 은닉 영향력망.md`
+  - `wiki/concepts/리미나리스 의회 좌파.md`
+  - `wiki/concepts/휴리 코어 차원술사 사이드.md`
+  - `wiki/concepts/브줄 승천자 모임.md`
+  - `wiki/concepts/스테리 대체신 건조연구회.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/concepts/마법사령 시에라 실세설.md`
+  - `wiki/concepts/리미나리스 의회 좌우파.md`
+  - `wiki/concepts/리미나리스.md`
+  - `wiki/concepts/리미나리스 개방성과 첩보 오염.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 조직 구조.md`
+  - `wiki/concepts/브줄 가문.md`
+  - `wiki/concepts/승천자.md`
+  - `wiki/concepts/스테리 대체 마신화.md`
+  - `wiki/concepts/노리어.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 대표적인 시에라 세라시에 휘하 조직은 리미나리스 의회 좌파, 휴리 코어 차원술사 사이드, 브줄 승천자 모임, 스테리 대체신 건조연구회다.
+  - 이 조직들의 일부 핵심 인물은 시에라와 연결되어 있지만, 핵심 인물의 영향을 받는 조직원들은 그 위에 시에라가 있다는 사실을 모른다.
+  - 핵심 인물들도 자신이 시에라 세라시에와 상대했다는 사실을 대개는 모른다.
+  - 따라서 이 조직들은 공개 충성 조직이 아니라, 이중 무지 위에서 작동하는 시에라 은닉 영향권의 대표 사례다.
+- 검삭 필요:
+  - 각 조직에서 시에라와 접촉한 핵심 인물의 이름과 직위.
+  - 핵심 인물들이 시에라를 어떤 정체로 오해했는지.
+  - 네 조직이 서로를 시에라 영향권으로 인식하는지, 완전히 별개 흐름인지.
+  - 마법사령 수사부가 각 조직을 파고들다 수사를 중지한 대표 사건.
