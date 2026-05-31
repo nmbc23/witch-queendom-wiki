@@ -2388,3 +2388,32 @@ Notes:
   - 세이첼이 모으는 대항 수단의 구체적 형태.
   - 스테리 내부에서 두 시조의 성지로 떠난 사람들을 어떻게 부르는지.
   - 여왕령 정보기관이 두 성지를 실제 망명로 또는 접촉 채널로 활용하는지.
+
+## 2026-06-01 - 네리네의 시조 야당 허용과 제자 객관 훈련 보정
+
+- 작업: 현재 대화에서 추가된 네리네가 이즐레아·세이첼 야당을 허용하는 전략적·개인적 이유와, 이즈쥴·세이리테 제자들이 스승의 네리네 혐오를 계승하지 않는다는 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-izlea-seichel-founder-opposition.md`
+  - `wiki/sources/current-session-mage-seat-distribution.md`
+  - `wiki/concepts/마법사령 시조 야당과 성지.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/concepts/초절자.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/izlea-izzul.md`
+  - `wiki/entities/searup-seirite.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 네리네는 이즐레아와 세이첼이 아무리 불만을 품어도 여왕령에 붙을 가능성은 없다고 본다.
+  - 두 시조와 그 제자 계보는 대부분의 순환석 마법사 자리를 채우며 마법사령 국력에 상당히 기여한다.
+  - 그래서 네리네의 허용은 관용이 아니라 쓸모와 위험을 계산한 기만적 방치에 가깝다.
+  - 네리네에게는 두 시조가 사라지면 자신과 대등하게 대화할 상대가 없어진다는 개인적 이유도 있다.
+  - 이즈쥴·세이리테 제자들은 스승의 네리네 혐오를 배우지 않고, 스승들 사이의 일로 분리해 본다.
+  - 이는 마술사 훈련이 객관적으로 판단하는 훈련이기 때문에 가능하다.
+- 검삭 필요:
+  - 네리네가 두 시조의 국력 기여를 공식적으로 인정하는지, 비공식 계산으로만 남기는지.
+  - 이즈쥴·세이리테 제자들의 객관 훈련 규범과 정치 중립 원칙.
+  - 두 시조가 네리네와 대등하게 대화하는 실제 장면의 말투와 거리감.
