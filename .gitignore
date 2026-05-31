@@ -10,6 +10,7 @@ Desktop.ini
 # Local temporary / generated working folders
 .wiki-backups/
 temp_outputs/
+.worktrees/
 
 # Common scratch files
 *.tmp
