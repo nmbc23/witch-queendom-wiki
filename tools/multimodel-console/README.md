@@ -1,0 +1,48 @@
+# Multimodel Web Console
+
+This tool opens ChatGPT, Claude, and Google AI Studio in visible browser windows, sends one prompt to selected services, captures the latest answers, and saves each run to `raw/multimodel/<run-id>/`.
+
+## Start The Local Helper
+
+From the repository root:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File tools\multimodel-console\start-helper.ps1
+```
+
+The helper listens on `http://127.0.0.1:43891`.
+
+Optional flags:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File tools\multimodel-console\start-helper.ps1 -Port 43892
+powershell -ExecutionPolicy Bypass -File tools\multimodel-console\start-helper.ps1 -WorkspaceRoot "D:\other\workspace"
+```
+
+## Load The Extension
+
+1. Open Chrome.
+2. Go to `chrome://extensions`.
+3. Enable Developer mode.
+4. Click `Load unpacked`.
+5. Select `tools/multimodel-console/extension`.
+
+## Run Tests
+
+```powershell
+& 'C:\Users\CadriacLord\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' --test tools/multimodel-console/helper/*.test.js tools/multimodel-console/extension/test/*.test.js
+```
+
+## Smoke Test
+
+1. Start the helper.
+2. Load the unpacked extension in Chrome.
+3. Click the extension action.
+4. Confirm that the control panel, ChatGPT, Claude, and AI Studio are visible.
+5. Log in manually anywhere a service asks for authentication.
+6. Enter `Reply with the exact phrase: multimodel smoke test`.
+7. Click `Send to all`.
+8. Wait for visible answers.
+9. Click `Capture results`.
+10. Click `Save run`.
+11. Confirm a new folder exists under `raw/multimodel/`.

@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Multimodel Web Console",
+  "version": "0.1.0",
+  "description": "Send one prompt to ChatGPT, Claude, and AI Studio, then capture results locally.",
+  "permissions": ["tabs", "windows", "scripting", "storage", "system.display"],
+  "host_permissions": [
+    "https://chatgpt.com/*",
+    "https://claude.ai/*",
+    "https://aistudio.google.com/*",
+    "http://127.0.0.1:43891/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Open Multimodel Console"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["content-utils.js", "content-chatgpt.js"]
+    },
+    {
+      "matches": ["https://claude.ai/*"],
+      "js": ["content-utils.js", "content-claude.js"]
+    },
+    {
+      "matches": ["https://aistudio.google.com/*"],
+      "js": ["content-utils.js", "content-aistudio.js"]
+    }
+  ]
+}
