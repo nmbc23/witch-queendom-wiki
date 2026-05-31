@@ -1,7 +1,7 @@
 ---
 type: entity
 status: draft
-updated: 2026-05-28
+updated: 2026-06-01
 aliases:
   - 아레프 액셀 세이아
   - 아자리 시데이아
@@ -10,6 +10,7 @@ sources:
   - [[sources/current-session-sydeia-corrections]]
   - [[sources/supreme-planeswalker-sydeia]]
   - [[sources/current-session-aref-sierra-additions]]
+  - [[sources/current-session-sierra-northern-lake-miniature-city]]
   - [[syntheses/aref-sierra-hidden-town-arc]]
   - [[sources/aradnoa-disappearance]]
   - [[sources/current-session-mage-seat-distribution]]
@@ -56,7 +57,7 @@ sources:
 
 아세로리온 흡혈 마신화 사건 이후, 아레프는 희생자가 없는 것이 아니라 지금 사라진 인물 중에 희생자가 있는 것 아니냐고 의심한다. 그 의심은 뮤베일을 향한다.
 
-아레프는 차원 관측으로 뮤베일이 동료 학자들과 도주하며 대마신급 마술을 가볍게 쓰는 장면, 크로니카가 뮤베일에게 여왕에게 바치는 예를 취하는 장면을 본다. 이후 북부 호수와 동굴을 추적하다가, 결계로 숨겨진 포켓 플레인과 마탑, 그리고 사슬에 묶인 시에라 세라시에를 발견한다.
+아레프는 차원 관측으로 뮤베일이 동료 학자들과 도주하며 대마신급 마술을 가볍게 쓰는 장면, 크로니카가 뮤베일에게 여왕에게 바치는 예를 취하는 장면을 본다. 이후 북부 호수와 동굴을 추적하다가, 결계로 숨겨진 [[concepts/시에라의 북부 호수 미니어처 시티|미니어처 시티]]와 마탑, 그리고 사슬에 묶인 시에라 세라시에를 발견한다.
 
 이 장면에서 아레프가 "저는 이계인입니다"라고 밝히는 것은, 시에라의 격리 논리를 흔드는 결정적 카드다.
 

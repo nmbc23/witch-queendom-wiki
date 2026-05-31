@@ -14,6 +14,7 @@ sources:
   - [[sources/current-session-bzul-defection-chronica-precedent]]
   - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
+  - [[sources/current-session-sierra-northern-lake-miniature-city]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
   - [[sources/current-session-fanta-liminaris-duels-assassination]]
   - [[sources/current-session-fanta-larata-planeswalker-twins]]
@@ -114,13 +115,14 @@ sources:
 ## 아레프의 뮤베일 추적과 시에라 첫만남
 
 - 아레프의 뮤베일 의혹: 아세로리온의 힘이 희생자 없이 지나치게 강했다는 점에서, 아레프는 사라진 뮤베일이 원인일 수 있다고 본다.
-- 숨은 마을 진입: 아레프는 북부 호수의 동굴 결계를 부수고, 시에라가 지역 하나를 네블레이드해 만든 미니어처 타운에 들어간다.
+- 숨은 마을 진입: 아레프는 북부 호수의 동굴 결계를 부수고, 시에라가 지역 하나를 네블레이드해 만든 미니어처 시티에 들어간다. 내부에서 시에라는 대통령으로 불리며 숨어 힘을 기르고 있다.
 - 시에라와 조우: 아레프는 마탑 함정을 돌파하고 문자 사슬에 묶인 시에라 세라시에를 만난다.
 - 이계인 주장과 입문 요청: 아레프는 자신이 이계의 여왕 아자리 시데이아라고 밝히며, 시에라의 제자가 되어 아이카를 물리치려 한다고 요청한다.
 - 시에라의 불신: 시에라는 이계의 여왕이 단신으로 왔다는 점이 설명되지 않는다고 보고, 아레프의 증거를 리미나리스 심층 지식과 고위 차원 관측으로 해석한다.
 - 마법과 유계 해석: 아레프는 마법을 유계 영체를 포획·교체해 마녀에게 붙이는 강령술의 극의로 해석하고, 시에라는 놀라지만 확신하지 않는다.
 - 진체 집합체론: 아레프는 시에라의 진체가 전 차원의 마녀 지도자들의 집합체, 아이카의 진체가 전 우주의 차원술사 유체 집합체일 가능성을 제시한다.
 - 제자화: 시에라는 아레프를 믿어서가 아니라, 강력하고 유용하며 위험한 인물을 관리하기 위해 제자로 받아들인다.
+- 선공 조건: 실제 시에라는 선공권만 있으면 네리네와의 전투에서도 상당한 승률이 있지만, 대부분의 경우 네리네를 먼저 공격할 수 없어 미니어처 시티에 남아 조건을 기다린다.
 
 ## 아라드노아의 행적과 소실
 

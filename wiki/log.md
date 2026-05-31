@@ -586,6 +586,10 @@ Notes:
   - `wiki/syntheses/mubeil-acerorion-dimari-jewel-sword-arc.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/events/아레프와 시에라의 첫만남.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
 - 핵심 정리:
@@ -2487,3 +2491,28 @@ Notes:
   - 지하 도시의 이름, 위치, 연구 주제, 보안 체계.
   - 여왕령 정보기관이 산정하는 마법사령 공개 전력 목록.
   - 네리네가 상정하는 피해 없는 승리의 구체 조건.
+
+## 2026-06-01 - 시에라 북부 호수 미니어처 시티와 선공 조건 보정
+
+- 작업: 현재 대화에서 추가된 시에라의 북부 호수 동굴 속 미니어처 시티, 대통령 호칭, 네리네 상대 선공권 조건과 은둔 이유를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-sierra-northern-lake-miniature-city.md`
+  - `wiki/concepts/시에라의 북부 호수 미니어처 시티.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/concepts/마법사령 시에라 실세설.md`
+  - `wiki/events/최북단 호수와 시에라의 마수 습격 사건.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 시에라 세라시에는 북부 호수의 동굴 속에 지역 하나를 네블레이드한 미니어처 시티를 만들었다.
+  - 미니어처 시티 내부에서 시에라는 대통령으로 불리며 숨어 힘을 기른다.
+  - 시에라 본인의 생각과 달리, 선공권만 확보하면 지금 당장 네리네와 싸워도 상당한 승률이 있다.
+  - 하지만 대부분의 경우 시에라는 네리네를 먼저 공격할 수 없기 때문에 숨어 있다.
+- 검삭 필요:
+  - 미니어처 시티의 공식 명칭, 주민 구성, 내부 행정 구조.
+  - 시에라가 대통령으로 불리는 선출·추대·관습의 근거.
+  - 시에라가 네리네를 먼저 공격할 수 없는 마법적·정치적 조건.
+  - 선공권 확보 시 시에라의 승률이 높아지는 전술 구조.
