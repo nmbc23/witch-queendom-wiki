@@ -50,6 +50,14 @@ sources:
 ---
 ```
 
+## Encoding Rules
+
+- Treat all wiki markdown as UTF-8.
+- On Windows PowerShell, use explicit `-Encoding UTF8` for `Get-Content`, `Set-Content`, `Add-Content`, and `Out-File`.
+- If Korean page titles, aliases, tags, or Obsidian links look corrupted, rerun the read/check with explicit UTF-8 before reporting a problem.
+- Do not add an encoding warning to `wiki/log.md`, a lint report, or the task process unless the issue still reproduces after a UTF-8 read.
+- Validate image and asset links as filesystem assets under `wiki/assets/`, not as missing wiki pages.
+
 ## Maintenance Rules
 
 On ingest:

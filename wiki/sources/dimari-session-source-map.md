@@ -1,7 +1,7 @@
 ---
 type: source
 status: reviewed
-updated: 2026-04-28
+updated: 2026-05-31
 tags:
   - 소설/보석검파트
 aliases:
@@ -12,6 +12,7 @@ sources:
   - raw/novel-session-handoff-2026-04-27.txt
   - raw/prompts-chronological-2026-04-24.txt
   - raw/character-image-continuity-guidelines-2026-04-27.md
+  - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
 ---
 
 # 디마리 세션 소스 맵
@@ -38,7 +39,7 @@ sources:
 - 프롬프트 216-245: 메이벨이 디마리를 막고 뮤베일이 탈출한다. 디마리의 시간 삭제가 메이벨의 차원 조각을 무력화하고, 디마리의 선량함이 아이카를 살린다. 이후 디마리의 상실감이 정리된다.
 - 프롬프트 249-253: 만화경 보석검 설계도의 결손. 디마리의 정교한 마력 회로 조율이 없으면 완성이 불가능하다는 점이 강조된다.
 - 프롬프트 279-303: 메이벨과 레오나가 보석검 설계도를 보고 디마리를 회상한다. 디마리는 뮤베일이 빵집을 열었다는 소문을 믿고 진심으로 행복을 빈다.
-- 프롬프트 331-341: 미래 설정. 디마리가 미나카 사도우와 반역을 계획하다 네블레이드당하고, 아이카가 디마리의 딸 오리아나를 데려오라고 명한다. 리미나리스 계승전과 환타 휴리, 보석검의 미래 역할로 이어진다.
+- 프롬프트 331-341: 미래 설정. 당시 원천에는 디마리가 미나카 사도우와 반역을 계획하다 네블레이드당하고, 아이카가 디마리의 딸 오리아나를 데려오라고 명하는 흐름으로 잡혀 있다. 후속 보정 [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]에 따라, 미나카는 적극적 반역 공모자라기보다 디마리가 보낸 거액의 마나 때문에 낮은 열의로 협력했다가 함께 네블레이드된 외부 접점으로 읽는다. 이 축은 리미나리스 계승전과 환타 휴리, 보석검의 미래 역할로 이어진다.
 
 ## 오역·혼동 방지
 
@@ -50,4 +51,3 @@ sources:
 - 디마리의 블랙 코미디 소품은 양배추즙, 위장병, 후임 갈리에이라의 비서 업무 붕괴다.
 
 출처: `raw/novel-session-handoff-2026-04-27.txt`, `raw/prompts-chronological-2026-04-24.txt`, `raw/character-image-continuity-guidelines-2026-04-27.md`
-

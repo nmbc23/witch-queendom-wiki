@@ -551,6 +551,7 @@ Notes:
   - `wiki/entities/szas-sreya.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
 - 핵심 정리:
@@ -1404,3 +1405,329 @@ Notes:
   - 리미나리스는 외부 유입이 공급하는 역동성을 자랑으로 여기지만, 보안과 개방성은 양립하기 어렵다.
   - 네리네가 따로 견제할 필요도 없이 리미나리스 곳곳에는 네리네의 첩자가 산재한다.
   - 여왕령 첩자도 많으며, 일부는 보수파 귀족들과 연결되어 있고 이것은 비밀도 아니다.
+
+## 2026-05-31 - 휴리 조직 구조와 리미나리스 운영 방식 대비 보정
+
+- 작업: 현재 대화에서 추가된 휴리의 중앙·연구부·전쟁부·생산부 4분할 구조와, 리미나리스가 의회 아래 귀족별 기업·사회 재단으로 운영된다는 대비를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-hyuri-department-structure.md`
+  - `wiki/concepts/휴리 조직 구조.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/리미나리스 의회.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 휴리는 중앙, 연구부, 전쟁부, 생산부로 나뉘며 전체가 하나의 집단처럼 운영된다.
+  - 리미나리스는 의회 아래 각 차원술사 귀족이 기업과 사회 재단을 운영하는 병렬 네트워크에 가깝다.
+  - 이 대비는 휴리의 통합 실행 집단 성격과 리미나리스의 귀족별 자율·개방·정치 생태를 선명하게 만든다.
+  - 중앙/연구부/전쟁부/생산부가 표면 행정부인지, 가주회의 이너서클과 직접 이어지는 실질 조직인지는 추가 검삭 대상으로 남겼다.
+
+## 2026-05-31 - 하이시아의 휴리 시조성과 마신화 동기 보정
+
+- 작업: 현재 대화에서 추가된 하이시아의 백금발·푸른 눈 돌연변이형 외형, 불임, 휴리 시조성, 마신화 선택 동기를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-haisia-hyuri-progenitor.md`
+  - `wiki/entities/haisia.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 하이시아는 휴리의 시조이며, 백금발과 푸른 눈은 일반 마녀 인종 기준으로 돌연변이에 가까운 형질이다.
+  - 하이시아는 독특한 외모와 엄청난 차원술 실력으로 주목받았지만, 불임 때문에 그 좋은 형질을 자연 후대에 전하지 못할 위기에 있었다.
+  - 이 절박함은 하이시아가 고위 차원술사임에도 마신화를 선택한 이유로 정리된다.
+  - 휴리는 하이시아의 형질과 차원술 적성을 네리네가 은발·푸른 눈·백색 에텔 적성의 계획 혈족으로 보존·재구성한 결과로 읽힌다.
+
+## 2026-05-31 - 휴리 클론과 여왕령 마녀들의 충격 보정
+
+- 작업: 현재 대화에서 추가된 하이시아 유전자 클론, 칵테일식 혈통 혼합, 휴리 수십만 인구, 그리고 이를 본 여왕령 마녀들의 충격을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-haisia-hyuri-progenitor.md`
+  - `wiki/entities/haisia.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 휴리는 하이시아 유전자 클론과 칵테일식 혈통 혼합으로 수십만 인구가 태어난 계획 혈족이다.
+  - 하이시아를 알던 여왕령 마녀들에게 휴리의 존재는 마법사령이 개인의 고유 형질과 비극을 대규모 군사·학술 인구로 재가공할 수 있다는 증거가 된다.
+  - 이 충격은 여왕령 마녀들이 마법사령을 단순한 경쟁 세력이 아니라, 혈통과 정체성까지 체제의 재료로 바꾸는 집단으로 인식하게 만든다.
+
+## 2026-05-31 - 휴리 세 줄기와 숨은 지배층 계통 보정
+
+- 작업: 현재 대화에서 추가된 휴리 제작 초기의 세 줄기, 포악하고 복수심 강한 계통의 지배층화, 내부 무지, 이레니아의 후일 충격을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-hyuri-three-branches.md`
+  - `wiki/concepts/휴리 세 줄기.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 가주회의.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 네리네가 휴리를 만들었을 때 학구적이고 재빠른 계통, 고상하고 자비로운 계통, 포악하고 복수심 강한 계통의 세 줄기가 나왔다.
+  - 네리네는 포악하고 복수심 강한 세 번째 계통을 휴리의 주 지배층으로 삼았다.
+  - 이 사실은 휴리 내부에서도 알려져 있지 않으며, 권력 있는 휴리들은 이를 "성격이 세다"는 식으로만 느낀다.
+  - 이레니아 휴리 34는 나중에 이 비밀을 알고, 휴리 권력 구조의 강압성이 제작 단계의 설계와 연결되어 있음을 깨달아 충격을 받는다.
+
+## 2026-05-31 - 하스터·제라스·휴리 코드네임과 종족명 보정
+
+- 작업: 현재 대화에서 추가된 휴리 세 줄기의 내부 코드네임, 하스터와 제라스의 우위, 코드네임 휴리의 주 계열화, 종족명 휴리의 기원, 휴리의 자기오해를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-hyuri-three-branches.md`
+  - `wiki/concepts/휴리 세 줄기.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/휴리 가주회의.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 학구적이고 재빠른 계통의 내부 코드네임은 하스터, 고상하고 자비로운 계통은 제라스, 포악하고 복수심 강한 계통은 휴리다.
+  - 하스터가 더 똑똑하고 제라스가 더 강력하지만, 네리네는 군사적으로 유용하다고 판단한 코드네임 휴리를 주 계열과 지배층으로 삼았다.
+  - 마지막 계통의 이름인 휴리가 종족 전체의 이름이 된 점은 네리네의 의도를 드러낸다.
+  - 정작 휴리는 하스터와 제라스 계통을 보며 자신들이 신속하고 지성적이며 우아하고 자비로운 형질을 공유한다고 생각한다.
+
+## 2026-05-31 - 디마리 파라곤 원형과 네블레이드 파국 보정
+
+- 작업: 현재 대화에서 추가된 디마리 휴리의 초대 가주성, 하이시아 능력의 무제약 파라곤 원형성, 네리네의 만능 평가와 신뢰, 정의 처리 임무, 네블레이드 파국을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-dimari-paragon-first-head.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/concepts/휴리 세 줄기.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/events/디마리와 미나카 사도우의 반역 동기.md`
+  - `wiki/events/디마리의 미래 반역과 실종.md`
+  - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/sources/current-session-hyuri-family-council-inner-circle.md`
+  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 디마리 휴리는 휴리의 초대 가주이며, 하이시아의 능력에 제약을 걸지 않고 약점까지 극대화한 파라곤 휴리다.
+  - 디마리는 하스터·제라스·휴리 3계통 중 하나라기보다, 제약을 가해 세 계통이 나뉘기 전의 휴리 혈족 원형이다.
+  - 네리네는 디마리를 만능이라 부를 정도로 신뢰하고 좋아했지만, 디마리가 네리네의 네블레이드 사태를 알아차리고 정의 처리 임무에 따라 파고들자 네블레이드해 처리할 수밖에 없었다.
+  - 디마리의 후일 파국은 단순 반역이 아니라, "마법에 따라 모든 사건을 정의롭게 처리하라"는 임무가 네리네 자신에게 되돌아온 사건으로 정리된다.
+
+## 2026-05-31 - 디마리 암호 마나와 오리아나 납치 오해 보정
+
+- 작업: 현재 대화에서 추가된 디마리의 최후 암호·고액 마나 전송, 아이카의 오리아나 구출 오해, 스자스의 납치·보호, 휴리와 리미나리스 관계 악화 인과를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-dimari-encrypted-mana-oriana-abduction.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/oriana-hyuri.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/szas-sreya.md`
+  - `wiki/events/디마리의 미래 반역과 실종.md`
+  - `wiki/events/오리아나와 데스모네 혈통 인과.md`
+  - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
+  - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 디마리는 네리네에게 제거되기 전, 자신의 수사 결과를 암호와 고액의 마나와 함께 여왕령 쪽 암흑가로 전송했다.
+  - 디마리의 실제 의도는 딸 오리아나가 여왕령 쪽과 접촉해 암호를 해석하고 마나를 수령하게 하는 것이었다.
+  - 아이카는 이를 친구 디마리의 유언 같은 오리아나 구출 요청으로 오해하고, 스자스에게 오리아나를 납치해 여왕령 쪽에서 보호하게 했다.
+  - 오리아나가 리미나리스에서 휴리로 돌아오는 길에 납치되었기 때문에 휴리는 리미나리스의 암살 시도로, 리미나리스는 휴리의 근거 없는 모함으로 받아들였다.
+  - 이 사건 이후 휴리와 리미나리스 관계는 급속히 악화되며, 오리아나가 아이카 혈통 인과에 들어가는 첫 구체 연결고리가 된다.
+
+## 2026-05-31 - 오리아나 아르킬 혼인과 환타 라라타 쌍둥이 보정
+
+- 작업: 현재 대화에서 추가된 아이카의 보호 설명, 디마리 암호 해석의 정치적 의미, 오리아나와 아르킬 백작의 혼인, 환타와 라라타의 쌍둥이 출생을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-oriana-arkill-fanta-larata.md`
+  - `wiki/sources/current-session-dimari-encrypted-mana-oriana-abduction.md`
+  - `wiki/entities/arkill-count.md`
+  - `wiki/entities/oriana-hyuri.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/fanta-hyuri.md`
+  - `wiki/entities/larata.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/events/오리아나와 데스모네 혈통 인과.md`
+  - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
+  - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
+  - `wiki/events/디마리의 미래 반역과 실종.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/events/네리네의 보주와 아세로리온 트라우마 사건.md`
+  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 아이카는 오리아나에게 자신이 보호를 위해 데려왔다고 설명하고, 어머니 디마리와 자신의 친분을 밝힌다.
+  - 오리아나는 디마리의 의미 불명의 실종이 대마법사 네리네와 관련되어 있고 그래서 사라졌다는 아이카의 설명을 받아들인다.
+  - 디마리의 암호 해석 내용은 여왕령에 널리 퍼진 "네리네가 시조들을 처리하고 그 힘을 빼앗았다"는 음모론을 확인하는 것이었으므로, 새 정치 파문은 만들지 않는다.
+  - 오리아나는 아이카의 혈족인 아르킬 백작과 혼인하고, 두 사람 사이에서 쌍둥이 환타와 라라타가 태어난다.
+
+## 2026-05-31 - 바르딜의 아르킬 살해와 오리아나 도주 보정
+
+- 작업: 현재 대화에서 추가된 바르딜의 범죄, 아르킬의 죽음, 오리아나의 실어증과 마법사령 도주, 환타와 라라타 분리, 아이카의 바르딜 처벌과 라라타 고아원 양육 방침을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-bardil-arkill-oriana-flight.md`
+  - `wiki/sources/current-session-oriana-arkill-fanta-larata.md`
+  - `wiki/entities/bardil-prince.md`
+  - `wiki/entities/arkill-count.md`
+  - `wiki/entities/oriana-hyuri.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/fanta-hyuri.md`
+  - `wiki/entities/larata.md`
+  - `wiki/events/바르딜의 아르킬 살해와 오리아나 도주 사건.md`
+  - `wiki/events/리미나리스 계승전.md`
+  - `wiki/events/환타 휴리의 패배.md`
+  - `wiki/events/리미나리스 계승전과 보석검 귀환 사건.md`
+  - `wiki/events/오리아나와 데스모네 혈통 인과.md`
+  - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
+  - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/events/스자스와 라로카의 카밀라 재구축.md`
+  - `wiki/events/소설 개별 사건 인덱스.md`
+  - `wiki/events/소설 대형 사건 해설서 인덱스.md`
+  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 바르딜은 오리아나를 이상형으로 여기고 있었고, 자신이 유약하다고 무시하던 아르킬이 오리아나와 혼인하자 열등감에 사로잡힌다.
+  - 바르딜은 아르킬의 집을 습격해 아르킬을 죽이고 오리아나를 성폭행한다.
+  - 아이카는 왕자라고 봐주던 바르딜을 귀족 감옥이 아니라 극악 범죄자용 지하 감옥에 가둔다.
+  - 오리아나는 충격으로 실어증에 걸린 뒤 두 딸을 데리고 마법사령 쪽으로 도망치지만, 추격대가 오는 사이 환타만 데리고 가고 라라타는 놓친다.
+  - 환타는 오리아나와 함께 마법사령 쪽으로 넘어가고, 라라타는 아이카의 결정으로 여왕령 고아원에서 강하게 길러진다.
+
+## 2026-05-31 - 환타 라라타 완성형 차원 방랑자 보정
+
+- 작업: 현재 대화에서 추가된 환타와 라라타의 완성형 차원 방랑자 혈통, 환타의 휴리 상층부 숭배와 리미나리스 결투 공격, 어린 제라애의 환타 숭배, 라라타의 재능 은폐와 72 대마신 등극 및 여왕령 원한을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-fanta-larata-planeswalker-twins.md`
+  - `wiki/sources/current-session-oriana-arkill-fanta-larata.md`
+  - `wiki/sources/current-session-bardil-arkill-oriana-flight.md`
+  - `wiki/entities/fanta-hyuri.md`
+  - `wiki/entities/larata.md`
+  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/haisia.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/oriana-hyuri.md`
+  - `wiki/entities/arkill-count.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/concepts/72-대마신.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/차원 방랑자 복원계획.md`
+  - `wiki/events/리미나리스 계승전.md`
+  - `wiki/events/환타 휴리의 패배.md`
+  - `wiki/events/리미나리스 계승전과 보석검 귀환 사건.md`
+  - `wiki/events/오리아나와 데스모네 혈통 인과.md`
+  - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
+  - `wiki/events/바르딜의 아르킬 살해와 오리아나 도주 사건.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 환타와 라라타는 여왕의 차원 방랑자 혈통과 전체론적 차원술사 하이시아의 혈통이 어우러진 완성형 차원 방랑자 쌍둥이다.
+  - 환타는 휴리 상층부에서 보물로 떠받들어지고, 어린 제라애는 사촌격인 환타의 천재성에 매료되어 환타를 숭배한다.
+  - 환타는 리미나리스에 감정이 나쁘던 휴리 상층부의 말에 선동당해 리미나리스 적대감을 키우고, 결투로 리미나리스 차원술사 귀족들을 공격한다.
+  - 라라타는 재능이 있으나 여왕의 "교만하게 키우지 말라"는 방침과 하이시아식 돌연변이 외모 때문에 힘을 숨기고 자란다.
+  - 라라타는 노력 끝에 여왕령 72 대마신 지위까지 오르지만, 자신을 강하게 키운다는 명목으로 사실상 내쳤다고 여기며 여왕령에 악감정을 품는다.
+
+## 2026-05-31 - 환타의 리미나리스 결투와 리나리로라 암살 보정
+
+- 작업: 현재 대화에서 추가된 환타의 리미나리스 인재 결투 피해, 후우라 크로노스 후세이의 피해, 오리아나의 제지 실패, 리나리로라의 보석검 암살 동기를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-fanta-liminaris-duels-assassination.md`
+  - `wiki/sources/current-session-fanta-larata-planeswalker-twins.md`
+  - `wiki/entities/huura-chronos-husei.md`
+  - `wiki/entities/fanta-hyuri.md`
+  - `wiki/entities/linarirora.md`
+  - `wiki/entities/oriana-hyuri.md`
+  - `wiki/events/환타 휴리의 패배.md`
+  - `wiki/events/리미나리스 계승전.md`
+  - `wiki/events/리미나리스 계승전과 보석검 귀환 사건.md`
+  - `wiki/events/오리아나와 데스모네 혈통 인과.md`
+  - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 환타는 결투로 리미나리스 차원술사 귀족을 포함한 리미나리스 인재들을 불구나 재기불능으로 만들어댔다.
+  - 피해자 중에는 오리아나를 도와준 후우라 크로노스 후세이도 있었다.
+  - 오리아나는 환타에게 제발 그만두라고 말렸지만, 환타는 휴리 지도부의 영향 아래 어머니를 괴롭힌 것은 리미나리스라고 주장하며 듣지 않았다.
+  - 견디지 못한 리나리로라 리미나리스는 보석검을 사용해 환타를 몰래 암살했다.
+
+## 2026-05-31 - 미나카 사도우 유상 협력과 휴리-사도우 악화 보정
+
+- 작업: 현재 대화에서 추가된 미나카 사도우의 낮은 열의의 유상 협력, 네리네의 미나카 동시 네블레이드, 사도우 계좌 마나 반환 거절, 휴리-사도우 관계 악화를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-minaka-sadou-paid-cooperation-neblade.md`
+  - `wiki/sources/current-session-dimari-paragon-first-head.md`
+  - `wiki/sources/dimari-session-source-map.md`
+  - `wiki/entities/minaka-sadou.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/events/디마리와 미나카 사도우의 반역 동기.md`
+  - `wiki/events/디마리의 미래 반역과 실종.md`
+  - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 미나카 사도우는 디마리 휴리의 협력 요청에 응했지만, 디마리가 사도우 계좌로 보낸 거액의 마나 때문에 응한 것이며 애초에 별 열의는 없었다.
+  - 미나카는 디마리가 네리네에게 일상적인 항의를 하는 줄 알고 동조했다가, 디마리가 네블레이드된 뒤 명백한 관련성이 발견되어 함께 네블레이드당한다.
+  - 휴리는 후에 사도우 계좌로 이체된 거액의 마나를 찾아내 사도우를 추궁하지만, 사도우는 이미 받은 마나를 돌려줄 수 없고 왜 자신들을 의심하느냐며 반환 시도를 거절한다.
+  - 이 사건 이후 휴리와 사도우의 사이도 나빠진다.
