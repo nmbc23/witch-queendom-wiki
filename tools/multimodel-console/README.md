@@ -7,11 +7,17 @@ This tool opens ChatGPT, Claude, and Google AI Studio in visible browser windows
 From the repository root:
 
 ```powershell
-$env:MULTIMODEL_WORKSPACE='C:\Users\CadriacLord\OneDrive\문서\New project'
-& 'C:\Users\CadriacLord\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' tools\multimodel-console\helper\server.js
+powershell -ExecutionPolicy Bypass -File tools\multimodel-console\start-helper.ps1
 ```
 
 The helper listens on `http://127.0.0.1:43891`.
+
+Optional flags:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File tools\multimodel-console\start-helper.ps1 -Port 43892
+powershell -ExecutionPolicy Bypass -File tools\multimodel-console\start-helper.ps1 -WorkspaceRoot "D:\other\workspace"
+```
 
 ## Load The Extension
 
