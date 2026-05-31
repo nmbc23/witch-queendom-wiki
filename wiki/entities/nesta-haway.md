@@ -1,7 +1,7 @@
 ---
 type: entity
 status: reviewed
-updated: 2026-05-05
+updated: 2026-05-31
 tags:
   - 소설/보석검파트
 aliases:
@@ -12,6 +12,7 @@ sources:
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-character-catalog]]
   - [[sources/aradnoa-disappearance]]
+  - [[sources/current-session-haway-steri-invasion-three-demons]]
 ---
 
 # 네스타 하웨이
@@ -25,6 +26,8 @@ sources:
 ## 에메랄드 타블렛 실무
 
 레오나 하웨이는 스테리 민족을 복속·노예화하고, 그들의 녹색 마력과 특성을 이용해 에메랄드 타블렛을 생산한다. 네스타는 디바이너로서 이 생산 과정의 실무를 맡는다.
+
+이 복속은 하웨이가 과거 세 위의 마신을 앞세워 스테리 클랜을 침공한 데서 출발한다. 스테리는 골렘 군대와 정보 조작계 무기를 갖고 있었지만 마신이 없었고, 하웨이의 차원술사 마신 전력 앞에서 무너졌다. 네스타가 맡은 에메랄드 타블렛 생산은 그 침공 이후 이어진 하웨이의 장기 착취 구조에 속한다.
 
 그러나 네스타는 자신이 하는 일이 무엇인지 알고 있다. 그는 메이노아 스테리와의 과거 관계 때문에 더욱 견디기 어려워한다.
 
@@ -45,6 +48,7 @@ sources:
 ## 관계
 
 - [[entities/leona-haway]]: 가주이자 상관.
+- [[events/하웨이의 스테리 침공]]: 네스타가 속한 하웨이 가문이 스테리를 복속시킨 원초적 범죄.
 - [[entities/szas-sreya]]: 진상을 듣는 조사자.
 - [[entities/meinoa-steri]]: 죄책감의 핵심이 되는 과거 동료.
 - [[entities/aradnoa-liminaris]]: 노리어 제작 지시를 네스타 명의로 세탁하게 되는 숨은 설계자.
@@ -54,3 +58,4 @@ sources:
 
 - 에메랄드 타블렛 사건 후 네스타의 처분.
 - 네스타가 하웨이를 배신한 범위와 시점.
+- 네스타가 하웨이의 스테리 침공 역사 자체를 어느 정도 죄로 인식했는지.

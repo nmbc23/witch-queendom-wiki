@@ -11,6 +11,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-steri-founder-pride-sierra-selection]]
   - [[sources/aradnoa-disappearance]]
   - [[sources/current-session-liminaris-family-council-parliament]]
 ---
@@ -36,6 +37,8 @@ sources:
 스테리 디바이너들은 희생자 없는 마신을 만들고 싶어 한다. 시에라는 죽은 시조 [[entities/emukare-mukere|에뮤카레 뮤케레]]와 [[entities/eridina-rinasita|에리디나 리나시타]]가 흩뿌리는 녹색·적색 에텔을 연료로 쓰면 가능하다고 제안한다.
 
 그 결과 [[concepts/노리어|노리어]]라는 정보의 마신 계획이 가시화된다. 메이노아 스테리는 뮤케레의 힘을, [[entities/wimea-haran|위메아 하란]]은 리나시타의 힘을 받아 쓴다.
+
+이때 스테리 쪽 명분은 단순한 생존 불안만이 아니다. 스테리는 네리네와 에뮤카레라는 스테리 출신 시조급 마법사를 기억하며, 자신들이 열등해서 마신화를 못 한 것이 아니라 사악한 방식의 마신화를 하지 않았을 뿐이라고 이해한다. 시에라가 스테리 출신 인물들을 시조급으로 세운 데에도 스테리 클랜을 응원하려는 측면이 있으므로, 노리어는 스테리의 열등감과 자긍심이 동시에 얽힌 프로젝트가 된다.
 
 ## 4. 네리네의 인재 수집
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 status: reviewed
-updated: 2026-05-28
+updated: 2026-05-31
 tags:
   - 소설/보석검파트
 aliases:
@@ -19,11 +19,14 @@ sources:
   - [[sources/current-session-liminaris-parliament-origin]]
   - [[sources/current-session-hyuri-bloodline]]
   - [[sources/current-session-liminaris-openness-spy-network]]
+  - [[sources/current-session-liminaris-naksha-haway-origin]]
 ---
 
 # 아세로리온 리미나리스
 
 아세로리온 리미나리스는 리미나리스의 가주이며, 네리네에게 딸처럼 사랑받았다가 버림받은 기억으로 망가진 마녀다. 그녀는 거만하고 강력하지만, 동시에 자기 영지에서조차 진정한 주역이 되지 못한다는 공포에 시달린다.
+
+리미나리스 자체는 [[entities/naksha|나크샤 크샤트리아 나즈샤라]]를 통해 네리네가 만들어낸 하웨이계 차원술사 혈통이다. 따라서 아세로리온의 가주권은 단순한 영지 통치가 아니라, 하웨이의 사실상 직계 후손으로 이어진 차원술사 귀족 사회의 정점이라는 의미도 가진다.
 
 ## 이미지 레퍼런스
 ![[assets/images/references/acerorion-liminaris-origin-reference.webp]
@@ -112,6 +115,7 @@ sources:
 ## 관계
 
 - [[entities/nerine]]: 사랑받았던 어머니이자 버림받은 공포의 근원.
+- [[concepts/리미나리스]]: 아세로리온이 가주로 선 하웨이계 차원술사 혈통이자 영지 세력.
 - [[concepts/차원술사 귀족]]: 아세로리온의 리미나리스가 품은 폐쇄적 차원술 귀족층.
 - [[concepts/리미나리스 뒷문 구조]]: 아세로리온을 가주로 세우면서도 네리네에게 우회 보고선을 열어둔 통치극.
 - [[concepts/리미나리스 개방성과 첩보 오염]]: 리미나리스의 역동성과 첩보 취약성을 함께 만드는 개방성.

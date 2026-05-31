@@ -1,7 +1,7 @@
 ﻿---
 type: log
 status: draft
-updated: 2026-05-28
+updated: 2026-05-31
 ---
 
 # Wiki Log
@@ -1731,3 +1731,253 @@ Notes:
   - 미나카는 디마리가 네리네에게 일상적인 항의를 하는 줄 알고 동조했다가, 디마리가 네블레이드된 뒤 명백한 관련성이 발견되어 함께 네블레이드당한다.
   - 휴리는 후에 사도우 계좌로 이체된 거액의 마나를 찾아내 사도우를 추궁하지만, 사도우는 이미 받은 마나를 돌려줄 수 없고 왜 자신들을 의심하느냐며 반환 시도를 거절한다.
   - 이 사건 이후 휴리와 사도우의 사이도 나빠진다.
+
+## 2026-05-31 - 리미나리스 나크샤 하웨이 기원 보정
+
+- 작업: 현재 대화에서 추가된 리미나리스 시조 나크샤 크샤트리아 나즈샤라의 하웨이 가문 마신 출신 설정, 네리네가 나크샤를 통해 리미나리스를 만들었다는 기원, 리미나리스의 하웨이 직계 후손성, 스테리의 감정적 적의를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-naksha-haway-origin.md`
+  - `wiki/concepts/리미나리스.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/리미나리스 의회.md`
+  - `wiki/concepts/리미나리스 개방성과 첩보 오염.md`
+  - `wiki/entities/naksha.md`
+  - `wiki/entities/leona-haway.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/events/에메랄드 타블렛 사건.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 리미나리스의 시조는 여왕령 하웨이 가문의 마신 출신인 나크샤 크샤트리아 나즈샤라다.
+  - 네리네는 나크샤를 통해 리미나리스를 만들어냈고, 리미나리스는 하웨이의 사실상 직계 후손이다.
+  - 스테리 클랜은 리미나리스에 원한을 품는 것이 논리적이지 않다는 점을 알지만, 금발과 흰 피부의 하웨이 혈통에 대한 적의를 감정적으로 숨기기 어렵다.
+  - 리미나리스는 네리네가 만든 집단이고 리미나리스 영토는 휴리를 거쳐야 도달할 수 있으므로, 스테리와 평소 직접 만날 일은 적다.
+
+## 2026-05-31 - 하웨이의 스테리 침공과 세 마신 보정
+
+- 작업: 현재 대화에서 추가된 하웨이의 스테리 클랜 침공, 나크샤·이노리 이놀이바·테라시에 테라이 세 마신의 선봉 역할, 스테리의 골렘 군대와 정보 조작계 무기 붕괴, 마신 부재 후회와 노리어 동기를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-haway-steri-invasion-three-demons.md`
+  - `wiki/events/하웨이의 스테리 침공.md`
+  - `wiki/entities/naksha.md`
+  - `wiki/entities/inoliba.md`
+  - `wiki/entities/terai.md`
+  - `wiki/entities/leona-haway.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/nesta-haway.md`
+  - `wiki/concepts/노리어.md`
+  - `wiki/concepts/리미나리스.md`
+  - `wiki/events/에메랄드 타블렛 사건.md`
+  - `wiki/events/네리네의 권능 전개.md`
+  - `wiki/events/네리네의 흡혈귀 토벌과 아세로리온 최후 사건.md`
+  - `wiki/events/소설 개별 사건 인덱스.md`
+  - `wiki/events/소설 대형 사건 해설서 인덱스.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 하웨이는 스테리의 잠재력에 마신이 더해질 경우 자신들이 밀릴 수 있다고 두려워해 스테리 클랜을 선제 침공했다.
+  - 나크샤 크샤트리아 나즈샤라, 이노리 이놀이바, 테라시에 테라이는 하웨이 침공의 선봉에 선 세 위의 차원술사 마신이다.
+  - 스테리의 골렘 군대와 정보 조작계 무기는 세 마신의 압도적 화력 앞에서 박살났고, 모든 마녀 왕국이 하웨이를 비난했지만 마신 없는 스테리를 제대로 도운 가문은 없었다.
+  - 스테리는 뒤늦게 마신을 만들지 않은 선택을 한탄했으며, 이 기억은 훗날 정보의 마신 노리어를 받아들이는 역사적 토양이 된다.
+
+## 2026-05-31 - 비스타리오 하웨이와 스테리 침공 기만 보정
+
+- 작업: 현재 대화에서 추가된 비스타리오 하웨이, 아이카가 이끄는 마신 연맹에 밀리던 차원술사 영향력, 하웨이의 마지막 무력에 기댄 폭력적 영향력, 스테리 대량 살상 무기 정보와 세 마신의 사후 불만을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-vistario-haway-steri-deception.md`
+  - `wiki/entities/vistario-haway.md`
+  - `wiki/events/하웨이의 스테리 침공.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/naksha.md`
+  - `wiki/entities/inoliba.md`
+  - `wiki/entities/terai.md`
+  - `wiki/entities/leona-haway.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/events/에메랄드 타블렛 사건.md`
+  - `wiki/events/네리네의 권능 전개.md`
+  - `wiki/events/네리네의 흡혈귀 토벌과 아세로리온 최후 사건.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 비스타리오 하웨이는 스테리 침공을 통해 아이카가 이끄는 마신 연맹에 밀리던 차원술사들의 영향력을 일시적으로 회복했다.
+  - 이 영향력은 과거 고귀한 하웨이에 대한 존중이 아니라, 하웨이가 마지막으로 남은 무력에 기댄 폭력적 영향력이었다.
+  - 세 마신은 스테리가 대량 살상 무기를 만든다는 정보를 믿고, 스테리 무력화를 고귀한 하웨이의 책무로 여겨 침공에 앞장섰다.
+  - 이후 세 마신은 비스타리오에게 속았음을 알고 큰 불만을 품으며, 이 보정은 침공의 가해 책임과 하웨이 내부의 도덕적 균열을 함께 남긴다.
+
+## 2026-05-31 - 스테리 대체 마신화와 노리어 동기 보정
+
+- 작업: 현재 대화에서 추가된 스테리의 대체 마신화 집착, 네리네의 대량 제물 마신화 금지, 스테리의 윤리적 긍지, 에뮤카레 뮤케레와 네리네 네에나리의 스테리 출신 마신성을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-steri-alternative-mashinization.md`
+  - `wiki/concepts/스테리 대체 마신화.md`
+  - `wiki/concepts/노리어.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/emukare-mukere.md`
+  - `wiki/events/하웨이의 스테리 침공.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 하웨이 침공과 마신에게 패배한 기억은 스테리가 미친 듯이 대체 마신 기술에 매달리는 원인이 된다.
+  - 네리네는 대량의 제물을 쓰는 전통적 마신화를 금지했지만, 스테리는 이 금지를 자신들이 사악한 의식을 거부했다는 긍지를 지키는 새 시대의 원칙으로도 받아들인다.
+  - 노리어는 스테리의 대체 마신화 흐름을 대표하는 희생자 없는 정보의 마신 프로젝트다.
+  - 에뮤카레 뮤케레와 네리네 네에나리는 스테리 출신 마신으로 정리되며, 스테리에게 "우리 출신 마신"의 기억을 형성한다.
+
+## 2026-05-31 - 하웨이 세 마신의 동방 탈주와 스테리 노예 해방 보정
+
+- 작업: 현재 대화에서 추가된 시에라 세라시에의 마법 완성 시점, 하웨이 세 마신의 속죄, 스테리 노예 과반수 동방 탈주, 하웨이 영향력 약화와 제한적 명예 회복을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-three-demons-eastern-defection.md`
+  - `wiki/events/하웨이 세 마신의 동방 탈주와 스테리 노예 해방.md`
+  - `wiki/events/하웨이의 스테리 침공.md`
+  - `wiki/entities/vistario-haway.md`
+  - `wiki/entities/naksha.md`
+  - `wiki/entities/inoliba.md`
+  - `wiki/entities/terai.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/leona-haway.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/events/소설 대형 사건 해설서 인덱스.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 시에라가 마법을 완성했을 때, 하웨이의 세 마신은 과거의 속죄로 자신들이 관리하던 스테리 노예 과반수를 이끌고 동쪽으로 탈주한다.
+  - 이 동쪽은 훗날 마법사령이 되는 축으로 이어진다.
+  - 하웨이의 영향력과 비스타리오의 야망은 크게 무너지지만, 세 마신의 속죄로 하웨이는 과거의 고귀함을 조금은 회복한다.
+
+## 2026-05-31 - 스테리 시조 마법사 자긍심과 시에라의 선택 보정
+
+- 작업: 현재 대화에서 추가된 네리네 네에나리와 에뮤카레 뮤케레의 스테리 출신 시조급 마법사성, 스테리의 비마신화 선택 정당화, 시에라 세라시에의 스테리 응원 의도를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-steri-founder-pride-sierra-selection.md`
+  - `wiki/concepts/스테리 시조 마법사 자긍심.md`
+  - `wiki/concepts/스테리 대체 마신화.md`
+  - `wiki/concepts/노리어.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/emukare-mukere.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/aradnoa-liminaris.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/mukere-rinasita-and-miriokarion.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 네리네 네에나리와 에뮤카레 뮤케레는 스테리가 열등한 민족이 아니라, 그저 대량 제물을 쓰는 마신화를 하지 않았을 뿐이라는 스테리의 서사에 정당성을 부여한다.
+  - 압도적인 마법사령의 시조급 마법사들 중 둘이나 스테리 출신이라는 사실은 스테리의 자긍심이다.
+  - 시에라 세라시에는 일부러 스테리 클랜을 응원하는 차원에서 네리네와 에뮤카레를 고른 측면이 있다.
+  - 이 자긍심은 노리어와 스테리 대체 마신화를 열등감만이 아니라 윤리적 선택과 민족적 자부심의 연장선으로 보이게 한다.
+
+## 2026-05-31 - 네리네의 시조 네블레이드 공식 신화와 스테리 수용 보정
+
+- 작업: 현재 대화에서 추가된 네리네의 시조 마신 네블레이드 공식 발표, 마녀 왕국 마신들의 쿠데타 인식, 스테리 클랜의 피해자 정체성에 따른 수용, 여왕령의 신정 독재화 조롱을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-nerine-founder-neblade-official-myth.md`
+  - `wiki/concepts/네리네의 시조 네블레이드 공식 신화.md`
+  - `wiki/events/네리네의 보주와 시조 수감.md`
+  - `wiki/events/네리네의 보주와 아세로리온 트라우마 사건.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/concepts/스테리 시조 마법사 자긍심.md`
+  - `wiki/concepts/스테리 대체 마신화.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 네리네는 시조 마신들을 네블레이드한 뒤, 그들이 악행에 대한 속죄로 모든 권한과 능력을 넘기고 진리를 찾으러 떠났다고 발표했다.
+  - 모든 마녀 왕국의 마신들은 이 발표를 쿠데타로 보았다.
+  - 스테리 클랜은 마신들에게 피해를 입은 민족이라는 정체성 때문에 이 발표를 믿었다. 정확히는 믿어준 것에 가깝다.
+  - 여왕령은 스테리가 피해자인 척하다 결국 네리네 중심의 신정 독재로 갔다고 비웃는다.
+
+## 2026-05-31 - 리미나리스와 스테리의 하웨이 혈통 인식 보정
+
+- 작업: 현재 대화에서 추가된 리미나리스, 스테리, 여왕령의 하웨이 혈통 인식 차이를 별도 관계 개념으로 정리하고 관련 문서에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-liminaris-steri-haway-perception.md`
+  - `wiki/concepts/리미나리스와 스테리의 하웨이 혈통 인식.md`
+  - `wiki/concepts/리미나리스.md`
+  - `wiki/concepts/차원술사 귀족.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/naksha.md`
+  - `wiki/entities/leona-haway.md`
+  - `wiki/events/하웨이의 스테리 침공.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 리미나리스는 하웨이 혈통 덕분에 여왕령의 차원술사와 마신들이 우호적으로 나오는 것을 경험하고, 그 의미를 완전히 알지는 못해도 좋은 일로 받아들인다.
+  - 스테리는 리미나리스가 속죄한 나크샤의 후예라는 점을 논리적으로 알지만, 나크샤 대장군이 스테리 방어선 대부분을 박살낸 장본인이었기 때문에 리미나리스를 곱게 보지 못한다.
+  - 여왕령의 차원술사와 마신들은 리미나리스를 보며 하웨이가 멸망한 것이 아니라 다른 방식으로 번영한다고 받아들인다.
+
+## 2026-05-31 - 휴리의 스테리 구출 작전과 스테리의 휴리 인식 보정
+
+- 작업: 현재 대화에서 추가된 에메랄드 타블렛 사건 이후 디마리 지휘의 대규모 스테리 구출 작전, 휴리에 대한 스테리의 좋은 인식, 네리네의 레오나 체포 투정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-hyuri-steri-rescue-operation.md`
+  - `wiki/concepts/스테리의 휴리 인식.md`
+  - `wiki/events/네리네의 분노와 휴리 투입.md`
+  - `wiki/events/에메랄드 타블렛 사건.md`
+  - `wiki/events/디마리의 리미나리스 방문과 아세로리온 불안 증폭.md`
+  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/entities/leona-haway.md`
+  - `wiki/entities/meinoa-steri.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/concepts/리미나리스와 스테리의 하웨이 혈통 인식.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/parts/보석검-파트.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/log.md`
+- 핵심 정리:
+  - 에메랄드 타블렛 사건 이후 네리네는 디마리 휴리에게 지시해 대규모 스테리 구출 작전을 개시했고, 휴리는 남은 스테리 민족마저 구출해왔다.
+  - 이 때문에 스테리는 휴리를 민족 구출자로 매우 좋게 인식한다.
+  - 작전 완료 뒤 네리네는 디마리에게 "그런데 레오나는? 알아서 나의 레오나를 잡아왔어야지"라고 투정하고, 디마리는 황당함과 스트레스를 겪는다.

@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
   - [[sources/current-session-fanta-liminaris-duels-assassination]]
   - [[sources/current-session-fanta-larata-planeswalker-twins]]
@@ -16,6 +17,10 @@ sources:
   - [[sources/current-session-oriana-arkill-fanta-larata]]
   - [[sources/current-session-dimari-encrypted-mana-oriana-abduction]]
   - [[sources/current-session-dimari-paragon-first-head]]
+  - [[sources/current-session-three-demons-eastern-defection]]
+  - [[sources/current-session-steri-alternative-mashinization]]
+  - [[sources/current-session-vistario-haway-steri-deception]]
+  - [[sources/current-session-haway-steri-invasion-three-demons]]
   - [[sources/current-codex-session-novel-notes]]
   - [[syntheses/novel-event-catalog]]
   - [[syntheses/mubeil-acerorion-dimari-jewel-sword-arc]]
@@ -33,8 +38,11 @@ sources:
 
 - 관련 인물: [[entities/nerine]], [[entities/shugoro-desmone]], [[entities/seijuna]], 기타 보주 속 시조들.
 - 사건: 네리네의 천장에는 보주들이 매달려 있으며, 그 안에는 시조들이 네블레이드되어 갇힌 것으로 보인다.
+- 공식 발표: 네리네는 시조 마신들이 자신들의 악행을 속죄하기 위해 모든 권한과 능력을 자신에게 넘기고 진리를 찾으러 떠났다고 발표한다.
+- 외부 반응: 모든 마녀 왕국의 마신들은 이를 쿠데타로 보며, 여왕령도 같은 음모론을 널리 공유한다.
+- 스테리 반응: 스테리 클랜은 마신 피해자라는 정체성 때문에 네리네의 발표를 그대로 믿는다. 정확히는 믿어준 것에 가깝다.
 - 결과: 보주 속 시조들은 의식이 남아 있으며, 훗날 뮤베일을 보고 여왕 아이카임을 알아보거나 아련하게 반응한다.
-- 후속 영향: 아세로리온이 어린 시절 이 보주를 물어본 일이 그녀의 인생을 결정적으로 망가뜨린다.
+- 후속 영향: 아세로리온이 어린 시절 이 보주를 물어본 일이 그녀의 인생을 결정적으로 망가뜨린다. 여왕령은 훗날 스테리가 피해자인 척하다 신정 독재화되었다고 비웃는다.
 
 ### E00-02. 아세로리온의 보주 질문과 모녀 관계 붕괴
 
@@ -58,6 +66,19 @@ sources:
 - 사건: 하이시아는 아이카를 여왕까지 만들어주고 늘 곁에 있던 시간의 마녀로 언급된다.
 - 결과: 하이시아는 아이카에게 그리움의 이름이며, 동시에 휴리와 시간계 후계 체계의 원형으로 작용한다.
 - 후속 영향: 네리네가 하이시아 후계를 육성 중이라고 말하자, 아이카는 겉으로는 아세로리온을 달래면서도 속으로는 새 일족 휴리를 보고 싶어한다.
+
+### E00-05. 하웨이의 스테리 침공
+
+- 관련 인물: [[entities/vistario-haway]], [[entities/naksha]], [[entities/inoliba]], [[entities/terai]], [[entities/aika-desmone-mubeil-aiki-lau]], 스테리 클랜, 하웨이 가문.
+- 사건: 하웨이는 스테리 클랜의 경제력, 골렘 기술력, 정보 조작계 마술에 마신이 더해지면 자신들이 밀릴 수 있다고 두려워해 선제 침공한다.
+- 정치적 효과: 비스타리오 하웨이는 이 공격으로 아이카가 이끄는 마신 연맹에 밀리던 차원술사들의 영향력을 일시적으로 회복한다. 그러나 이는 과거 고귀한 하웨이의 영향력이 아니라, 마지막 무력에 기대는 폭력적 영향력이다.
+- 명분: 세 마신이 움직인 직접 이유는 스테리가 대량 살상 무기를 만든다는 정보다. 나크샤 크샤트리아 나즈샤라, 이노리 이놀이바, 테라시에 테라이는 스테리 무력화가 고귀한 하웨이의 책무라고 믿고 앞장선다.
+- 전개: 세 위의 차원술사 마신이 앞장서고, 스테리의 골렘 군대와 정보 조작계 무기는 압도적 화력에 박살난다.
+- 사후 균열: 세 마신은 나중에 자신들이 비스타리오에게 속았음을 알고 큰 불만을 품는다.
+- 속죄: 추후 시에라 세라시에가 마법을 완성했을 때, 세 마신은 자신들이 관리하던 스테리 노예 과반수를 이끌고 후에 마법사령이 될 동쪽으로 탈주한다.
+- 국제 반응: 모든 마녀 왕국이 하웨이를 비난하지만, 마신이 아예 없는 스테리의 편을 제대로 들어준 가문은 없다.
+- 결과: 스테리는 복속·노예화되고, 뒤늦게 마신을 만들지 못한 자기들의 선택을 한탄한다. 세 마신의 동방 탈주 뒤에는 하웨이의 영향력이 크게 약화되고 비스타리오의 야망도 무너진다.
+- 후속 영향: 에메랄드 타블렛 사건의 원죄가 되며, 스테리가 훗날 대체 마신화와 정보의 마신 노리어를 받아들이는 역사적 토양이 된다. 네리네는 대량 제물 마신화를 금지하지만, 스테리는 이를 사악한 의식을 거부한 자기들의 긍지를 지키면서 새 시대의 마신 기술을 찾으라는 의지로 받아들인다.
 
 ## 1. 뮤베일의 리미나리스 잠입과 아세로리온 의존
 
@@ -212,14 +233,14 @@ sources:
 
 - 관련 인물: [[entities/nerine]], [[entities/dimari-hyuri]], 휴리, 스테리 민족.
 - 사건: 에메랄드 타블렛 사건이 드러나고, 스테리 출신인 네리네는 격노한다.
-- 전개: 네리네는 휴리들을 투입해 남은 스테리들을 구출한다.
-- 결과: 휴리의 압도적 능력이 드러난다.
-- 후속 영향: 아세로리온은 휴리가 리미나리스를 대체할 수 있다는 공포를 더 강하게 느낀다.
+- 전개: 네리네는 디마리 휴리에게 지시해 대규모 스테리 구출 작전을 개시하고, 휴리들은 남은 스테리 민족마저 구출한다.
+- 결과: 휴리의 압도적 능력이 드러나고, 스테리는 휴리를 자기 민족의 구출자로 매우 좋게 인식한다.
+- 후속 영향: 아세로리온은 휴리가 리미나리스를 대체할 수 있다는 공포를 더 강하게 느낀다. 작전 뒤 네리네는 디마리에게 레오나를 알아서 잡아오지 않았다고 투정해 디마리의 스트레스를 키운다.
 
 ### E04-08. 디마리의 리미나리스 방문과 아세로리온 불안 증폭
 
 - 관련 인물: [[entities/dimari-hyuri]], [[entities/acerorion-liminaris]], [[entities/meibell-nast]].
-- 사건: 디마리가 리미나리스에 와서 자료 제출 등을 요구한다.
+- 사건: 디마리가 스테리 구출 작전 이후 리미나리스에 와서 자료 제출 등을 요구한다.
 - 결과: 디마리의 존재 자체가 아세로리온에게 네리네가 언제든 리미나리스를 갈아치울 수 있다는 증거처럼 보인다.
 
 ## 5. 아세로리온의 흡혈 마신화

@@ -11,6 +11,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-steri-founder-pride-sierra-selection]]
   - [[sources/aradnoa-disappearance]]
   - [[sources/current-session-liminaris-family-council-parliament]]
   - [[entities/sierra-serasie]]
@@ -30,6 +31,7 @@ sources:
 - 리미나리스 중앙 연구소: 흔히 있는 떠오르는 샛별 연구자로 자리 잡는다. 추후 중역까지 올라갈 가능성은 높지만, 귀족 사회에서는 이미 [[entities/aref-accel-seia|아레프]]의 인물로 공유되어 정치적 천장도 함께 정해져 있다.
 - 리미나리스 당면 과제 해결: 본체인 [[entities/sierra-serasie|시에라]]의 그랜드 파워급 연산력을 적당히 끌어와 리미나리스가 막혀 있던 차원술 과제를 여러 개 해결한다.
 - 스테리 디바이너 협력: 희생자 없는 마신, 죽은 마신의 에텔, 정보의 마신 노리어를 제안하며 디바이너들의 연구를 결정적으로 밀어준다.
+- 스테리 자긍심 활용: 스테리가 [[entities/nerine|네리네]]와 [[entities/emukare-mukere|에뮤카레]]를 스테리 출신 시조급 마법사로 기억한다는 점을 배경으로, 노리어를 열등감의 산물이 아니라 비마신화 선택을 보상하는 새 방식의 마신급 시스템으로 받아들이게 한다.
 
 ## 네리네의 오판
 
@@ -67,6 +69,8 @@ sources:
 
 아라드노아가 없으면 노리어는 성립하지 않는다. 공개적으로 사라진 뒤의 지시는 [[entities/nesta-haway|네스타 하웨이]] 명의로 세탁되어 노리어 완성에 기여한다.
 
+스테리 디바이너들이 아라드노아를 받아들이는 배경에는 [[concepts/스테리 시조 마법사 자긍심]]도 있다. 스테리는 자신들이 열등한 민족이 아니라, 대량 제물을 쓰는 사악한 마신화를 하지 않았을 뿐이라고 믿고 싶어 한다. 아라드노아는 이 자긍심을 건드리지 않으면서도, 희생자 없는 노리어를 스테리의 새 시대 마신화로 제시한다.
+
 ## 관계
 
 - [[entities/sierra-serasie]]: 본체이자 조종자.
@@ -74,6 +78,7 @@ sources:
 - [[entities/sizurinai-liminaris]]: 상관·경쟁자·명목상 후견인.
 - [[entities/nesta-haway]]: 노리어 제작 지시를 세탁하는 협력자.
 - [[entities/meinoa-steri]]: 노리어 계획을 승인하고 운용하는 스테리 지도부 축.
+- [[concepts/스테리 시조 마법사 자긍심]]: 아라드노아가 노리어를 스테리의 열등감이 아니라 자긍심의 연장선으로 제시할 수 있는 배경.
 - [[entities/izkata]]: 공개적 소실을 연출한 결투 상대.
 
 ## 미확정
