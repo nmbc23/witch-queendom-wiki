@@ -2309,3 +2309,42 @@ Notes:
   - 브줄 이주 규모와 내부 반대파 여부.
   - 네리네가 하사한 산맥 광산 지역의 이름과 위치, 생산 자원.
   - 여왕령이 브줄 이반을 공식적으로 어떻게 선전하거나 대응했는지.
+
+## 2026-06-01 - 브줄 이반 후 여왕령 국경 다섯 대마신 배치 보정
+
+- 작업: 현재 대화에서 추가된 브줄 집단 이반의 타격 규모, 크로니카 투항과 브줄 이반의 체급 차이, 여왕령이 뒤늦게 국경에 여왕 직권의 다섯 대마신을 배치해 경계를 강화한 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-bzul-border-five-great-demons.md`
+  - `wiki/events/여왕령 국경 다섯 대마신 배치.md`
+  - `wiki/events/브줄 가문의 마법사령 이반.md`
+  - `wiki/concepts/브줄 가문.md`
+  - `wiki/concepts/72-대마신.md`
+  - `wiki/concepts/현자 회의와 72 대마신 체제.md`
+  - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/chronica-criella.md`
+  - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
+  - `wiki/events/소설 개별 사건 인덱스.md`
+  - `wiki/events/소설 대형 사건 해설서 인덱스.md`
+  - `wiki/sources/current-session-bzul-defection-chronica-precedent.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 크로니카는 레서 마신이자 변방 농촌 기반 인물이었으므로, 그녀의 투항은 충격적이지만 여왕령이 감당할 수 있는 선례였다.
+  - 브줄은 여왕령의 대마신 중 하나로 취급되는 강력한 가문이었기 때문에, 브줄 전체가 마법사령으로 이반한 일은 여왕령에 큰 전략 손실이었다.
+  - 여왕령은 뒤늦게 국경에 여왕이 직접 힘을 내린 다섯 대마신을 배치해 경계를 강화했다.
+  - 이 조치는 장기 휴전이 전면전 회피를 뜻할 뿐, 국경이 비무장화되었다는 뜻은 아님을 보여준다.
+  - 72 대마신 체제는 평시 정치·관료 체계이면서, 위기에는 왕권 직속 국경 방어 체계로 재편될 수 있다.
+  - 친마법사령 이반 유혹은 브줄 사건 이후 여론·출세 문제가 아니라 국경 안보 문제로도 취급된다.
+- 검삭 필요:
+  - 국경에 배치된 다섯 대마신의 이름, 출신 가문, 담당 구역.
+  - 다섯 대마신이 기존 72 대마신에서 차출된 인물인지, 별도 임시 국경직인지.
+  - 아이카가 직접 힘을 내렸다는 말의 마술적·제도적 의미.
+  - 브줄 이반부터 국경 강화까지의 시간차.
+  - 마법사령이 이 국경 강화에 외교적으로 어떻게 반응했는지.

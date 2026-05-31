@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-bzul-border-five-great-demons]]
   - [[sources/current-session-bzul-defection-chronica-precedent]]
   - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
@@ -551,6 +552,14 @@ sources:
 - 선례: 크로니카가 흡혈 주술 발명자였음에도 마법사령에 받아들여진 사례가, 브줄의 집단 이반 판단에 결정적 근거가 된다.
 - 결과: 네리네는 브줄을 `위대한 에리디나 언니의 가문`이라며 격렬히 환영하고, 자원은 많지만 개발되지 않은 산맥의 광산 지역을 통째로 내려준다.
 - 후속 영향: 브줄은 마법사령의 주요 세력 몫 좌석과 광산 자원 기반을 갖춘 집단으로 자리 잡는다.
+
+### E10-06. 여왕령 국경 다섯 대마신 배치
+
+- 관련 인물: [[entities/aika-desmone-mubeil-aiki-lau]], [[concepts/72-대마신]], [[concepts/브줄 가문]].
+- 사건: 크로니카의 투항은 레서 마신이자 변방 농촌 기반 인물의 이탈이라 감당 가능했지만, 브줄은 여왕령의 대마신 중 하나로 취급되는 강력한 가문이었다.
+- 전개: 브줄이 통째로 마법사령에 이반하자 여왕령은 뒤늦게 국경에 여왕이 직접 힘을 내린 다섯 대마신을 배치한다.
+- 결과: 여왕령과 마법사령의 장기 휴전 경계는 전면전 없이도 왕권 직속 방어선으로 강화된다.
+- 후속 영향: 친마법사령 이반 유혹은 여론·출세 문제가 아니라 국경 안보 문제로도 취급된다.
 
 ## 11. 미래 사건과 후대 인과
 

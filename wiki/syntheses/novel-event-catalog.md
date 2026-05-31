@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-bzul-border-five-great-demons]]
   - [[sources/current-session-bzul-defection-chronica-precedent]]
   - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
@@ -151,6 +152,7 @@ sources:
 - 식물성 피 하사: 아이카가 스자스를 통해 니게데의 식물성 피 열매를 보낸다.
 - 황금 수해 포도밭: 크로니카는 흡혈귀들을 시켜 포도 농사를 지으며 묘한 운명을 느낀다.
 - 브줄 가문 이반: 파괴의 마신 브줄은 마법사령 시조 에리디나 리나시타를 배출한 탓에 여왕령에서 은근한 제한을 받고, 티라하 브줄이 72 대마신에서 밀려난 뒤 사바하 브줄의 결정으로 통째로 마법사령에 이주한다. 네리네는 에리디나의 가문이라며 환영하고 미개발 산맥 광산 지역을 내려준다.
+- 여왕령 국경 다섯 대마신 배치: 브줄이 여왕령의 대마신급 가문이었기에 집단 이반의 타격은 크로니카 투항보다 훨씬 컸고, 여왕령은 뒤늦게 국경에 여왕이 직접 힘을 내린 다섯 대마신을 배치해 경계를 강화한다.
 
 ## 미래 사건
 
