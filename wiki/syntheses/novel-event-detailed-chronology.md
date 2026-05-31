@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-bzul-defection-chronica-precedent]]
   - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
@@ -541,6 +542,15 @@ sources:
 - 사건: 마도서 편찬과 흡혈귀 단속이 매끄럽게 이어지자, 크로니카는 황금 수해의 큰 영지와 밭을 받는다.
 - 전개: 흡혈귀들을 시켜 포도 농사를 하며 본업인 포도주 산업을 되찾는다.
 - 결과: 크로니카는 묘한 운명의 흐름을 느낀다. 여왕령에서 농업 중소기업처럼 운영하던 일이, 마법사령에서는 흡혈귀 재활 행정과 결합한다.
+
+### E10-05. 브줄 가문의 마법사령 이반
+
+- 관련 인물: [[entities/sabaha-bzul]], [[entities/tiraha-bzul]], [[entities/nerine]], [[entities/eridina-rinasita]], [[entities/chronica-criella]].
+- 사건: 파괴의 마신 [[concepts/브줄 가문|브줄 가문]]은 마법사령의 시조 에리디나 리나시타를 배출한 탓에 여왕령에서 출세에 은근한 제한을 받는다.
+- 도화선: 티라하 브줄이 72 대마신에서 밀려나자, 가주 사바하 브줄은 능력이 부족한 것도 아닌데 계속 눈칫밥을 먹느니 마법사령으로 이주하겠다고 결정한다.
+- 선례: 크로니카가 흡혈 주술 발명자였음에도 마법사령에 받아들여진 사례가, 브줄의 집단 이반 판단에 결정적 근거가 된다.
+- 결과: 네리네는 브줄을 `위대한 에리디나 언니의 가문`이라며 격렬히 환영하고, 자원은 많지만 개발되지 않은 산맥의 광산 지역을 통째로 내려준다.
+- 후속 영향: 브줄은 마법사령의 주요 세력 몫 좌석과 광산 자원 기반을 갖춘 집단으로 자리 잡는다.
 
 ## 11. 미래 사건과 후대 인과
 

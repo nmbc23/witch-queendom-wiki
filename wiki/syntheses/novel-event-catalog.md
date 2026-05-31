@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-bzul-defection-chronica-precedent]]
   - [[sources/current-session-chronica-surrender-asylum-shock]]
   - [[sources/current-session-nerine-founder-neblade-official-myth]]
   - [[sources/current-session-minaka-sadou-paid-cooperation-neblade]]
@@ -149,6 +150,7 @@ sources:
 - 흡혈귀 단속 임명: 네리네가 마법사령 흡혈귀 문제를 크로니카에게 맡긴다.
 - 식물성 피 하사: 아이카가 스자스를 통해 니게데의 식물성 피 열매를 보낸다.
 - 황금 수해 포도밭: 크로니카는 흡혈귀들을 시켜 포도 농사를 지으며 묘한 운명을 느낀다.
+- 브줄 가문 이반: 파괴의 마신 브줄은 마법사령 시조 에리디나 리나시타를 배출한 탓에 여왕령에서 은근한 제한을 받고, 티라하 브줄이 72 대마신에서 밀려난 뒤 사바하 브줄의 결정으로 통째로 마법사령에 이주한다. 네리네는 에리디나의 가문이라며 환영하고 미개발 산맥 광산 지역을 내려준다.
 
 ## 미래 사건
 

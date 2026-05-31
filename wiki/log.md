@@ -2264,3 +2264,48 @@ Notes:
   - 크로니카가 데려간 신도와 영지민의 규모.
   - 크로니카 수용을 결정한 마법사령 측 주체.
   - 여왕령 마신들이 이 사건을 공개 발언과 사적 논의에서 어떻게 해석했는지.
+
+## 2026-06-01 - 브줄 가문 이반과 크로니카 선례 보정
+
+- 작업: 현재 대화에서 추가된 파괴의 마신 브줄 가문의 마법사령 이반, 에리디나 리나시타 혈통 제한, 티라하 브줄의 72 대마신 배제, 사바하 브줄의 이주 결정, 네리네의 광산 지역 하사를 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-bzul-defection-chronica-precedent.md`
+  - `wiki/concepts/브줄 가문.md`
+  - `wiki/entities/sabaha-bzul.md`
+  - `wiki/entities/tiraha-bzul.md`
+  - `wiki/events/브줄 가문의 마법사령 이반.md`
+  - `wiki/entities/eridina-rinasita.md`
+  - `wiki/entities/wimea-haran.md`
+  - `wiki/entities/chronica-criella.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/concepts/마법사 좌석 구조.md`
+  - `wiki/concepts/승천자.md`
+  - `wiki/concepts/72-대마신.md`
+  - `wiki/concepts/현자 회의와 72 대마신 체제.md`
+  - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
+  - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
+  - `wiki/events/소설 개별 사건 인덱스.md`
+  - `wiki/sources/current-session-mage-seat-distribution.md`
+  - `wiki/syntheses/mukere-rinasita-and-miriokarion.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 브줄은 에리디나 리나시타를 배출한 오래된 파괴의 마신 가문이다.
+  - 브줄은 강력했지만 마법사령 시조 혈통 때문에 여왕령에서 출세에 은근한 제한을 받았다.
+  - 티라하 브줄이 72 대마신에서 밀려난 뒤, 가주 사바하 브줄은 능력 부족도 아닌데 계속 눈칫밥을 먹느니 마법사령으로 이주하겠다고 판단했다.
+  - 크로니카가 위험한 흡혈 주술 발명자였음에도 마법사령에 받아들여진 선례가 브줄 이반의 결정적 근거가 되었다.
+  - 네리네는 브줄을 에리디나의 가문으로 격렬히 환영하고, 자원은 많지만 개발되지 않은 산맥 광산 지역을 통째로 하사했다.
+  - 브줄은 휴리·리미나리스·사도우와 함께 마법사령 주요 세력 몫 좌석을 설명하는 축으로 정리했다.
+- 검삭 필요:
+  - `파괴의 마신`이 가문 별칭인지, 특정 조상/가주 칭호인지.
+  - 티라하가 기존 72 좌석에서 축출된 것인지, 후보 경쟁에서 밀려난 것인지.
+  - 브줄 이주 규모와 내부 반대파 여부.
+  - 네리네가 하사한 산맥 광산 지역의 이름과 위치, 생산 자원.
+  - 여왕령이 브줄 이반을 공식적으로 어떻게 선전하거나 대응했는지.
