@@ -2792,3 +2792,28 @@ Notes:
   - 괴조가 세계를 멸망시키는 과정이 마나 고갈, 물리적 파괴, 유계 접근 가속 중 어디에 가까운지.
   - 차원술사들이 여왕의 정체를 처음 관측한 사건과 기록.
   - 전 우주의 차원술사 유체 집합체라는 아레프식 해석의 정본 여부.
+
+## 2026-06-01 - 아이카의 자기찬양 욕망과 황금 새벽 구현
+
+- 작업: 현재 대화에서 추가된 아이카의 자기 동상·찬양가·구세주 칭송 욕망, 여왕령의 데스모네 화폐 단위, 황금 새벽의 차원에서의 실현을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-aika-savior-self-glorification.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/concepts/황금 새벽의 차원.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/sources/current-session-golden-dawn-dimension-aika-lu.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 아이카는 온 도시에 자기 동상을 세우고, 자기 찬양가가 흐르며, 구세주로 칭송받는 세계를 꿈꿨다.
+  - 여왕령에서는 그 욕망을 노골적으로 펼치지 못해 화폐 단위를 `데스모네`로 삼는 정도에 그쳤고, 지폐에 자기 얼굴을 넣는 것도 실현하지 못했다.
+  - 황금 새벽의 차원에서는 `구세주 아이카 루`라는 호칭과 도시적 숭배 연출로 그 꿈을 실현한다.
+  - 이 보정은 차원 포식 괴조이자 불로불사의 여왕인 아이카에게 유치하고 인간적인 허영심을 더해, 공포와 블랙 코미디를 동시에 강화한다.
+- 검삭 필요:
+  - 여왕령 화폐 `데스모네`의 하위 단위와 지폐·주화 디자인.
+  - 아이카 얼굴 지폐가 무산된 이유가 정치적 체면, 귀족 견제, 여왕 본인의 자제 중 무엇인지.
+  - 황금 새벽의 차원에서 아이카 동상, 찬양가, 구세주 의례가 어떤 축제와 제도로 구현되는지.
