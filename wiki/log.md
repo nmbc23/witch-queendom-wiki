@@ -2723,3 +2723,35 @@ Notes:
   - 아이카 루, 뮤베일 아이키 라우, 루가 라우 계열 이름의 관계.
   - 황금 새벽의 차원에서 제압된 비마녀 종족들의 현재 정치적·사회적 지위.
   - 원초의 황금 에텔이 대이주 구원책으로 실제 기능할 수 있는지.
+
+## 2026-06-01 - 아이카의 황금 새벽 이주 목표 보정
+
+- 작업: 현재 대화에서 추가된 아이카의 최종 목적, 곧 슈고로와 하이시아 회수 후 황금 새벽의 차원으로 이주하고 현재 차원을 마법사령에 넘기는 조건부 결말 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-aika-golden-dawn-migration-goal.md`
+  - `wiki/concepts/황금 새벽의 차원.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/shugoro-desmone.md`
+  - `wiki/entities/haisia.md`
+  - `wiki/concepts/마나 고갈과 대이주.md`
+  - `wiki/concepts/여왕령과 마법사령.md`
+  - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/events/하이시아와 아이카의 과거.md`
+  - `wiki/events/네리네의 보주와 시조 수감.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 아이카의 최종 목적은 딸 슈고로와 친구 하이시아를 되찾아 함께 황금 새벽의 차원으로 이주하는 것이다.
+  - 슈고로와 하이시아라는 두 인연이 없다면 아이카는 현재 물질계에 집착할 이유가 거의 없다.
+  - 두 사람을 회수하면 아이카는 부하들을 이끌고 원초의 차원으로 떠나며, 현재 차원은 마법사령에 넘겨줄 수 있다.
+  - 슈고로는 아이카의 딸로 확정되어, 보주 속 “엄마” 반응의 이유가 핵심 관계로 승격되었다.
+  - 하이시아는 아이카에게 그리움의 친구일 뿐 아니라, 현재 차원에 남아 있게 만드는 두 핵심 인연 중 하나가 되었다.
+- 검삭 필요:
+  - 슈고로 회수와 하이시아 해방이 같은 루트인지, 별개의 조건인지.
+  - 아이카가 데리고 갈 부하들의 범위와 여왕령 잔류민 처리.
+  - 현재 차원을 마법사령에 넘긴다는 구상이 네리네나 마법사령 측에 알려져 있는지.
+  - 이양 절차가 정치적 항복, 차원 소유권 이전, 여왕령 해산 중 어떤 형태인지.
