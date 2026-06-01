@@ -10,6 +10,7 @@ part:
   - 보석검 파트
 sources:
   - [[sources/current-session-aika-golden-dawn-migration-goal]]
+  - [[sources/current-session-dimension-devouring-bird-original-identity]]
   - [[sources/current-session-golden-dawn-dimension-aika-lu]]
   - [[sources/current-session-haisia-future-release-hyuri-smile]]
   - [[sources/current-session-northern-lake-sierra-beast-hunt]]
@@ -672,11 +673,13 @@ sources:
 
 ### U12-06. 황금 새벽의 차원 정복 시점
 
+- 정리됨: 여왕 아이카의 정체는 차원술사들이 관측한 세계와 세계를 날아다니며 멸망시키는 차원 포식 괴조이며, 이는 후대 수식이 아니라 원설정이다.
 - 정리됨: 아이카는 전 우주가 찾고 싶어 하는 근원의 차원, 곧 황금 새벽의 차원 좌표를 알고 있다.
 - 정리됨: 현존 차원 항해선은 이곳을 찾을 만큼 깊이 들어가지 못하지만, 아이카는 차원 포식 괴조 진체로 돌파해 찾아냈다.
 - 정리됨: 황금 새벽의 차원은 원초의 황금 에텔이 대기에 가득해 모든 사람이 차원술을 쓰는 곳이며, 마녀는 마술 우위를 잃고 약소 종족 취급을 받았다.
 - 정리됨: 아이카는 분노해 진체를 개방하고 다른 종족들을 제압해 그곳을 마녀의 차원으로 만들었고, 이곳에서는 구세주 아이카 루로 통한다.
 - 쟁점: 이 사건이 아이카의 데스모네 입양 전후, 여왕 즉위 전후, 뮤베일 분체 활동 전후 중 어디에 놓이는지 아직 미정이다. `아이카 루`라는 평민명과 `뮤베일 아이키 라우`, `루가 라우` 계열 이름의 관계도 보강이 필요하다.
+- 쟁점: 차원 포식 괴조가 세계를 멸망시키는 일반 방식과 황금 새벽의 차원 제압이 같은 계열의 사건인지, 혹은 아이카가 이곳에서는 정복과 보호를 택한 예외인지 정리할 필요가 있다.
 
 ### U12-07. 아이카의 황금 새벽 이주 조건
 

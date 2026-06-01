@@ -2755,3 +2755,40 @@ Notes:
   - 아이카가 데리고 갈 부하들의 범위와 여왕령 잔류민 처리.
   - 현재 차원을 마법사령에 넘긴다는 구상이 네리네나 마법사령 측에 알려져 있는지.
   - 이양 절차가 정치적 항복, 차원 소유권 이전, 여왕령 해산 중 어떤 형태인지.
+
+## 2026-06-01 - 차원 포식 괴조 원설정 보정
+
+- 작업: 현재 대화에서 추가된 "차원 포식 괴조는 처음부터 여왕의 정체로 관측된 존재"라는 보정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-dimension-devouring-bird-original-identity.md`
+  - `wiki/concepts/차원 포식 괴조.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/sydeia.md`
+  - `wiki/events/아레프와 시에라의 첫만남.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/concepts/황금 새벽의 차원.md`
+  - `wiki/concepts/마나 고갈과 대이주.md`
+  - `wiki/concepts/클라인의 항아리.md`
+  - `wiki/sources/current-session-aref-sierra-additions.md`
+  - `wiki/sources/current-session-golden-dawn-dimension-aika-lu.md`
+  - `wiki/sources/current-session-sydeia-corrections.md`
+  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 여왕 아이카의 정체는 차원술사들이 관측한, 세계와 세계를 날아다니며 멸망시키는 차원 포식 괴조다.
+  - 이는 후속 수식이 아니라 원설정이며, 황금 새벽의 차원 돌파는 그 정체의 스케일을 드러내는 사례다.
+  - 아이카가 인간적인 인연과 목적을 갖게 되는 흐름은 괴조 정체와 충돌하지 않고, 우주적 재앙 안쪽에 남은 개인적 집착으로 작동한다.
+  - 아레프와 미료카네온의 괴조 주장은 장면 내부에서는 의심받지만, 정본 층위에서는 진실의 파편이다.
+- 검삭 필요:
+  - 차원 포식 괴조가 아이카 하나의 고유 진체인지, 데스모네/괴조 계열 전체와 이어지는지.
+  - 괴조가 세계를 멸망시키는 과정이 마나 고갈, 물리적 파괴, 유계 접근 가속 중 어디에 가까운지.
+  - 차원술사들이 여왕의 정체를 처음 관측한 사건과 기록.
+  - 전 우주의 차원술사 유체 집합체라는 아레프식 해석의 정본 여부.

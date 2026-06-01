@@ -1,13 +1,14 @@
 ---
 type: entity
 status: draft
-updated: 2026-05-04
+updated: 2026-06-01
 aliases:
   - 시데이아
   - 아자리 시데이아
   - 슈프림 플레인스워커 시데이아
   - Supreme Planeswalker Sydeia
 sources:
+  - [[sources/current-session-dimension-devouring-bird-original-identity]]
   - [[sources/supreme-planeswalker-sydeia]]
   - [[sources/current-session-sydeia-corrections]]
   - [[sources/current-session-aref-sierra-additions]]
@@ -60,7 +61,7 @@ sources:
 
 그녀가 "이계인"임을 밝히는 순간은 단순한 출신 고백이 아니다. 시에라나 휴리가 전제한 격리, 감금, 좌표 차단 논리를 흔드는 말이다. 시데이아는 이 차원의 폐쇄계 안에서만 정의되는 변수가 아니라, 외부 우주와 연결된 예외 변수다.
 
-다만 시에라는 시데이아의 모든 진술을 믿지는 않는다. 특히 두 딸을 아이카에게 잃었다는 개인사와, 아이카가 차원 포식 괴조라는 주장은 검증 보류 상태다. 이 불신은 시데이아를 약화하기보다, 외부 우주적 진실과 현지 마법사의 회의주의가 충돌하는 긴장을 만든다.
+다만 시에라는 시데이아의 모든 진술을 믿지는 않는다. 특히 두 딸을 아이카에게 잃었다는 개인사와, 아이카가 차원 포식 괴조라는 주장은 장면 내부에서 검증 보류 상태다. 후속 정본 층위에서는 차원술사들이 관측한 여왕의 정체가 실제로 [[concepts/차원 포식 괴조|차원 포식 괴조]]임이 확정되지만, 시데이아가 말한 개인사와 `전 우주의 차원술사 유체 집합체` 해석은 별도 미정으로 남는다. 이 불신은 시데이아를 약화하기보다, 외부 우주적 진실과 현지 마법사의 회의주의가 충돌하는 긴장을 만든다.
 
 ## 보류 설정
 

@@ -28,6 +28,7 @@ Source: user-provided continuity notes in the 2026-06-01 Codex conversation.
 
 ## 위키 적용 규칙
 
-- 이 보정은 [[sources/current-session-aref-sierra-additions|현재 세션 아레프-시에라 추가 설정]]의 "차원 포식 괴조와 아이카 진체의 관계 미확정"보다 후속 확정으로 취급한다.
+- 이 보정은 [[sources/current-session-aref-sierra-additions|현재 세션 아레프-시에라 추가 설정]]의 "차원 포식 괴조와 아이카 진체의 관계 미확정"을 장면 내부 보류로 남긴 채, 정본 층위에서는 그 관계를 드러내는 보정으로 취급한다.
+- 추가 보정: [[sources/current-session-dimension-devouring-bird-original-identity|차원 포식 괴조 원설정 보정]]에 따라, 이 관계는 단순 후속 수습이 아니라 처음부터 차원술사들이 관측한 여왕의 정체로 취급한다.
 - 다만 시에라가 아레프와 처음 대화하던 당시에는 이를 검증하지 못했다는 장면 관점은 유지한다.
 - `아이카 루`, `뮤베일 아이키 라우`, `루가 라우` 사이의 명명·혈통 관계는 아직 별도 보강이 필요하다.
