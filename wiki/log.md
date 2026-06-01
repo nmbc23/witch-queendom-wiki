@@ -2690,3 +2690,36 @@ Notes:
   - 이 해방 루트가 어느 미래 분기에 속하는지.
   - 하이시아가 휴리 제작 과정의 윤리적 문제를 얼마나 아는지.
   - 패배감을 느끼는 "모든 마신"의 구체 범위와 각자의 감정 차이.
+
+## 2026-06-01 - 황금 새벽의 차원과 아이카 루 보정
+
+- 작업: 현재 대화에서 추가된 황금 새벽의 차원, 원초의 황금 에텔, 아이카 루의 평민명과 구세주 호칭, 차원 포식 괴조 진체 확정 설정을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-golden-dawn-dimension-aika-lu.md`
+  - `wiki/concepts/황금 새벽의 차원.md`
+  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/concepts/마나 고갈과 대이주.md`
+  - `wiki/sources/current-session-aref-sierra-additions.md`
+  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/events/아레프와 시에라의 첫만남.md`
+  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/index.md`
+  - `wiki/한글-목차.md`
+  - `wiki/parts/보석검-파트.md`
+- 핵심 정리:
+  - 여왕 아이카는 전 우주가 찾는 근원의 차원, 황금 새벽의 차원 좌표를 알고 있다.
+  - 황금 새벽의 차원은 원초의 황금 에텔이 대기에 가득해 모든 사람이 차원술을 쓸 수 있을 정도다.
+  - 현존 차원 항해선으로는 이 차원을 찾을 만큼 깊이 들어가지 못하지만, 아이카는 차원 포식 괴조 진체로 돌파해 찾아냈다.
+  - 그곳에서는 근력 있는 종족들조차 마술을 써 마녀를 약소 종족처럼 취급했고, 아이카는 분노해 진체를 개방한 뒤 다른 종족들을 제압해 마녀의 차원으로 만들었다.
+  - 아이카는 그곳에서 `구세주 아이카 루`로 통하며, 아이카 루는 데스모네에 양녀로 들어가기 전 평민 시절 이름이다.
+  - 이 보정으로 아레프와 시에라의 첫 문답에서 보류되었던 아이카와 차원 포식 괴조의 동일성이 후속 확정되었다.
+- 검삭 필요:
+  - 황금 새벽의 차원 정복이 아이카의 데스모네 입양, 여왕 즉위, 뮤베일 분체 활동 중 어디에 놓이는지.
+  - 아이카 루, 뮤베일 아이키 라우, 루가 라우 계열 이름의 관계.
+  - 황금 새벽의 차원에서 제압된 비마녀 종족들의 현재 정치적·사회적 지위.
+  - 원초의 황금 에텔이 대이주 구원책으로 실제 기능할 수 있는지.

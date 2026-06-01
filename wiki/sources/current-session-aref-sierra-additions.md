@@ -1,13 +1,14 @@
 ---
 type: source
 status: draft
-updated: 2026-05-04
+updated: 2026-06-01
 aliases:
   - 현재 세션 아레프-시에라 추가 설정
   - 아레프 시에라 문답 추가 설정
 sources:
   - "Codex conversation, 2026-05-01"
   - "Codex conversation, 2026-05-04"
+  - "Codex conversation, 2026-06-01"
 ---
 
 # 현재 세션 아레프-시에라 추가 설정
@@ -63,7 +64,7 @@ Source: user-provided continuity notes and scene development in the 2026-05-01 a
 
 ## 열린 질문
 
-- 아레프가 보여준 차원 포식 괴조가 실제 아이카의 진체인지, 아니면 차원 관측으로 본 괴조 현상을 아이카와 연결한 오인인지.
+- 후속 보정: 아레프가 보여준 차원 포식 괴조와 아이카 진체의 동일성은 [[sources/current-session-golden-dawn-dimension-aika-lu|황금 새벽의 차원과 아이카 루 보정]]으로 확정된다. 다만 이 문답 시점의 시에라는 검증하지 못했으므로, 장면 내부에서는 보류 상태다.
 - 아레프가 주장하는 "두 딸을 아이카에게 잡아먹혔다"는 과거사가 실제 외부 우주의 사건인지, 복수심과 관측 충격이 섞인 서사화인지.
 - 시에라의 미니어처 타운이 네블레이드 체계의 일반 응용인지, 시에라 고유의 비정상적 대형 보존술인지.
 - 클라인의 항아리가 구체적으로 어떤 위상/차원 구조를 만들며, 네리네의 추적 체계를 어떤 원리로 우회하는지.
