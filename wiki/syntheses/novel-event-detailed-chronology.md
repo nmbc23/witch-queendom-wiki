@@ -9,6 +9,7 @@ aliases:
 part:
   - 보석검 파트
 sources:
+  - [[sources/current-session-haisia-future-release-hyuri-smile]]
   - [[sources/current-session-northern-lake-sierra-beast-hunt]]
   - [[sources/current-session-izlea-seichel-founder-opposition]]
   - [[sources/current-session-bzul-border-five-great-demons]]
@@ -626,6 +627,15 @@ sources:
 - 사건: 마기나 사도우는 미네바를 납치해 사도우와 강제 혼혈시키고 마해 공중 궁전을 짓게 한다.
 - 전개: 마기나는 자신이 승리했다고 착각한다.
 - 결과: 네리네는 미네바 인자를 복제한 3천 스탄티아 군단을 보여주며, 마기나의 반역을 무료 조경 사업처럼 만들어버린다.
+
+### E11-08. 하이시아 해방 루트
+
+- 관련 인물: [[entities/haisia]], [[entities/nerine]], [[concepts/휴리]], 여왕령과 마법사령의 마신들.
+- 사건: 먼 미래의 특정 루트에서 하이시아가 네리네로부터 풀려난다.
+- 전개: 하이시아는 자기 후손인 휴리가 번성한 광경을 본다.
+- 반응: 하이시아는 네리네에 대한 원한을 잊은 듯, 그저 기뻐서 행복한 미소를 짓는다.
+- 결과: 그 장면을 보는 모든 마신들은 깊은 패배감을 느낀다. 이는 전투 패배라기보다, 하이시아에게 남아 있어야 한다고 여긴 원한과 비극의 서사가 후손 번성의 기쁨 앞에서 무력해지는 감각이다.
+- 미정: 하이시아가 풀려나는 정확한 방식, 이 루트가 어느 분기에 속하는지, 패배감을 느끼는 마신들의 범위.
 
 ## 12. 메타적으로 아직 정렬이 필요한 사건
 

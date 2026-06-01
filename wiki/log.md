@@ -2665,3 +2665,28 @@ Notes:
   - 하이시아를 실제로 알고 있던 여왕령 과거 마신들의 명단.
   - 과거 마신들이 휴리 수도를 방문한 구체적 계기.
   - 이 충격이 여왕령 내부에서 공식 기록, 소문, 트라우마 중 무엇으로 남았는지.
+
+## 2026-06-01 - 하이시아 미래 해방과 후손 번성 미소 보정
+
+- 작업: 현재 대화에서 추가된 먼 미래 하이시아 해방 루트, 후손 휴리의 번성을 보고 원한보다 기쁨을 먼저 느끼는 하이시아, 그 장면을 보는 마신들의 패배감을 위키에 반영했다.
+- 변경 페이지:
+  - `wiki/sources/current-session-haisia-future-release-hyuri-smile.md`
+  - `wiki/entities/haisia.md`
+  - `wiki/concepts/휴리.md`
+  - `wiki/entities/nerine.md`
+  - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
+  - `wiki/syntheses/novel-event-catalog.md`
+  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/novel-character-catalog.md`
+  - `wiki/syntheses/novel-setting-catalog.md`
+  - `wiki/index.md`
+- 핵심 정리:
+  - 먼 미래 특정 루트에서 하이시아는 네리네로부터 풀려난다.
+  - 하이시아는 자기 후손 휴리가 번성한 광경을 보고 네리네에 대한 원한을 잊은 듯, 그저 기뻐서 행복한 미소를 짓는다.
+  - 휴리는 외부 마신에게는 혈통 재가공의 공포이지만, 하이시아 본인에게는 끊길 뻔한 자기 계보가 살아남은 증거로 먼저 다가온다.
+  - 그 장면을 보는 모든 마신들은 전투 패배가 아니라, 자신들이 쌓아온 공포·원한·심판의 서사가 하이시아의 기쁨 앞에서 작아지는 깊은 패배감을 느낀다.
+- 검삭 필요:
+  - 하이시아가 네리네에게 묶인 상태와 풀려나는 방식.
+  - 이 해방 루트가 어느 미래 분기에 속하는지.
+  - 하이시아가 휴리 제작 과정의 윤리적 문제를 얼마나 아는지.
+  - 패배감을 느끼는 "모든 마신"의 구체 범위와 각자의 감정 차이.
