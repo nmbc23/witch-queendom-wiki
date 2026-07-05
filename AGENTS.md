@@ -4,3 +4,4 @@
 - Then check `P:\AI\forge\outputs\txt2img-images`, `P:\AI\forge\outputs\img2img-images`, `P:\AI\LLM-Wiki\wiki\assets\images`, and `P:\AI\LLM-Wiki\raw\images`.
 - Treat `C:\Users\CadriacLord\.codex\generated_images` as a legacy/secondary location, not the primary one.
 - If the user asks where a generated image from the current session went, search `P:\AI\Codex\generated_images` before checking `F:\DOWN` or app cache folders.
+- 위키 유지 규칙과 디렉토리 역할은 `wiki/schema.md`(v2)를 따른다. index.md는 `python tools/generate_index.py`로 재생성한다.

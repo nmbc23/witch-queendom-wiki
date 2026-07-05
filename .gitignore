@@ -16,3 +16,9 @@ temp_outputs/
 *.tmp
 *.bak
 ~$*
+
+# Obsidian per-device state
+wiki/.obsidian/workspace.json
+wiki/.obsidian/workspace-mobile.json
+wiki/.obsidian/cache/
+wiki/.trash/
