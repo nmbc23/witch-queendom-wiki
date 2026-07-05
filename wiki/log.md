@@ -10,7 +10,7 @@ updated: 2026-05-31
 
 - 작업: 사용자의 `/goal`에 따라 소설 원천에서 개념 후보를 최대한 넓게 뽑아 검수용 목록으로 정리.
 - 변경 페이지:
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -38,8 +38,8 @@ updated: 2026-05-31
 
 - 작업: 사용자가 제시한 공통루트 판정 기준을 별도 종합 문서로 고정.
 - 변경 페이지:
-  - `wiki/syntheses/nerine-common-event-spine.md`
-  - `wiki/sources/nerine-chronicles-source-inventory.md`
+  - `wiki/syntheses/네리네 연대기 공통 사건 줄기.md`
+  - `wiki/sources/네리네 연대기 소스 인벤토리.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -52,7 +52,7 @@ updated: 2026-05-31
 
 - 작업: 사용자가 지정한 실제 소설 폴더 `P:\AI\novel\Nerine Chronicles`를 확인하고, 본격 위키화 전 원천 지도만 작성.
 - 변경 페이지:
-  - `wiki/sources/nerine-chronicles-source-inventory.md`
+  - `wiki/sources/네리네 연대기 소스 인벤토리.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -69,7 +69,7 @@ updated: 2026-05-31
 
 - 작업: 현재 작업 폴더의 소설 관련 `raw/` 자료와 `temp_outputs/` 산출물을 읽고, 어떤 파일이 원천이고 어떤 파일이 파생 산출물인지 위키에 고정.
 - 변경 페이지:
-  - `wiki/sources/folder-novel-source-inventory.md`
+  - `wiki/sources/폴더 소설 원천 인벤토리.md`
   - `wiki/sources/current-codex-session-novel-notes.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -84,9 +84,9 @@ updated: 2026-05-31
 
 - 작업: 크로니카 크리엘라 항목에 로컬 위키에 보존된 크로니카 생성 이미지 후보를 추가하고, 아세로리온 리미나리스 항목에는 현재 확보 가능한 시각 원형과 세션 생성컷 파일 확인 상태를 기록.
 - 변경 페이지:
-  - `wiki/entities/chronica-criella.md`
-  - `wiki/entities/acerorion-liminaris.md`
-  - `wiki/sources/acerorion-image-reference-and-session-check.md`
+  - `wiki/entities/크로니카 크리엘라.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
+  - `wiki/sources/아세로리온 이미지 레퍼런스와 세션 생성컷 확인.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -99,13 +99,13 @@ updated: 2026-05-31
 
 - 작업: `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`를 바탕으로 아세로리온·뮤베일 IF 루트를 소스 페이지와 종합 페이지로 정리하고, 관련 인물 문서에 짧게 연결.
 - 변경 페이지:
-  - `wiki/sources/pleasant-nightmare-source.md`
-  - `wiki/syntheses/pleasant-nightmare-if-route.md`
-  - `wiki/entities/izlea-izzul.md`
-  - `wiki/entities/meibell-nast.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/syntheses/mubeil-acerorion-dimari-jewel-sword-arc.md`
+  - `wiki/sources/즐거운 악몽 소스.md`
+  - `wiki/syntheses/즐거운 악몽 IF 루트.md`
+  - `wiki/entities/이즐레아 이즈쥴.md`
+  - `wiki/entities/메이벨 나스트.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/syntheses/뮤베일·아세로리온·디마리 보석검 아크.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -121,8 +121,8 @@ Source: `raw/chronica-devotees-magic-territory-interest-clarification-2026-04-29
 Changed pages:
 
 - `wiki/sources/chronica-session-source-map.md`
-- `wiki/entities/chronica-criella.md`
-- `wiki/syntheses/chronica-criella-complete-storyline.md`
+- `wiki/entities/크로니카 크리엘라.md`
+- `wiki/syntheses/크로니카 크리엘라 전체 서사.md`
 - `wiki/events/크로니카의 탈주.md`
 - `wiki/events/크로니카의 도서관 정착.md`
 - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
@@ -141,9 +141,9 @@ Source: `raw/chronica-queen-mubeil-appearance-clarification-2026-04-29.md`
 Changed pages:
 
 - `wiki/sources/chronica-session-source-map.md`
-- `wiki/entities/chronica-criella.md`
-- `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-- `wiki/syntheses/chronica-criella-complete-storyline.md`
+- `wiki/entities/크로니카 크리엘라.md`
+- `wiki/entities/아이카 데스모네.md`
+- `wiki/syntheses/크로니카 크리엘라 전체 서사.md`
 - `wiki/events/아이카의 크로니카 치료 요청.md`
 - `wiki/events/크로니카의 목격과 방조.md`
 - `wiki/log.md`
@@ -161,13 +161,13 @@ Source: `raw/llm-wiki-pattern.md`
 Changed pages:
 
 - `wiki/schema.md`
-- `wiki/sources/llm-wiki-pattern.md`
-- `wiki/concepts/persistent-compounding-wiki.md`
+- `wiki/meta/llm-wiki-pattern.md`
+- `wiki/meta/지속 누적 위키.md`
 - `wiki/concepts/source-backed-synthesis.md`
 - `wiki/concepts/ingest-query-lint-workflow.md`
-- `wiki/entities/obsidian.md`
-- `wiki/syntheses/llm-wiki-architecture.md`
-- `wiki/questions/how-to-start-using-llm-wiki.md`
+- `wiki/meta/obsidian.md`
+- `wiki/meta/llm-wiki-architecture.md`
+- `wiki/meta/how-to-start-using-llm-wiki.md`
 - `wiki/index.md`
 - `wiki/log.md`
 
@@ -182,34 +182,33 @@ Notes:
 
 Sources:
 
-- `raw/novel-session-handoff-2026-04-27.txt`
-- `raw/character-image-continuity-guidelines-2026-04-27.md`
-- `raw/novel-session-continuation-notes-2026-04-28.md`
-
+- raw/novel-session-handoff-2026-04-27.txt
+- raw/character-image-continuity-guidelines-2026-04-27.md
+- raw/novel-session-continuation-notes-2026-04-28.md
 Changed pages:
 
 - `wiki/sources/current-codex-session-novel-notes.md`
-- `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-- `wiki/entities/acerorion-liminaris.md`
-- `wiki/entities/dimari-hyuri.md`
-- `wiki/entities/meibell-nast.md`
-- `wiki/entities/nerine.md`
-- `wiki/entities/chronica-criella.md`
-- `wiki/entities/szas-sreya.md`
-- `wiki/entities/laroka.md`
-- `wiki/entities/sierra-serasie.md`
-- `wiki/entities/kamaso-kamila.md`
-- `wiki/entities/meijers-desmone-medalicia.md`
-- `wiki/entities/leona-haway.md`
+- `wiki/entities/아이카 데스모네.md`
+- `wiki/entities/아세로리온 리미나리스.md`
+- `wiki/entities/디마리 휴리.md`
+- `wiki/entities/메이벨 나스트.md`
+- `wiki/entities/네리네 네에나리.md`
+- `wiki/entities/크로니카 크리엘라.md`
+- `wiki/entities/스자스 스레이아.md`
+- `wiki/entities/라로카.md`
+- `wiki/entities/시에라 세라시에.md`
+- `wiki/entities/카마소 카밀라.md`
+- `wiki/entities/메이저스 데스모네 메달리시아.md`
+- `wiki/entities/레오나 하웨이.md`
 - `wiki/concepts/kaleidoscope-jewel-sword.md`
 - `wiki/concepts/vampire-magic-and-blood-core.md`
 - `wiki/concepts/dimensional-foam-and-planescape.md`
 - `wiki/concepts/queen-territory-and-magic-territory.md`
 - `wiki/concepts/character-visual-continuity.md`
-- `wiki/syntheses/mubeil-acerorion-dimari-jewel-sword-arc.md`
-- `wiki/syntheses/chronica-kamaso-blood-core-arc.md`
-- `wiki/syntheses/story-tone-and-black-comedy.md`
-- `wiki/syntheses/current-novel-roadmap.md`
+- `wiki/syntheses/뮤베일·아세로리온·디마리 보석검 아크.md`
+- `wiki/syntheses/크로니카-카마소 혈핵 아크.md`
+- `wiki/syntheses/이야기 톤과 블랙 코미디.md`
+- `wiki/syntheses/소설 로드맵.md`
 - `wiki/index.md`
 - `wiki/log.md`
 
@@ -223,16 +222,15 @@ Notes:
 
 Sources:
 
-- `raw/novel-session-handoff-2026-04-27.txt`
-- `raw/novel-session-continuation-notes-2026-04-28.md`
-- `raw/prompts-chronological-2026-04-24.txt`
-
+- raw/novel-session-handoff-2026-04-27.txt
+- raw/novel-session-continuation-notes-2026-04-28.md
+- raw/prompts-chronological-2026-04-24.txt
 Changed pages:
 
-- `wiki/entities/chronica-criella.md`
+- `wiki/entities/크로니카 크리엘라.md`
 - `wiki/sources/chronica-session-source-map.md`
-- `wiki/syntheses/chronica-criella-complete-storyline.md`
-- `wiki/syntheses/chronica-kamaso-blood-core-arc.md`
+- `wiki/syntheses/크로니카 크리엘라 전체 서사.md`
+- `wiki/syntheses/크로니카-카마소 혈핵 아크.md`
 - `wiki/index.md`
 - `wiki/log.md`
 
@@ -247,14 +245,14 @@ Notes:
 
 - 작업: 영어로 작성되어 있던 크로니카 중심 소설 위키 페이지를 한국어 설정어 기준으로 재작성.
 - 변경 페이지:
-  - `wiki/entities/chronica-criella.md`
-  - `wiki/entities/kamaso-kamila.md`
-  - `wiki/entities/szas-sreya.md`
-  - `wiki/entities/meijers-desmone-medalicia.md`
-  - `wiki/entities/nigede-gedenia.md`
+  - `wiki/entities/크로니카 크리엘라.md`
+  - `wiki/entities/카마소 카밀라.md`
+  - `wiki/entities/스자스 스레이아.md`
+  - `wiki/entities/메이저스 데스모네 메달리시아.md`
+  - `wiki/entities/니게데 게데니아.md`
   - `wiki/concepts/vampire-magic-and-blood-core.md`
-  - `wiki/syntheses/chronica-criella-complete-storyline.md`
-  - `wiki/syntheses/chronica-kamaso-blood-core-arc.md`
+  - `wiki/syntheses/크로니카 크리엘라 전체 서사.md`
+  - `wiki/syntheses/크로니카-카마소 혈핵 아크.md`
   - `wiki/sources/chronica-session-source-map.md`
   - `wiki/index.md`
 - 의도: `혈핵`, `흡혈 마신화`, `차원 포말`, `레서 마신`, `대마신` 같은 용어가 영어를 경유하며 어긋나지 않도록 한국어 정본을 위키 요약층에 고정.
@@ -264,8 +262,8 @@ Notes:
 
 - 작업: 전체 세션의 디마리 휴리 관련 설정을 재검색하고 한국어 정본 페이지로 통합.
 - 변경 페이지:
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
   - `wiki/sources/dimari-session-source-map.md`
   - `wiki/index.md`
 - 핵심 정리: 디마리는 네리네의 과로한 시간계 휴리 비서, 만화경 보석검의 정교한 회로 조율자, 메이벨과의 시간 삭제 전투자, 그리고 미래 오리아나·환타·라라타 인과로 이어지는 인물로 정본화.
@@ -289,56 +287,56 @@ Notes:
 
 - 작업: 현재 소설 세션에서 확인된 인물들을 각자 최소 한 개 이상의 `wiki/entities/*.md` 페이지로 분리하고, 확정 정보가 많은 인물은 상세 행적 중심으로 보강.
 - 신규 또는 갱신 페이지:
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/acerorion-liminaris.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/meibell-nast.md`
-  - `wiki/entities/leona-haway.md`
-  - `wiki/entities/kamaso-kamila.md`
-  - `wiki/entities/laroka.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/meijers-desmone-medalicia.md`
-  - `wiki/entities/nigede-gedenia.md`
-  - `wiki/entities/sushie-el.md`
-  - `wiki/entities/nesta-haway.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/saijera-mi.md`
-  - `wiki/entities/merika-kairei.md`
-  - `wiki/entities/miraris-listia.md`
-  - `wiki/entities/emukare-mukere.md`
-  - `wiki/entities/laplaria-liminaris.md`
-  - `wiki/entities/linarirora.md`
-  - `wiki/entities/fanta-hyuri.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/oriana-hyuri.md`
-  - `wiki/entities/galieira-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/sizurinai-liminaris.md`
-  - `wiki/entities/minerva-stantia.md`
-  - `wiki/entities/magina-sadou.md`
-  - `wiki/entities/minaka-sadou.md`
-  - `wiki/entities/larata.md`
-  - `wiki/entities/haisia.md`
-  - `wiki/entities/naksha.md`
-  - `wiki/entities/shugoro-desmone.md`
-  - `wiki/entities/izlea-izzul.md`
-  - `wiki/entities/searup-seirite.md`
-  - `wiki/entities/inoliba.md`
-  - `wiki/entities/sairi.md`
-  - `wiki/entities/terai.md`
-  - `wiki/entities/seijuna.md`
-  - `wiki/entities/shiraraki-sainaid.md`
-  - `wiki/entities/shurame.md`
-  - `wiki/entities/belrea.md`
-  - `wiki/entities/siri.md`
-  - `wiki/entities/mari.md`
-  - `wiki/entities/zerose-reirei.md`
-  - `wiki/entities/mina.md`
-  - `wiki/entities/ruga-rau.md`
-  - `wiki/entities/izkata.md`
-  - `wiki/entities/saijera.md`
-  - `wiki/entities/merika.md`
-  - `wiki/entities/kairei.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/메이벨 나스트.md`
+  - `wiki/entities/레오나 하웨이.md`
+  - `wiki/entities/카마소 카밀라.md`
+  - `wiki/entities/라로카.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/메이저스 데스모네 메달리시아.md`
+  - `wiki/entities/니게데 게데니아.md`
+  - `wiki/entities/슈시에 엘.md`
+  - `wiki/entities/네스타 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/사이제라 미.md`
+  - `wiki/entities/메리카 카이레이.md`
+  - `wiki/entities/미라리스 리스티아.md`
+  - `wiki/entities/에뮤카레 뮤케레.md`
+  - `wiki/entities/라플라리아 리미나리스.md`
+  - `wiki/entities/리나리로라.md`
+  - `wiki/entities/환타 휴리.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/오리아나 휴리.md`
+  - `wiki/entities/갈리에이라 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
+  - `wiki/entities/미네바 스탄티아.md`
+  - `wiki/entities/마기나 사도우.md`
+  - `wiki/entities/미나카 사도우.md`
+  - `wiki/entities/라라타.md`
+  - `wiki/entities/하이시아.md`
+  - `wiki/entities/나크샤.md`
+  - `wiki/entities/슈고로.md`
+  - `wiki/entities/이즐레아 이즈쥴.md`
+  - `wiki/entities/세아루프 세이리테.md`
+  - `wiki/entities/이놀리바.md`
+  - `wiki/entities/사이리.md`
+  - `wiki/entities/테라이.md`
+  - `wiki/entities/세이쥬나.md`
+  - `wiki/entities/시라라키 사이네이드.md`
+  - `wiki/entities/슈라메.md`
+  - `wiki/entities/벨레아.md`
+  - `wiki/entities/시리.md`
+  - `wiki/entities/마리.md`
+  - `wiki/entities/제로제 레이레이.md`
+  - `wiki/entities/미나.md`
+  - `wiki/entities/루가 라우.md`
+  - `wiki/entities/이즈카타.md`
+  - `wiki/entities/사이제라.md`
+  - `wiki/entities/메리카.md`
+  - `wiki/entities/카이레이.md`
   - `wiki/index.md`
 - 핵심 정리: 핵심 주역은 시간순 행적을 확장했고, 조연·미래 인물·이름만 확인된 인물도 개별 페이지를 만들어 다음 세션에서 바로 이어 쓸 수 있게 함.
 - 미확정: 사이제라/사이제라 미, 메리카/카이레이/메리카 카이레이의 분리 여부, 이름만 확인된 미나·루가 라우·이즈카타의 소속과 사건 관여.
@@ -347,7 +345,7 @@ Notes:
 
 - 작업: 기존 `소설 사건 카탈로그`를 확장해, 현재 위키 기준 사건을 E번호가 붙은 상세 시간순 연표로 정리.
 - 변경 페이지:
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/index.md`
 - 핵심 정리:
   - 보주 사건, 뮤베일 잠입, 북부 호수, 포말/보석검 연구, 에메랄드 타블렛, 흡혈 마신화, 네리네 토벌, 아이카 탈출, 아세로리온 사후 처리, 크로니카/카마소, 흡혈귀 단속, 미래 리미나리스/스탄티아 사건까지 시간순으로 통합.
@@ -361,7 +359,7 @@ Notes:
 
 ## 2026-04-28 - 개별 사건 페이지 분리
 
-- 작업: `wiki/syntheses/novel-event-detailed-chronology.md`의 E/U 번호 사건 77개를 개별 `wiki/events/*.md` 페이지로 분리.
+- 작업: `wiki/syntheses/소설 상세 사건 연표.md`의 E/U 번호 사건 77개를 개별 `wiki/events/*.md` 페이지로 분리.
 - 변경 페이지:
   - `wiki/events/index.md`
   - `wiki/events/e00-01.md`부터 `wiki/events/e11-07.md`까지의 확정 사건 페이지
@@ -477,16 +475,16 @@ Notes:
 
 - 작업: 이 Codex 세션에서 생성되어 작업공간에 저장된 이미지 4장을 위키의 원본 보관소와 Obsidian 표시용 asset 폴더에 편입.
 - 원본 보존 위치:
-  - `raw/images/session-2026-04-29/chronica-fears-resurrected-kamila.png`
-  - `raw/images/session-2026-04-29/laroka-girl-mass-illusion-form.png`
-  - `raw/images/session-2026-04-29/laroka-old-witch-ragged-form.png`
-  - `raw/images/session-2026-04-29/meijers-vs-kamaso-kamila.png`
+  - raw/images/session-2026-04-29/chronica-fears-resurrected-kamila.png
+  - raw/images/session-2026-04-29/laroka-girl-mass-illusion-form.png
+  - raw/images/session-2026-04-29/laroka-old-witch-ragged-form.png
+  - raw/images/session-2026-04-29/meijers-vs-kamaso-kamila.png
 - 변경 페이지:
-  - `wiki/sources/codex-generated-images-2026-04-29.md`
+  - `wiki/sources/Codex 생성 이미지 2026-04-29.md`
   - `wiki/concepts/캐릭터 시각 정본.md`
-  - `wiki/entities/chronica-criella.md`
-  - `wiki/entities/laroka.md`
-  - `wiki/entities/meijers-desmone-medalicia.md`
+  - `wiki/entities/크로니카 크리엘라.md`
+  - `wiki/entities/라로카.md`
+  - `wiki/entities/메이저스 데스모네 메달리시아.md`
   - `wiki/events/카마소 카밀라 혈핵 재난 사건.md`
   - `wiki/events/스자스와 라로카의 카밀라 재구축.md`
   - `wiki/index.md`
@@ -498,11 +496,11 @@ Notes:
 
 - 작업: 사용자가 알려준 `.codex/generated_images/019dbb0f-fd83-7a50-9eb2-5a2e3d215e3f` 폴더에서 Codex 생성 이미지 47장을 확인하고 위키에 편입.
 - 원본 보존 위치:
-  - `raw/images/codex-generated/019dbb0f-fd83-7a50-9eb2-5a2e3d215e3f/`
+  - raw/images/codex-generated/019dbb0f-fd83-7a50-9eb2-5a2e3d215e3f/
 - Obsidian 표시용 위치:
   - `wiki/assets/images/codex-generated/session-019dbb0f/`
 - 변경 페이지:
-  - `wiki/sources/codex-generated-images-019dbb0f.md`
+  - `wiki/sources/Codex 생성 이미지 019dbb0f.md`
   - `wiki/concepts/캐릭터 시각 정본.md`
   - 주요 인물/사건 문서의 `이미지 레퍼런스` 섹션.
 - 핵심 정리:
@@ -541,14 +539,14 @@ Notes:
 
 - 작업: `F:\DOWN\네리네 일대기\슈프림 플레인스워커 시데이아.txt`를 읽고 시데이아·아레프·마나 고갈·대이주 축으로 위키에 정리.
 - 변경 페이지:
-  - `wiki/sources/supreme-planeswalker-sydeia.md`
+  - `wiki/sources/슈프림 플레인스워커 시데이아 원문.md`
   - `wiki/sources/current-session-sydeia-corrections.md`
-  - `wiki/entities/sydeia.md`
-  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/entities/시데이아.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
   - `wiki/concepts/마나 고갈과 대이주.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/szas-sreya.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/스자스 스레이아.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -569,26 +567,26 @@ Notes:
 - 작업: 이번 세션에서 확장된 아레프/시데이아의 시에라 제자화, 뮤베일 분체, 아이카의 보석검 목적, 차원 포식 괴조 의혹을 위키에 반영.
 - 변경 페이지:
   - `wiki/sources/current-session-aref-sierra-additions.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
-  - `wiki/entities/aref-accel-seia.md`
-  - `wiki/entities/sydeia.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/haisia.md`
-  - `wiki/entities/shurame.md`
-  - `wiki/entities/belrea.md`
-  - `wiki/entities/siri.md`
-  - `wiki/entities/mari.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
+  - `wiki/entities/시데이아.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/하이시아.md`
+  - `wiki/entities/슈라메.md`
+  - `wiki/entities/벨레아.md`
+  - `wiki/entities/시리.md`
+  - `wiki/entities/마리.md`
   - `wiki/concepts/만화경 보석검.md`
   - `wiki/concepts/차원 포말과 플레인스케이프.md`
   - `wiki/events/아세로리온 흡혈 마신화 사건.md`
   - `wiki/events/아세로리온 사후 처리와 리미나리스 은폐 사건.md`
-  - `wiki/syntheses/mubeil-acerorion-dimari-jewel-sword-arc.md`
+  - `wiki/syntheses/뮤베일·아세로리온·디마리 보석검 아크.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
   - `wiki/events/아레프와 시에라의 첫만남.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -607,10 +605,10 @@ Notes:
 - 작업: 아레프가 시에라에게 진짜 차원술 `클라인의 항아리`를 시연하고, 네리네도 추적하지 못하는 마법사령 간섭 경로로 설명한 설정을 반영.
 - 변경 페이지:
   - `wiki/sources/current-session-aref-sierra-additions.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
-  - `wiki/entities/aref-accel-seia.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/sydeia.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/시데이아.md`
   - `wiki/concepts/클라인의 항아리.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -630,10 +628,10 @@ Notes:
 - 변경 페이지:
   - `wiki/events/아레프와 시에라의 첫만남.md`
   - `wiki/sources/current-session-aref-sierra-additions.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
-  - `wiki/entities/aref-accel-seia.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/sydeia.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/시데이아.md`
   - `wiki/index.md`
   - `wiki/events/소설 개별 사건 인덱스.md`
   - `wiki/syntheses/novel-event-catalog.md`
@@ -653,24 +651,24 @@ Notes:
 
 - 작업: `F:\DOWN\네리네 일대기\아라드노아의 소실.txt`와 현 대화에서 추가된 설정을 바탕으로 아라드노아 분체, 이즈카타 결투 소실, 노리어, 엑시즈 디바이너, 스자스 루트 분기를 위키에 반영.
 - 변경 페이지:
-  - `wiki/sources/aradnoa-disappearance.md`
-  - `wiki/entities/aradnoa-liminaris.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/nesta-haway.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/szas-sreya.md`
-  - `wiki/entities/sizurinai-liminaris.md`
-  - `wiki/entities/izkata.md`
-  - `wiki/entities/emukare-mukere.md`
-  - `wiki/entities/eridina-rinasita.md`
-  - `wiki/entities/wimea-haran.md`
-  - `wiki/entities/naksha.md`
+  - `wiki/sources/아라드노아의 소실 원문 요약.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/네스타 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/스자스 스레이아.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
+  - `wiki/entities/이즈카타.md`
+  - `wiki/entities/에뮤카레 뮤케레.md`
+  - `wiki/entities/에리디나 리나시타.md`
+  - `wiki/entities/위메아 하란.md`
+  - `wiki/entities/나크샤.md`
   - `wiki/concepts/노리어.md`
   - `wiki/concepts/엑시즈 디바이너.md`
   - `wiki/concepts/만화경 보석검.md`
   - `wiki/events/아라드노아의 소실.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -694,14 +692,14 @@ Notes:
 
 - 작업: 아라드노아가 리미나리스 연구소에 있을 때의 위상을 “가주 후보급 신화”가 아니라 “떠오르는 샛별 연구자이자 아레프 라인 인물”로 낮춰 정리.
 - 변경 페이지:
-  - `wiki/sources/aradnoa-disappearance.md`
-  - `wiki/entities/aradnoa-liminaris.md`
-  - `wiki/entities/aref-accel-seia.md`
-  - `wiki/entities/sizurinai-liminaris.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/naksha.md`
+  - `wiki/sources/아라드노아의 소실 원문 요약.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/나크샤.md`
   - `wiki/events/아라드노아의 소실.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
 - 핵심 정리:
@@ -713,13 +711,13 @@ Notes:
 
 - 작업: 네리네에게 선택되어 돌아온 뒤 아라드노아가 연구소 샛별에서 리미나리스 가주 후보급 권력투쟁 인물로 격상되는 전환을 반영.
 - 변경 페이지:
-  - `wiki/sources/aradnoa-disappearance.md`
-  - `wiki/entities/aradnoa-liminaris.md`
-  - `wiki/entities/aref-accel-seia.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/sizurinai-liminaris.md`
+  - `wiki/sources/아라드노아의 소실 원문 요약.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
   - `wiki/events/아라드노아의 소실.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
 - 핵심 정리:
@@ -732,11 +730,11 @@ Notes:
 
 - 작업: 아라드노아가 자신보다 우수하다는 사실을 가장 먼저 알아본 사람이 시즈리나이라는 설정을 반영.
 - 변경 페이지:
-  - `wiki/sources/aradnoa-disappearance.md`
-  - `wiki/entities/aradnoa-liminaris.md`
-  - `wiki/entities/sizurinai-liminaris.md`
+  - `wiki/sources/아라드노아의 소실 원문 요약.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
   - `wiki/events/아라드노아의 소실.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
   - `wiki/syntheses/novel-character-catalog.md`
 - 핵심 정리:
   - 시즈리나이는 스승 네리네의 명령 때문에 아라드노아를 데려왔지만, 아라드노아가 자신보다 우수하다는 사실을 가장 먼저 파악한다.
@@ -747,9 +745,9 @@ Notes:
 
 - 작업: `F:\DOWN\네리네 일대기\제라애의 리나리로라 찬탈.txt`를 참고해 리미나리스가 이즈카타를 증오하면서도 두려워하는 감정 근거를 위키에 반영.
 - 변경 페이지:
-  - `wiki/sources/jerae-linarirora-usurpation.md`
-  - `wiki/entities/izkata.md`
-  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/sources/제라애의 리나리로라 찬탈 원문 요약.md`
+  - `wiki/entities/이즈카타.md`
+  - `wiki/entities/제라애 휴리.md`
   - `wiki/events/리미나리스 계승전.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/index.md`
@@ -765,7 +763,7 @@ Notes:
 - 변경 페이지:
   - `wiki/log.md`
   - `wiki/events/2026-04-28.md`
-  - `wiki/events/entities/meibell-nast.md`
+  - `wiki/events/entities/메이벨 나스트.md`
   - `wiki/events/events/e00-01.md`
   - `wiki/events/events/e00-02.md`
   - `wiki/events/events/e01-03.md`
@@ -773,7 +771,7 @@ Notes:
   - `wiki/events/events/e07-04.md`
   - `wiki/events/events/e09-04.md`
   - `wiki/events/events/e11-01.md`
-  - `wiki/events/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/events/syntheses/소설 상세 사건 연표.md`
   - `wiki/위치 퀸덤 위키/환영합니다!.md`
 - 핵심 정리:
   - `events/events/...`, `events/entities/...`, `events/syntheses/...` 아래에 frontmatter만 있는 빈 스텁 9개와 날짜 스텁 1개가 있었다.
@@ -785,11 +783,11 @@ Notes:
 
 - 작업: 아라드노아가 본체의 그랜드 파워급 연산력을 이용해 리미나리스 차원술 당면 과제를 해결하고, 그 공을 시즈리나이에게 돌린 설정을 반영.
 - 변경 페이지:
-  - `wiki/sources/aradnoa-disappearance.md`
-  - `wiki/entities/aradnoa-liminaris.md`
-  - `wiki/entities/sizurinai-liminaris.md`
+  - `wiki/sources/아라드노아의 소실 원문 요약.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
   - `wiki/events/아라드노아의 소실.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -803,9 +801,9 @@ Notes:
 
 - 작업: 생성 이미지 중 장면 컷을 `개별 사건 문서` 기준으로 재배치하고, 인물/정본 문서와 카탈로그 문서에서 중복 노출을 줄였다.
 - 변경 페이지:
-  - `wiki/entities/meibell-nast.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/chronica-criella.md`
+  - `wiki/entities/메이벨 나스트.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/크로니카 크리엘라.md`
   - `wiki/concepts/캐릭터 시각 정본.md`
   - `wiki/events/메이벨과 디마리 전투, 아이카 탈출 사건.md`
   - `wiki/events/크로니카의 흡혈 마신 문서 연구.md`
@@ -826,8 +824,8 @@ Notes:
 - 작업: 이전에 못 찾았다고 기록한 아세로리온 생성 이미지를 `P:\AI\Codex\generated_images`에서 찾아 위키 자산으로 복사하고, 인물/정본/소스 문서에 반영.
 - 변경 페이지:
   - `AGENTS.md`
-  - `wiki/sources/acerorion-image-reference-and-session-check.md`
-  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/sources/아세로리온 이미지 레퍼런스와 세션 생성컷 확인.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
   - `wiki/concepts/캐릭터 시각 정본.md`
   - `wiki/index.md`
   - `wiki/log.md`
@@ -846,8 +844,8 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-chronica-split-body-additions.md`
   - `wiki/sources/chronica-session-source-map.md`
-  - `wiki/entities/chronica-criella.md`
-  - `wiki/syntheses/chronica-criella-character-sheet.md`
+  - `wiki/entities/크로니카 크리엘라.md`
+  - `wiki/syntheses/크로니카 캐릭터 시트.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -863,7 +861,7 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-chronica-vampire-management-additions.md`
   - `wiki/sources/chronica-session-source-map.md`
-  - `wiki/entities/chronica-criella.md`
+  - `wiki/entities/크로니카 크리엘라.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -875,16 +873,16 @@ Notes:
 
 ## 2026-05-28 - 뮤케레·리나시타 외전과 상위 개념 위키 반영
 
-- 작업: `뮤케레와 리나시타 .md` 외전 묶음과 현 세션에서 정리한 72 대마신·초절자·승천자 초안을 실제 위키 문서로 승격했다.
+- 작업: `raw/뮤케레와 리나시타.md` 외전 묶음과 현 세션에서 정리한 72 대마신·초절자·승천자 초안을 실제 위키 문서로 승격했다.
 - 변경 페이지:
-  - `wiki/sources/mukere-rinasita-side-stories.md`
+  - `wiki/sources/뮤케레와 리나시타 외전 묶음.md`
   - `wiki/sources/current-session-high-concept-drafts.md`
-  - `wiki/syntheses/mukere-rinasita-and-miriokarion.md`
-  - `wiki/entities/emukare-mukere.md`
-  - `wiki/entities/eridina-rinasita.md`
-  - `wiki/entities/miriokarion.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/szas-sreya.md`
+  - `wiki/syntheses/뮤케레와 리나시타, 미료카리온 유계 외전.md`
+  - `wiki/entities/에뮤카레 뮤케레.md`
+  - `wiki/entities/에리디나 리나시타.md`
+  - `wiki/entities/미료카리온.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/스자스 스레이아.md`
   - `wiki/concepts/노리어.md`
   - `wiki/concepts/유계와 진체 기억 장막.md`
   - `wiki/concepts/영면과 검은 개 진체.md`
@@ -917,7 +915,7 @@ Notes:
   - `wiki/sources/current-session-eternal-sleep-correction.md`
   - `wiki/concepts/영면과 검은 개 진체.md`
   - `wiki/concepts/유계와 진체 기억 장막.md`
-  - `wiki/entities/szas-sreya.md`
+  - `wiki/entities/스자스 스레이아.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -950,7 +948,7 @@ Notes:
   - `wiki/sources/current-session-mage-seat-distribution.md`
   - `wiki/concepts/마법사 좌석 구조.md`
   - `wiki/concepts/승천자.md`
-  - `wiki/entities/searup-seirite.md`
+  - `wiki/entities/세아루프 세이리테.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -970,8 +968,8 @@ Notes:
   - `wiki/concepts/마법사 좌석 구조.md`
   - `wiki/concepts/승천자.md`
   - `wiki/concepts/초절자.md`
-  - `wiki/entities/izlea-izzul.md`
-  - `wiki/entities/searup-seirite.md`
+  - `wiki/entities/이즐레아 이즈쥴.md`
+  - `wiki/entities/세아루프 세이리테.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/log.md`
@@ -990,12 +988,12 @@ Notes:
   - `wiki/concepts/마법사 좌석 구조.md`
   - `wiki/concepts/승천자.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/acerorion-liminaris.md`
-  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1012,12 +1010,12 @@ Notes:
   - `wiki/sources/current-session-liminaris-hotline.md`
   - `wiki/concepts/리미나리스 뒷문 구조.md`
   - `wiki/concepts/차원술사 귀족.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
   - `wiki/events/네리네의 리미나리스 통제극.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1037,12 +1035,12 @@ Notes:
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/마법사 좌석 구조.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/acerorion-liminaris.md`
-  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
+  - `wiki/entities/디마리 휴리.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1060,13 +1058,13 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-hyuri-bloodline.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/리미나리스 뒷문 구조.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/마법사 좌석 구조.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1082,10 +1080,10 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-hyuri-bloodline.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/sizurinai-liminaris.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -1102,14 +1100,14 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-jerae-sierra-conspiracy.md`
   - `wiki/concepts/휴리 가주회의 회의록.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/휴리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1126,14 +1124,14 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-jerae-sierra-conspiracy.md`
   - `wiki/concepts/휴리 가주회의 회의록.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/시에라 세라시에.md`
   - `wiki/concepts/휴리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1147,15 +1145,15 @@ Notes:
 - 작업: 현재 대화에서 추가된 제라애 휘하 휴리 실권자 스이카 휴리와 카나데라 휴리를 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-hyuri-executors.md`
-  - `wiki/entities/suika-hyuri.md`
-  - `wiki/entities/kanadera-hyuri.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/스이카 휴리.md`
+  - `wiki/entities/카나데라 휴리.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/휴리 가주회의 회의록.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1171,16 +1169,16 @@ Notes:
 - 작업: 현재 대화에서 추가된 제라애의 친딸 나마애 휴리, 이레니아의 오해, 스이카의 집행 명령 지연 설정을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-namaae-hyuri.md`
-  - `wiki/entities/namaae-hyuri.md`
+  - `wiki/entities/나마애 휴리.md`
   - `wiki/sources/current-session-hyuri-executors.md`
-  - `wiki/entities/suika-hyuri.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
+  - `wiki/entities/스이카 휴리.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/휴리 가주회의 회의록.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1199,16 +1197,16 @@ Notes:
   - `wiki/concepts/제라애의 사후 암살 지시.md`
   - `wiki/sources/current-session-hyuri-executors.md`
   - `wiki/sources/current-session-namaae-hyuri.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/namaae-hyuri.md`
-  - `wiki/entities/suika-hyuri.md`
-  - `wiki/entities/kanadera-hyuri.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/나마애 휴리.md`
+  - `wiki/entities/스이카 휴리.md`
+  - `wiki/entities/카나데라 휴리.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/휴리 가주회의 회의록.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1223,10 +1221,10 @@ Notes:
 - 작업: 현재 대화에서 추가된 이즈카타 휴리 6의 극비 후계자 설정, 차원 방랑자 복원계획, 네리네의 차원 닻 대비, 죽음의 계곡 휴리 비밀 차원 연구소를 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-izkata-true-heir.md`
-  - `wiki/entities/izkata.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/이즈카타.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/차원 방랑자 복원계획.md`
   - `wiki/concepts/차원 닻.md`
@@ -1235,7 +1233,7 @@ Notes:
   - `wiki/concepts/제라애의 사후 암살 지시.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1253,17 +1251,17 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-irenia-elimination-escalation.md`
   - `wiki/concepts/제라애의 이레니아 제거 명령.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/namaae-hyuri.md`
-  - `wiki/entities/suika-hyuri.md`
-  - `wiki/entities/kanadera-hyuri.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/나마애 휴리.md`
+  - `wiki/entities/스이카 휴리.md`
+  - `wiki/entities/카나데라 휴리.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/휴리 가주회의 회의록.md`
   - `wiki/concepts/제라애의 사후 암살 지시.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1283,14 +1281,14 @@ Notes:
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/차원 방랑자 복원계획.md`
   - `wiki/concepts/제라애의 이레니아 제거 명령.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/izkata.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/이즈카타.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1310,14 +1308,14 @@ Notes:
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/리미나리스 뒷문 구조.md`
   - `wiki/sources/current-session-liminaris-hotline.md`
-  - `wiki/entities/acerorion-liminaris.md`
-  - `wiki/entities/aradnoa-liminaris.md`
-  - `wiki/entities/sizurinai-liminaris.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
+  - `wiki/entities/시즈리나이 리미나리스.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1336,10 +1334,10 @@ Notes:
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/차원술사 동족 공작 금지 불문율.md`
   - `wiki/concepts/리미나리스 뒷문 구조.md`
-  - `wiki/entities/acerorion-liminaris.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1358,10 +1356,10 @@ Notes:
   - `wiki/concepts/리미나리스 의회.md`
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/리미나리스 뒷문 구조.md`
-  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1381,7 +1379,7 @@ Notes:
   - `wiki/concepts/리미나리스 의회.md`
   - `wiki/concepts/리미나리스 의회 좌우파.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1399,9 +1397,9 @@ Notes:
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/리미나리스 뒷문 구조.md`
   - `wiki/concepts/리미나리스 의회 좌우파.md`
-  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1421,7 +1419,7 @@ Notes:
   - `wiki/concepts/리미나리스 의회.md`
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1436,13 +1434,13 @@ Notes:
 - 작업: 현재 대화에서 추가된 하이시아의 백금발·푸른 눈 돌연변이형 외형, 불임, 휴리 시조성, 마신화 선택 동기를 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-haisia-hyuri-progenitor.md`
-  - `wiki/entities/haisia.md`
+  - `wiki/entities/하이시아.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/디마리 휴리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1456,13 +1454,13 @@ Notes:
 - 작업: 현재 대화에서 추가된 하이시아 유전자 클론, 칵테일식 혈통 혼합, 휴리 수십만 인구, 그리고 이를 본 여왕령 마녀들의 충격을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-haisia-hyuri-progenitor.md`
-  - `wiki/entities/haisia.md`
+  - `wiki/entities/하이시아.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1478,12 +1476,12 @@ Notes:
   - `wiki/concepts/휴리 세 줄기.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/휴리 가주회의.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/제라애 휴리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/log.md`
@@ -1501,12 +1499,12 @@ Notes:
   - `wiki/concepts/휴리 세 줄기.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/휴리 가주회의.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/irenia-hyuri-34.md`
-  - `wiki/entities/jerae-hyuri.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/이레니아 휴리 34.md`
+  - `wiki/entities/제라애 휴리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1520,21 +1518,21 @@ Notes:
 - 작업: 현재 대화에서 추가된 디마리 휴리의 초대 가주성, 하이시아 능력의 무제약 파라곤 원형성, 네리네의 만능 평가와 신뢰, 정의 처리 임무, 네블레이드 파국을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-dimari-paragon-first-head.md`
-  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/디마리 휴리.md`
   - `wiki/concepts/휴리 세 줄기.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/events/디마리와 미나카 사도우의 반역 동기.md`
   - `wiki/events/디마리의 미래 반역과 실종.md`
   - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/sources/current-session-hyuri-family-council-inner-circle.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/nerine-concept-review-list.md`
+  - `wiki/syntheses/네리네 연대기 개념 검삭 목록.md`
   - `wiki/index.md`
   - `wiki/log.md`
 - 핵심 정리:
@@ -1548,18 +1546,18 @@ Notes:
 - 작업: 현재 대화에서 추가된 디마리의 최후 암호·고액 마나 전송, 아이카의 오리아나 구출 오해, 스자스의 납치·보호, 휴리와 리미나리스 관계 악화 인과를 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-dimari-encrypted-mana-oriana-abduction.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/oriana-hyuri.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/szas-sreya.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/오리아나 휴리.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/스자스 스레이아.md`
   - `wiki/events/디마리의 미래 반역과 실종.md`
   - `wiki/events/오리아나와 데스모네 혈통 인과.md`
   - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
   - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -1577,22 +1575,22 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-oriana-arkill-fanta-larata.md`
   - `wiki/sources/current-session-dimari-encrypted-mana-oriana-abduction.md`
-  - `wiki/entities/arkill-count.md`
-  - `wiki/entities/oriana-hyuri.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/fanta-hyuri.md`
-  - `wiki/entities/larata.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/아르킬 백작.md`
+  - `wiki/entities/오리아나 휴리.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/환타 휴리.md`
+  - `wiki/entities/라라타.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/events/오리아나와 데스모네 혈통 인과.md`
   - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
   - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
   - `wiki/events/디마리의 미래 반역과 실종.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/events/네리네의 보주와 아세로리온 트라우마 사건.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -1610,12 +1608,12 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-bardil-arkill-oriana-flight.md`
   - `wiki/sources/current-session-oriana-arkill-fanta-larata.md`
-  - `wiki/entities/bardil-prince.md`
-  - `wiki/entities/arkill-count.md`
-  - `wiki/entities/oriana-hyuri.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/fanta-hyuri.md`
-  - `wiki/entities/larata.md`
+  - `wiki/entities/바르딜.md`
+  - `wiki/entities/아르킬 백작.md`
+  - `wiki/entities/오리아나 휴리.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/환타 휴리.md`
+  - `wiki/entities/라라타.md`
   - `wiki/events/바르딜의 아르킬 살해와 오리아나 도주 사건.md`
   - `wiki/events/리미나리스 계승전.md`
   - `wiki/events/환타 휴리의 패배.md`
@@ -1627,9 +1625,9 @@ Notes:
   - `wiki/events/스자스와 라로카의 카밀라 재구축.md`
   - `wiki/events/소설 개별 사건 인덱스.md`
   - `wiki/events/소설 대형 사건 해설서 인덱스.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -1649,14 +1647,14 @@ Notes:
   - `wiki/sources/current-session-fanta-larata-planeswalker-twins.md`
   - `wiki/sources/current-session-oriana-arkill-fanta-larata.md`
   - `wiki/sources/current-session-bardil-arkill-oriana-flight.md`
-  - `wiki/entities/fanta-hyuri.md`
-  - `wiki/entities/larata.md`
-  - `wiki/entities/jerae-hyuri.md`
-  - `wiki/entities/haisia.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/oriana-hyuri.md`
-  - `wiki/entities/arkill-count.md`
-  - `wiki/entities/dimari-hyuri.md`
+  - `wiki/entities/환타 휴리.md`
+  - `wiki/entities/라라타.md`
+  - `wiki/entities/제라애 휴리.md`
+  - `wiki/entities/하이시아.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/오리아나 휴리.md`
+  - `wiki/entities/아르킬 백작.md`
+  - `wiki/entities/디마리 휴리.md`
   - `wiki/concepts/72-대마신.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/차원 방랑자 복원계획.md`
@@ -1667,9 +1665,9 @@ Notes:
   - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
   - `wiki/events/바르딜의 아르킬 살해와 오리아나 도주 사건.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -1687,10 +1685,10 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-fanta-liminaris-duels-assassination.md`
   - `wiki/sources/current-session-fanta-larata-planeswalker-twins.md`
-  - `wiki/entities/huura-chronos-husei.md`
-  - `wiki/entities/fanta-hyuri.md`
-  - `wiki/entities/linarirora.md`
-  - `wiki/entities/oriana-hyuri.md`
+  - `wiki/entities/후우라 크로노스 후세이.md`
+  - `wiki/entities/환타 휴리.md`
+  - `wiki/entities/리나리로라.md`
+  - `wiki/entities/오리아나 휴리.md`
   - `wiki/events/환타 휴리의 패배.md`
   - `wiki/events/리미나리스 계승전.md`
   - `wiki/events/리미나리스 계승전과 보석검 귀환 사건.md`
@@ -1698,7 +1696,7 @@ Notes:
   - `wiki/events/오리아나, 환타, 라라타 혈통 인과.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -1717,15 +1715,15 @@ Notes:
   - `wiki/sources/current-session-minaka-sadou-paid-cooperation-neblade.md`
   - `wiki/sources/current-session-dimari-paragon-first-head.md`
   - `wiki/sources/dimari-session-source-map.md`
-  - `wiki/entities/minaka-sadou.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/미나카 사도우.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/events/디마리와 미나카 사도우의 반역 동기.md`
   - `wiki/events/디마리의 미래 반역과 실종.md`
   - `wiki/events/디마리의 미래 반역과 오리아나 혈통 인과 사건.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
-  - `wiki/syntheses/dimari-hyuri-complete-storyline.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/디마리 휴리 전체 서사.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -1746,10 +1744,10 @@ Notes:
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/리미나리스 의회.md`
   - `wiki/concepts/리미나리스 개방성과 첩보 오염.md`
-  - `wiki/entities/naksha.md`
-  - `wiki/entities/leona-haway.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/나크샤.md`
+  - `wiki/entities/레오나 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
   - `wiki/events/에메랄드 타블렛 사건.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
@@ -1769,13 +1767,13 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-haway-steri-invasion-three-demons.md`
   - `wiki/events/하웨이의 스테리 침공.md`
-  - `wiki/entities/naksha.md`
-  - `wiki/entities/inoliba.md`
-  - `wiki/entities/terai.md`
-  - `wiki/entities/leona-haway.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/nesta-haway.md`
+  - `wiki/entities/나크샤.md`
+  - `wiki/entities/이놀리바.md`
+  - `wiki/entities/테라이.md`
+  - `wiki/entities/레오나 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/네스타 하웨이.md`
   - `wiki/concepts/노리어.md`
   - `wiki/concepts/리미나리스.md`
   - `wiki/events/에메랄드 타블렛 사건.md`
@@ -1784,7 +1782,7 @@ Notes:
   - `wiki/events/소설 개별 사건 인덱스.md`
   - `wiki/events/소설 대형 사건 해설서 인덱스.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/parts/보석검-파트.md`
@@ -1802,21 +1800,21 @@ Notes:
 - 작업: 현재 대화에서 추가된 비스타리오 하웨이, 아이카가 이끄는 마신 연맹에 밀리던 차원술사 영향력, 하웨이의 마지막 무력에 기댄 폭력적 영향력, 스테리 대량 살상 무기 정보와 세 마신의 사후 불만을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-vistario-haway-steri-deception.md`
-  - `wiki/entities/vistario-haway.md`
+  - `wiki/entities/비스타리오 하웨이.md`
   - `wiki/events/하웨이의 스테리 침공.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/naksha.md`
-  - `wiki/entities/inoliba.md`
-  - `wiki/entities/terai.md`
-  - `wiki/entities/leona-haway.md`
-  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/나크샤.md`
+  - `wiki/entities/이놀리바.md`
+  - `wiki/entities/테라이.md`
+  - `wiki/entities/레오나 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
   - `wiki/events/에메랄드 타블렛 사건.md`
   - `wiki/events/네리네의 권능 전개.md`
   - `wiki/events/네리네의 흡혈귀 토벌과 아세로리온 최후 사건.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -1834,14 +1832,14 @@ Notes:
   - `wiki/sources/current-session-steri-alternative-mashinization.md`
   - `wiki/concepts/스테리 대체 마신화.md`
   - `wiki/concepts/노리어.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/emukare-mukere.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/에뮤카레 뮤케레.md`
   - `wiki/events/하웨이의 스테리 침공.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -1859,17 +1857,17 @@ Notes:
   - `wiki/sources/current-session-three-demons-eastern-defection.md`
   - `wiki/events/하웨이 세 마신의 동방 탈주와 스테리 노예 해방.md`
   - `wiki/events/하웨이의 스테리 침공.md`
-  - `wiki/entities/vistario-haway.md`
-  - `wiki/entities/naksha.md`
-  - `wiki/entities/inoliba.md`
-  - `wiki/entities/terai.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/leona-haway.md`
-  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/비스타리오 하웨이.md`
+  - `wiki/entities/나크샤.md`
+  - `wiki/entities/이놀리바.md`
+  - `wiki/entities/테라이.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/레오나 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/events/소설 대형 사건 해설서 인덱스.md`
   - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
@@ -1889,15 +1887,15 @@ Notes:
   - `wiki/concepts/스테리 대체 마신화.md`
   - `wiki/concepts/노리어.md`
   - `wiki/concepts/마법사 좌석 구조.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/emukare-mukere.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/aradnoa-liminaris.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/에뮤카레 뮤케레.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/아라드노아 리미나리스.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/aradnoa-disappearance-arc.md`
-  - `wiki/syntheses/mukere-rinasita-and-miriokarion.md`
+  - `wiki/syntheses/아라드노아의 행적.md`
+  - `wiki/syntheses/뮤케레와 리나시타, 미료카리온 유계 외전.md`
   - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -1916,15 +1914,15 @@ Notes:
   - `wiki/concepts/네리네의 시조 네블레이드 공식 신화.md`
   - `wiki/events/네리네의 보주와 시조 수감.md`
   - `wiki/events/네리네의 보주와 아세로리온 트라우마 사건.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/메이노아 스테리.md`
   - `wiki/concepts/스테리 시조 마법사 자긍심.md`
   - `wiki/concepts/스테리 대체 마신화.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/parts/보석검-파트.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -1944,9 +1942,9 @@ Notes:
   - `wiki/concepts/리미나리스.md`
   - `wiki/concepts/차원술사 귀족.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/meinoa-steri.md`
-  - `wiki/entities/naksha.md`
-  - `wiki/entities/leona-haway.md`
+  - `wiki/entities/메이노아 스테리.md`
+  - `wiki/entities/나크샤.md`
+  - `wiki/entities/레오나 하웨이.md`
   - `wiki/events/하웨이의 스테리 침공.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
@@ -1968,13 +1966,13 @@ Notes:
   - `wiki/events/네리네의 분노와 휴리 투입.md`
   - `wiki/events/에메랄드 타블렛 사건.md`
   - `wiki/events/디마리의 리미나리스 방문과 아세로리온 불안 증폭.md`
-  - `wiki/entities/dimari-hyuri.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/leona-haway.md`
-  - `wiki/entities/meinoa-steri.md`
+  - `wiki/entities/디마리 휴리.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/레오나 하웨이.md`
+  - `wiki/entities/메이노아 스테리.md`
   - `wiki/concepts/휴리.md`
   - `wiki/concepts/리미나리스와 스테리의 하웨이 혈통 인식.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
@@ -2018,8 +2016,8 @@ Notes:
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/리미나리스 개방성과 첩보 오염.md`
   - `wiki/concepts/차원술사 귀족.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/log.md`
@@ -2036,8 +2034,8 @@ Notes:
   - `wiki/sources/current-session-queenrealm-mageorder-legitimacy-truce.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2061,8 +2059,8 @@ Notes:
   - `wiki/sources/current-session-grand-matron-title-dispute.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/log.md`
@@ -2086,9 +2084,9 @@ Notes:
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/72-대마신.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/시에라 세라시에.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2117,9 +2115,9 @@ Notes:
   - `wiki/concepts/마법사령 시에라 실세설.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2143,8 +2141,8 @@ Notes:
   - `wiki/sources/current-session-long-truce-proper-noun-rulers.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/log.md`
@@ -2166,8 +2164,8 @@ Notes:
   - `wiki/sources/current-session-long-peace-military-suspicion.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/concepts/여왕령과 마법사령.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/log.md`
@@ -2191,7 +2189,7 @@ Notes:
   - `wiki/concepts/스테리 대체 마신화.md`
   - `wiki/concepts/스테리 시조 마법사 자긍심.md`
   - `wiki/concepts/스테리의 휴리 인식.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2219,8 +2217,8 @@ Notes:
   - `wiki/concepts/마법사령 시에라 실세설.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/현자 회의와 72 대마신 체제.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2243,19 +2241,19 @@ Notes:
 - 작업: 현재 대화에서 추가된 크로니카의 마법사령 투항, 백성 보호 각오, 마법사령의 예상 밖 수용, 여왕령 마신들의 충격을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-chronica-surrender-asylum-shock.md`
-  - `wiki/entities/chronica-criella.md`
-  - `wiki/entities/kamaso-kamila.md`
+  - `wiki/entities/크로니카 크리엘라.md`
+  - `wiki/entities/카마소 카밀라.md`
   - `wiki/events/크로니카의 탈주.md`
   - `wiki/events/크로니카의 도서관 정착.md`
   - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
   - `wiki/events/카마소 카밀라 혈핵 재난 사건.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
-  - `wiki/syntheses/chronica-criella-complete-storyline.md`
-  - `wiki/syntheses/chronica-kamaso-blood-core-arc.md`
+  - `wiki/syntheses/크로니카 크리엘라 전체 서사.md`
+  - `wiki/syntheses/크로니카-카마소 혈핵 아크.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
 - 핵심 정리:
@@ -2276,13 +2274,13 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-bzul-defection-chronica-precedent.md`
   - `wiki/concepts/브줄 가문.md`
-  - `wiki/entities/sabaha-bzul.md`
-  - `wiki/entities/tiraha-bzul.md`
+  - `wiki/entities/사바하 브줄.md`
+  - `wiki/entities/티라하 브줄.md`
   - `wiki/events/브줄 가문의 마법사령 이반.md`
-  - `wiki/entities/eridina-rinasita.md`
-  - `wiki/entities/wimea-haran.md`
-  - `wiki/entities/chronica-criella.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/에리디나 리나시타.md`
+  - `wiki/entities/위메아 하란.md`
+  - `wiki/entities/크로니카 크리엘라.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/마법사 좌석 구조.md`
   - `wiki/concepts/승천자.md`
   - `wiki/concepts/72-대마신.md`
@@ -2293,11 +2291,11 @@ Notes:
   - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
   - `wiki/events/소설 개별 사건 인덱스.md`
   - `wiki/sources/current-session-mage-seat-distribution.md`
-  - `wiki/syntheses/mukere-rinasita-and-miriokarion.md`
+  - `wiki/syntheses/뮤케레와 리나시타, 미료카리온 유계 외전.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/parts/보석검-파트.md`
@@ -2328,14 +2326,14 @@ Notes:
   - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/chronica-criella.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/크로니카 크리엘라.md`
   - `wiki/events/크로니카의 마법사령 정착과 흡혈귀 단속 사건.md`
   - `wiki/events/소설 개별 사건 인덱스.md`
   - `wiki/events/소설 대형 사건 해설서 인덱스.md`
   - `wiki/sources/current-session-bzul-defection-chronica-precedent.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2360,9 +2358,9 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-izlea-seichel-founder-opposition.md`
   - `wiki/concepts/마법사령 시조 야당과 성지.md`
-  - `wiki/entities/izlea-izzul.md`
-  - `wiki/entities/searup-seirite.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/이즐레아 이즈쥴.md`
+  - `wiki/entities/세아루프 세이리테.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/네리네의 시조 네블레이드 공식 신화.md`
   - `wiki/events/네리네의 보주와 시조 수감.md`
   - `wiki/concepts/마법사 좌석 구조.md`
@@ -2375,7 +2373,7 @@ Notes:
   - `wiki/sources/current-session-mage-seat-distribution.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/parts/보석검-파트.md`
@@ -2404,9 +2402,9 @@ Notes:
   - `wiki/concepts/초절자.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/여왕령 반마법사령 선전과 이반 유혹.md`
-  - `wiki/entities/nerine.md`
-  - `wiki/entities/izlea-izzul.md`
-  - `wiki/entities/searup-seirite.md`
+  - `wiki/entities/네리네 네에나리.md`
+  - `wiki/entities/이즐레아 이즈쥴.md`
+  - `wiki/entities/세아루프 세이리테.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -2498,8 +2496,8 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-sierra-northern-lake-miniature-city.md`
   - `wiki/concepts/시에라의 북부 호수 미니어처 시티.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
   - `wiki/concepts/마법사령 시에라 실세설.md`
   - `wiki/events/최북단 호수와 시에라의 마수 습격 사건.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -2523,15 +2521,15 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-northern-lake-sierra-beast-hunt.md`
   - `wiki/concepts/시에라의 북부 호수 미니어처 시티.md`
-  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/시에라 세라시에.md`
   - `wiki/events/최북단 호수와 시에라의 마수 습격 사건.md`
   - `wiki/concepts/리미나리스.md`
   - `wiki/concepts/리미나리스 조직 구조.md`
-  - `wiki/entities/acerorion-liminaris.md`
+  - `wiki/entities/아세로리온 리미나리스.md`
   - `wiki/events/아세로리온의 뮤베일 신하화 계획.md`
   - `wiki/events/황금 수해와 최북단 호수 여행.md`
   - `wiki/events/시에라의 마수 방출.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-event-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -2553,8 +2551,8 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-sierra-hidden-influence-network.md`
   - `wiki/concepts/시에라의 은닉 영향력망.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/마법사령 시에라 실세설.md`
   - `wiki/concepts/리미나리스 개방성과 첩보 오염.md`
   - `wiki/concepts/휴리.md`
@@ -2587,8 +2585,8 @@ Notes:
   - `wiki/concepts/휴리 코어 차원술사 사이드.md`
   - `wiki/concepts/브줄 승천자 모임.md`
   - `wiki/concepts/스테리 대체신 건조연구회.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/마법사령 시에라 실세설.md`
   - `wiki/concepts/리미나리스 의회 좌우파.md`
   - `wiki/concepts/리미나리스.md`
@@ -2621,8 +2619,8 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-sierra-northern-lake-inn-avatar.md`
   - `wiki/sources/current-session-northern-lake-sierra-beast-hunt.md`
-  - `wiki/entities/sushie-el.md`
-  - `wiki/entities/sierra-serasie.md`
+  - `wiki/entities/슈시에 엘.md`
+  - `wiki/entities/시에라 세라시에.md`
   - `wiki/concepts/시에라의 북부 호수 미니어처 시티.md`
   - `wiki/concepts/리미나리스.md`
   - `wiki/concepts/리미나리스 조직 구조.md`
@@ -2648,9 +2646,9 @@ Notes:
 - 작업: 현재 대화에서 추가된 하이시아를 알던 여왕령 과거 마신들이 휴리 수도에서 하이시아 후손의 군집을 보고 느끼는 초현실적 공포와 존경 증폭을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-haisia-hyuri-capital-shock.md`
-  - `wiki/entities/haisia.md`
+  - `wiki/entities/하이시아.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
@@ -2671,12 +2669,12 @@ Notes:
 - 작업: 현재 대화에서 추가된 먼 미래 하이시아 해방 루트, 후손 휴리의 번성을 보고 원한보다 기쁨을 먼저 느끼는 하이시아, 그 장면을 보는 마신들의 패배감을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-haisia-future-release-hyuri-smile.md`
-  - `wiki/entities/haisia.md`
+  - `wiki/entities/하이시아.md`
   - `wiki/concepts/휴리.md`
-  - `wiki/entities/nerine.md`
+  - `wiki/entities/네리네 네에나리.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/index.md`
@@ -2697,16 +2695,16 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-golden-dawn-dimension-aika-lu.md`
   - `wiki/concepts/황금 새벽의 차원.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/concepts/마나 고갈과 대이주.md`
   - `wiki/sources/current-session-aref-sierra-additions.md`
-  - `wiki/entities/aref-accel-seia.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
   - `wiki/events/아레프와 시에라의 첫만남.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
@@ -2730,16 +2728,16 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-aika-golden-dawn-migration-goal.md`
   - `wiki/concepts/황금 새벽의 차원.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/shugoro-desmone.md`
-  - `wiki/entities/haisia.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/슈고로.md`
+  - `wiki/entities/하이시아.md`
   - `wiki/concepts/마나 고갈과 대이주.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/concepts/여왕령과 마법사령 정통성 분쟁.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/events/하이시아와 아이카의 과거.md`
   - `wiki/events/네리네의 보주와 시조 수감.md`
@@ -2762,10 +2760,10 @@ Notes:
 - 변경 페이지:
   - `wiki/sources/current-session-dimension-devouring-bird-original-identity.md`
   - `wiki/concepts/차원 포식 괴조.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
-  - `wiki/entities/aref-accel-seia.md`
-  - `wiki/entities/sierra-serasie.md`
-  - `wiki/entities/sydeia.md`
+  - `wiki/entities/아이카 데스모네.md`
+  - `wiki/entities/아레프 액셀 세이아.md`
+  - `wiki/entities/시에라 세라시에.md`
+  - `wiki/entities/시데이아.md`
   - `wiki/events/아레프와 시에라의 첫만남.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/concepts/황금 새벽의 차원.md`
@@ -2774,11 +2772,11 @@ Notes:
   - `wiki/sources/current-session-aref-sierra-additions.md`
   - `wiki/sources/current-session-golden-dawn-dimension-aika-lu.md`
   - `wiki/sources/current-session-sydeia-corrections.md`
-  - `wiki/syntheses/aref-sierra-hidden-town-arc.md`
+  - `wiki/syntheses/아레프와 시에라의 숨은 마을 문답.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/index.md`
   - `wiki/한글-목차.md`
   - `wiki/parts/보석검-파트.md`
@@ -2798,14 +2796,14 @@ Notes:
 - 작업: 현재 대화에서 추가된 아이카의 자기 동상·찬양가·구세주 칭송 욕망, 여왕령의 데스모네 화폐 단위, 황금 새벽의 차원에서의 실현을 위키에 반영했다.
 - 변경 페이지:
   - `wiki/sources/current-session-aika-savior-self-glorification.md`
-  - `wiki/entities/aika-desmone-mubeil-aiki-lau.md`
+  - `wiki/entities/아이카 데스모네.md`
   - `wiki/concepts/황금 새벽의 차원.md`
   - `wiki/concepts/여왕령과 마법사령.md`
   - `wiki/sources/current-session-golden-dawn-dimension-aika-lu.md`
   - `wiki/syntheses/novel-character-catalog.md`
   - `wiki/syntheses/novel-setting-catalog.md`
   - `wiki/syntheses/novel-event-catalog.md`
-  - `wiki/syntheses/novel-event-detailed-chronology.md`
+  - `wiki/syntheses/소설 상세 사건 연표.md`
   - `wiki/events/미정렬 사건과 후속 보강 필요 사건.md`
   - `wiki/index.md`
 - 핵심 정리:

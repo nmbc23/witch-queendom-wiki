@@ -14,184 +14,184 @@ updated: 2026-06-01
 
 ## 한글 입구
 
-- [[한글-목차]] - 영문 파일명을 기억하지 않고 인물, 사건, 설정을 한글 제목으로 찾아가기 위한 한국어 입구.
+- [[index|위키 인덱스]] - 영문 파일명을 기억하지 않고 인물, 사건, 설정을 한글 제목으로 찾아가기 위한 한국어 입구.
 
 ## 소설 소스
 
-- [[sources/nerine-chronicles-source-inventory|네리네 연대기 소스 인벤토리]] - `P:\AI\novel\Nerine Chronicles` 외부 폴더의 86개 파일을 위키화하기 전, 주요 아크·정본 후보·중복 파일·추출 주의사항을 정리.
-- [[sources/folder-novel-source-inventory|폴더 소설 원천 인벤토리]] - 현재 작업 폴더의 `raw/` 소설 자료와 `temp_outputs/` 산출물의 역할, 위키 반영 상태, 남은 원문 대조 필요점을 정리.
-- [[sources/current-codex-session-novel-notes]] - 뮤베일, 아세로리온, 디마리, 보석검, 크로니카, 카마소, 라로카, 시에라 관련 현 세션 묶음.
-- [[sources/supreme-planeswalker-sydeia]] - `슈프림 플레인스워커 시데이아.txt`의 시데이아, 마나 고갈, 대이주, 스자스·네리네 IF 설정 요약.
-- [[sources/current-session-sydeia-corrections]] - 시데이아는 시에라가 만든 존재가 아니라, 시에라에게 주물질계 마술 대응법을 배웠다는 현 정본 보정.
-- [[sources/current-session-aref-sierra-additions]] - 아레프가 숨은 마을에서 시에라에게 들은 뮤베일 분체, 아이카 포말 연구, 괴조 의혹, 보석검 실패감 설정.
-- [[sources/current-session-golden-dawn-dimension-aika-lu]] - 아이카가 차원 포식 괴조 진체로 황금 새벽의 차원에 도달했고, 그곳에서 구세주 아이카 루로 통한다는 보정.
-- [[sources/current-session-aika-golden-dawn-migration-goal]] - 아이카가 딸 슈고로와 친구 하이시아를 되찾아 황금 새벽의 차원으로 이주하고, 현재 차원을 마법사령에 넘길 수 있다는 보정.
-- [[sources/current-session-aika-savior-self-glorification]] - 아이카가 자기 동상·찬양가·구세주 칭송을 꿈꿨고, 여왕령에서는 데스모네 화폐 단위에 그쳤으나 황금 새벽의 차원에서 실현했다는 보정.
-- [[sources/current-session-dimension-devouring-bird-original-identity]] - 차원 포식 괴조가 처음부터 차원술사들이 관측한 여왕의 정체였고, 세계와 세계를 날아다니며 멸망시키는 존재라는 원설정 보정.
-- [[sources/current-session-sierra-northern-lake-miniature-city]] - 시에라가 북부 호수 동굴 속 미니어처 시티에서 대통령으로 불리며 숨어 힘을 기르고, 선공권이 있을 때만 네리네 상대 승률이 높다는 보정.
-- [[sources/current-session-northern-lake-sierra-beast-hunt]] - 북부 호수 마수 감소가 시에라의 마법 범위 도달 전 사냥과 미니어처 시티 기반 조성 때문이며, 리미나리스는 이를 알지 못했다는 보정.
-- [[sources/current-session-sierra-northern-lake-inn-avatar]] - 북부 호수 리미나리스 개척 마을에 시에라 세라시에의 여관 종업원용 분체가 활동 중이라는 보정.
-- [[sources/current-session-sierra-hidden-influence-network]] - 시에라가 휴리·리미나리스·스테리·브줄 계열에 분체와 비밀조직으로 영향력을 뿌리고, 리미나리스 의회 좌파·휴리 코어 차원술사 사이드·브줄 승천자 모임·스테리 대체신 건조연구회를 대표 영향 조직으로 둔다는 보정.
-- [[sources/aradnoa-disappearance]] - `아라드노아의 소실.txt`와 2026-05-05 대화에서 추출한 아라드노아 분체, 소실, 노리어, 스자스 루트 분기 요약.
-- [[sources/mukere-rinasita-side-stories]] - `뮤케레와 리나시타 .md` 외전 묶음에서 추출한 유계, 반복 부활, 에텔, 영면, 미료카리온, 의도된 오답 설정.
-- [[sources/current-session-eternal-sleep-correction]] - 영면 시작 시 유계 의식이 깨어나 현세를 내려다보지만, 현세 마녀에게는 비현실감과 나른한 휴식 유혹으로만 나타난다는 보정.
-- [[sources/current-session-ascendant-correction]] - 승천자가 1000명 단위 대기열이 아니라 본래 자동 자리뺏기 경쟁이며, 현재는 지방 지배 구조와 예우 때문에 둔화되었다는 보정.
-- [[sources/current-session-mage-seat-distribution]] - 마법사 14석의 시조 고정석 3, 주요 세력 시드 4, 이즈쥴·세이리테 제자 중심 순환석 7, 제자의 객관 훈련, 차원술사 귀족의 경쟁 회피 구조 보정.
-- [[sources/current-session-liminaris-hotline]] - 리미나리스 차원술사 귀족의 네리네 직통 핫라인, 법령상 보고 의무, 모두가 아는 정치 연극 구조 보정.
-- [[sources/current-session-liminaris-family-council-parliament]] - 리미나리스 가주회의는 밥상머리 집안 회의이고, 진짜 중대 사안은 귀족 의회에서 결정된다는 보정.
-- [[sources/current-session-liminaris-parliament-origin]] - 리미나리스 의회가 과거 차원술사 귀족의 음모·공작·암살 실패를 반성해 만든 토론·다수결 기구라는 보정.
-- [[sources/current-session-liminaris-parliament-left-right-factions]] - 리미나리스 의회 좌우파의 첨예한 대립, 유연한 협력, 백성의 한통속 오해 보정.
-- [[sources/current-session-liminaris-unwritten-rule-commoner-reaction]] - 차원술사 동족 공작 금지 불문율이 일반인에게는 당연한 최소 윤리로 보인다는 사회적 인식 보정.
-- [[sources/current-session-liminaris-openness-spy-network]] - 휴리의 순혈 지배층과 대비되는 리미나리스의 개방성, 역동성, 네리네·여왕령 첩보망 보정.
-- [[sources/current-session-liminaris-naksha-haway-origin]] - 리미나리스의 시조 나크샤 크샤트리아 나즈샤라가 하웨이 가문 마신 출신이며, 리미나리스가 하웨이의 사실상 직계 후손이라는 기원과 스테리의 감정적 적의 보정.
-- [[sources/current-session-liminaris-steri-haway-perception]] - 리미나리스가 하웨이 혈통 덕분에 여왕령 차원술사·마신에게 우호를 받고, 스테리는 나크샤 대장군의 침공 기억 때문에 곱게 보지 않으며, 여왕령은 하웨이가 다른 방식으로 번영한다고 보는 관계 보정.
-- [[sources/current-session-liminaris-economy-development]] - 황금 수해 임업, 북부 호수 수산업, 네리네의 마수 험지 개척, 여왕령 교류와 벤처 기업 산실로서의 리미나리스 경제 구조 보정.
-- [[sources/current-session-queenrealm-liminaris-investment-trade]] - 리미나리스 개척지를 새로운 부로 본 여왕령 유력자들의 투자, 여왕의 경제 협력 요청, 스테리 이익을 계산한 네리네의 수락 보정.
-- [[sources/current-session-queenrealm-mageorder-legitimacy-truce]] - 네리네가 통합을 포기하지 않고 현자 의회 계승을 근거로 마법사령 정통성을 주장하며, 아이카가 반란군 대우를 유지해 휴전과 교류가 공존하는 체제가 된 보정.
-- [[sources/current-session-grand-matron-title-dispute]] - 네리네가 아이카를 여왕이 아니라 현자 회의 의원 중 하나라는 뜻의 그랜드 매트론으로 낮춰 부르고, 자신을 현자 회의 의장인 대마법사로 보는 호칭·정통성 보정.
-- [[sources/current-session-sage-council-aika-sierra-succession]] - 아이카의 현자 회의 의장 임명과 추종자 과반수 즉위, 시에라의 마법 창시·동부 이탈, 현자 회의 폐지와 72 대마신 체제 전환, 양측 정통성 주장의 억지 보정.
-- [[sources/current-session-queenrealm-cult-rebel-sierra-power-rumor]] - 여왕령이 마법사령을 실제로는 국가처럼 대하면서도 공식적으로는 사이비 종교 반군이라 부르고, 시에라 실세설이 도는 인식 보정.
-- [[sources/current-session-queenrealm-mageorder-propaganda-elite-defection]] - 여왕령이 마법사령을 네리네의 인형놀이 왕국으로 가르치면서도, 마법사령의 학술성과 자유가 신생 엘리트에게 이반 유혹으로 작동하는 구조 보정.
-- [[sources/current-session-long-truce-proper-noun-rulers]] - 마지막 전쟁 이후 수백 년간 굳은 여왕령-마법사령 장기 휴전, 경계 국지전, 네리네와 아이카 직함의 고유명사화 보정.
-- [[sources/current-session-long-peace-military-suspicion]] - 오래 지속된 평화 속에서 마법사령 상층부는 네리네 통합론을 구호로 보고, 여왕령 영주는 수도의 전쟁 명분 동원에 불만을 품지만, 군비 유지가 최상층의 불신을 살리는 구조 보정.
-- [[sources/current-session-mageorder-hidden-military-superiority]] - 작중 시점 마법사령 군사력의 실제 우위, 초절자·지하 도시 연구 은폐, 네리네의 단 한 번의 피해 없는 승리 전략 보정.
-- [[sources/current-session-queenrealm-mashin-population-local-administration]] - 여왕령 마신 수가 수천 단위로 늘어나 동네 촌장급 행정 수반까지 마신이 맡는 보편화, 일반 마신의 자유와 초절자 임무 대비 보정.
-- [[sources/current-session-queenrealm-production-academic-rigidity]] - 여왕령의 압도적 생산량, 체제 경직성으로 인한 학술 효율 열위, 대마신 상층부의 개혁 위기감과 백성의 현상 만족 보정.
-- [[sources/current-session-haway-steri-invasion-three-demons]] - 하웨이가 나크샤·이노리 이놀이바·테라시에 테라이 세 마신을 앞세워 스테리 클랜의 골렘 군대와 정보 조작계 무기를 박살낸 침공, 스테리의 마신 부재 후회, 노리어 동기 보정.
-- [[sources/current-session-vistario-haway-steri-deception]] - 비스타리오 하웨이가 스테리 대량 살상 무기 정보를 명분으로 세 마신을 움직이고, 하웨이의 마지막 무력에 기댄 폭력적 영향력을 일시 회복한 보정.
-- [[sources/current-session-three-demons-eastern-defection]] - 시에라 세라시에의 마법 완성 시점에 하웨이 세 마신이 스테리 노예 과반수를 이끌고 동쪽으로 탈주해 속죄하는 보정.
-- [[sources/current-session-steri-alternative-mashinization]] - 하웨이 침공 이후 스테리가 대체 마신화에 집착하고, 네리네의 대량 제물 마신화 금지를 윤리적 긍지와 새 시대의 의지로 받아들이는 보정.
-- [[sources/current-session-steri-founder-pride-sierra-selection]] - 네리네와 에뮤카레가 스테리 출신 시조급 마법사로서 스테리의 비마신화 선택과 자긍심을 정당화하고, 시에라가 이를 응원 차원에서 고른 보정.
-- [[sources/current-session-steri-anti-mashin-indoctrination]] - 스테리 영역의 강경 반마신 사상교육, 다른 지역의 완화 교리, 네리네를 `스테리의 불타는 창`으로 기억하는 영웅 신화 보정.
-- [[sources/current-session-nerine-founder-neblade-official-myth]] - 네리네가 시조 마신들의 네블레이드를 속죄와 권한 이양 신화로 발표하고, 스테리와 여왕령이 이를 다르게 받아들인 보정.
-- [[sources/current-session-izlea-seichel-founder-opposition]] - 네리네가 이즐레아와 세이첼을 살려둔 이유, 두 시조의 내부 야당 역할, 반네리네 성지 기능 보정.
-- [[sources/current-session-hyuri-bloodline]] - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산, 이레니아 가주 후보 지정 구조로 보정.
-- [[sources/current-session-hyuri-steri-rescue-operation]] - 에메랄드 타블렛 사건 이후 네리네가 디마리에게 지시한 대규모 스테리 구출 작전, 휴리에 대한 스테리의 좋은 인식, 네리네의 레오나 체포 투정 보정.
-- [[sources/current-session-jerae-sierra-conspiracy]] - 제라애가 이레니아를 경계하는 진짜 이유인 시에라 공모 흔적, 회의록, 부재 정보 접근 위험과 네리네 사망 시 기록 폐기 보정.
-- [[sources/current-session-hyuri-executors]] - 제라애의 명을 받드는 휴리 실권자 스이카와 카나데라, 이레니아 제거 명령, 고백과 도주 조력 보정.
-- [[sources/current-session-namaae-hyuri]] - 제라애의 친딸 나마애, 가주 후보가 아닌 친딸 지위, 이레니아의 오해와 명령 지연 구원 보정.
-- [[sources/current-session-jerae-deadman-order]] - 제라애가 죽거나 사라질 경우 이레니아의 가주 후보화를 막기 위해 발동되는 즉시 암살 지시 보정.
-- [[sources/current-session-izkata-true-heir]] - 이즈카타 휴리 6이 제라애의 진짜 후계자이며 차원 방랑자 복원계획 성공례라는 보정, 네리네의 차원 닻 대비와 이레니아의 무지 정리.
-- [[sources/current-session-irenia-elimination-escalation]] - 이즈카타 후계 구도 때문에 시작된 이레니아 축출 계획이 부재기록 위험 점검 뒤 즉시 제거 명령으로 격상되는 보정.
-- [[sources/current-session-hyuri-family-council-inner-circle]] - 휴리 가주회의가 표면 행정부와 별개의 이너서클이며, 네리네가 내려보낸 자들은 참여하지 못하고 존재도 모른다는 보정.
-- [[sources/current-session-hyuri-department-structure]] - 휴리가 중앙·연구부·전쟁부·생산부로 나뉘어 하나의 집단처럼 운영되고, 리미나리스는 의회 아래 귀족별 기업·사회 재단으로 움직인다는 보정.
-- [[sources/current-session-haisia-hyuri-progenitor]] - 하이시아가 휴리의 시조이며, 백금발·푸른 눈 돌연변이형 외형, 불임, 마신화 선택 동기, 유전자 클론과 칵테일식 혈통 혼합으로 태어난 휴리 수십만 인구가 여왕령 마녀들에게 충격을 주었다는 보정.
-- [[sources/current-session-haisia-hyuri-capital-shock]] - 하이시아를 직접 알던 여왕령 과거 마신들이 휴리 수도에서 하이시아 후손의 군집을 보고 존경과 공포가 수백 배로 증폭되는 초현실적 반응을 겪는 보정.
-- [[sources/current-session-haisia-future-release-hyuri-smile]] - 먼 미래 하이시아가 네리네로부터 풀려난 뒤 후손 휴리의 번성을 보고 원한을 잊은 듯 행복하게 미소 짓고, 이를 보는 마신들이 깊은 패배감을 느끼는 루트 보정.
-- [[sources/current-session-hyuri-three-branches]] - 네리네가 휴리를 만들 때 나온 하스터·제라스·휴리 세 코드네임 계통, 코드네임 휴리의 주 계열화와 종족명화, 휴리의 자기오해 및 이레니아의 후일 충격 보정.
-- [[sources/current-session-dimari-paragon-first-head]] - 디마리 휴리가 초대 가주이자 하이시아 능력의 무제약 파라곤 원형이며, 네리네의 네블레이드 사태를 파고들다 처리되는 보정.
-- [[sources/current-session-minaka-sadou-paid-cooperation-neblade]] - 미나카 사도우가 디마리의 거액 마나 때문에 낮은 열의로 협력했다가 네리네에게 함께 네블레이드되고, 사도우의 반환 거절로 휴리-사도우 관계가 악화되는 보정.
-- [[sources/current-session-dimari-encrypted-mana-oriana-abduction]] - 디마리의 암호화된 수사 결과와 고액의 마나, 아이카의 오리아나 구출 오해, 스자스의 납치·보호, 휴리-리미나리스 관계 악화 보정.
-- [[sources/current-session-oriana-arkill-fanta-larata]] - 오리아나가 아이카의 보호 설명을 받아들이고, 아르킬 백작과 혼인해 쌍둥이 환타와 라라타를 낳는 혈통 인과 보정.
-- [[sources/current-session-bardil-arkill-oriana-flight]] - 바르딜의 아르킬 살해와 오리아나 성폭행, 오리아나의 실어증·마법사령 도주, 환타와 라라타 분리, 아이카의 지하 감옥 처벌과 라라타 고아원 양육 보정.
-- [[sources/current-session-fanta-larata-planeswalker-twins]] - 환타와 라라타가 여왕의 차원 방랑자 혈통과 하이시아의 전체론적 차원술사 혈통이 결합한 완성형 차원 방랑자 쌍둥이이며, 환타는 휴리 보물·제라애 숭배·리미나리스 결투 공격으로, 라라타는 재능 은폐·72 대마신·여왕령 원한으로 갈라지는 보정.
-- [[sources/current-session-fanta-liminaris-duels-assassination]] - 환타가 결투로 후우라 크로노스 후세이를 포함한 리미나리스 인재들을 불구나 재기불능으로 만들고, 오리아나의 제지를 무시하다 리나리로라에게 보석검으로 몰래 암살되는 보정.
-- [[sources/current-session-high-concept-drafts]] - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
-- [[sources/jerae-linarirora-usurpation]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
-- [[sources/pleasant-nightmare-source]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
-- [[sources/acerorion-image-reference-and-session-check]] - `P:\AI\Codex\generated_images`에서 회수한 아세로리온 세션 생성컷 27장과 정본/주의 컷 분류.
-- [[sources/chronica-session-source-map]] - 크로니카 크리엘라 관련 설정이 세션 기록 어디에서 왔는지 정리한 한국어 소스 맵.
-- [[sources/current-session-chronica-split-body-additions]] - 2026-05-11 대화에서 정리된 크로니카의 분체/스왑 인지 한계, 검은 새 분체, 소심한 실무형 매력 보강.
-- [[sources/current-session-chronica-vampire-management-additions]] - 2026-05-20 대화에서 정리된 크로니카의 연구형 영주 위상, 흡혈귀 관리, 마신-흡혈귀 비대칭, 혈핵 집중 연결, 검은 잎 진체 보강.
-- [[sources/current-session-chronica-surrender-asylum-shock]] - 크로니카가 흡혈 주술 발명자 책임 때문에 신도와 백성까지 숙청될까 두려워 마법사령에 투항하고, 자기 처분을 각오했으나 마법사령이 그녀까지 받아들여 여왕령 마신들에게 충격을 준 보정.
-- [[sources/current-session-bzul-defection-chronica-precedent]] - 파괴의 마신 브줄 가문이 에리디나 리나시타를 배출한 혈통 때문에 여왕령에서 제한을 받고, 크로니카 수용 선례를 근거로 사바하 브줄이 가문 전체를 마법사령으로 이반시킨 보정.
-- [[sources/current-session-bzul-border-five-great-demons]] - 브줄 이반이 크로니카 투항보다 큰 전략 손실이었기에 여왕령이 국경에 여왕 직권의 다섯 대마신을 배치한 후속 보정.
-- [[sources/dimari-session-source-map]] - 디마리 휴리 관련 설정이 세션 기록 어디에서 왔는지 정리한 한국어 소스 맵.
-- [[sources/codex-generated-images-019dbb0f|Codex 생성 이미지 019dbb0f]] - `.codex/generated_images`에서 확인한 이 세션 생성 이미지 47장 전체 묶음.
-- [[sources/codex-generated-images-2026-04-29|Codex 생성 이미지 2026-04-29]] - 이 세션에서 Codex가 생성해 파일로 저장한 크로니카, 라로카, 메이저스 이미지 묶음.
+- [[sources/네리네 연대기 소스 인벤토리|네리네 연대기 소스 인벤토리]] - `P:\AI\novel\Nerine Chronicles` 외부 폴더의 86개 파일을 위키화하기 전, 주요 아크·정본 후보·중복 파일·추출 주의사항을 정리.
+- [[sources/폴더 소설 원천 인벤토리|폴더 소설 원천 인벤토리]] - 현재 작업 폴더의 `raw/` 소설 자료와 `temp_outputs/` 산출물의 역할, 위키 반영 상태, 남은 원문 대조 필요점을 정리.
+- `raw/sessions/current-codex-session-novel-notes.md` - 뮤베일, 아세로리온, 디마리, 보석검, 크로니카, 카마소, 라로카, 시에라 관련 현 세션 묶음.
+- [[sources/슈프림 플레인스워커 시데이아 원문]] - `슈프림 플레인스워커 시데이아.txt`의 시데이아, 마나 고갈, 대이주, 스자스·네리네 IF 설정 요약.
+- `raw/sessions/current-session-sydeia-corrections.md` - 시데이아는 시에라가 만든 존재가 아니라, 시에라에게 주물질계 마술 대응법을 배웠다는 현 정본 보정.
+- `raw/sessions/current-session-aref-sierra-additions.md` - 아레프가 숨은 마을에서 시에라에게 들은 뮤베일 분체, 아이카 포말 연구, 괴조 의혹, 보석검 실패감 설정.
+- `raw/sessions/current-session-golden-dawn-dimension-aika-lu.md` - 아이카가 차원 포식 괴조 진체로 황금 새벽의 차원에 도달했고, 그곳에서 구세주 아이카 루로 통한다는 보정.
+- `raw/sessions/current-session-aika-golden-dawn-migration-goal.md` - 아이카가 딸 슈고로와 친구 하이시아를 되찾아 황금 새벽의 차원으로 이주하고, 현재 차원을 마법사령에 넘길 수 있다는 보정.
+- `raw/sessions/current-session-aika-savior-self-glorification.md` - 아이카가 자기 동상·찬양가·구세주 칭송을 꿈꿨고, 여왕령에서는 데스모네 화폐 단위에 그쳤으나 황금 새벽의 차원에서 실현했다는 보정.
+- `raw/sessions/current-session-dimension-devouring-bird-original-identity.md` - 차원 포식 괴조가 처음부터 차원술사들이 관측한 여왕의 정체였고, 세계와 세계를 날아다니며 멸망시키는 존재라는 원설정 보정.
+- `raw/sessions/current-session-sierra-northern-lake-miniature-city.md` - 시에라가 북부 호수 동굴 속 미니어처 시티에서 대통령으로 불리며 숨어 힘을 기르고, 선공권이 있을 때만 네리네 상대 승률이 높다는 보정.
+- `raw/sessions/current-session-northern-lake-sierra-beast-hunt.md` - 북부 호수 마수 감소가 시에라의 마법 범위 도달 전 사냥과 미니어처 시티 기반 조성 때문이며, 리미나리스는 이를 알지 못했다는 보정.
+- `raw/sessions/current-session-sierra-northern-lake-inn-avatar.md` - 북부 호수 리미나리스 개척 마을에 시에라 세라시에의 여관 종업원용 분체가 활동 중이라는 보정.
+- `raw/sessions/current-session-sierra-hidden-influence-network.md` - 시에라가 휴리·리미나리스·스테리·브줄 계열에 분체와 비밀조직으로 영향력을 뿌리고, 리미나리스 의회 좌파·휴리 코어 차원술사 사이드·브줄 승천자 모임·스테리 대체신 건조연구회를 대표 영향 조직으로 둔다는 보정.
+- [[sources/아라드노아의 소실 원문 요약]] - `아라드노아의 소실.txt`와 2026-05-05 대화에서 추출한 아라드노아 분체, 소실, 노리어, 스자스 루트 분기 요약.
+- [[sources/뮤케레와 리나시타 외전 묶음]] - `raw/뮤케레와 리나시타.md` 외전 묶음에서 추출한 유계, 반복 부활, 에텔, 영면, 미료카리온, 의도된 오답 설정.
+- `raw/sessions/current-session-eternal-sleep-correction.md` - 영면 시작 시 유계 의식이 깨어나 현세를 내려다보지만, 현세 마녀에게는 비현실감과 나른한 휴식 유혹으로만 나타난다는 보정.
+- `raw/sessions/current-session-ascendant-correction.md` - 승천자가 1000명 단위 대기열이 아니라 본래 자동 자리뺏기 경쟁이며, 현재는 지방 지배 구조와 예우 때문에 둔화되었다는 보정.
+- `raw/sessions/current-session-mage-seat-distribution.md` - 마법사 14석의 시조 고정석 3, 주요 세력 시드 4, 이즈쥴·세이리테 제자 중심 순환석 7, 제자의 객관 훈련, 차원술사 귀족의 경쟁 회피 구조 보정.
+- `raw/sessions/current-session-liminaris-hotline.md` - 리미나리스 차원술사 귀족의 네리네 직통 핫라인, 법령상 보고 의무, 모두가 아는 정치 연극 구조 보정.
+- `raw/sessions/current-session-liminaris-family-council-parliament.md` - 리미나리스 가주회의는 밥상머리 집안 회의이고, 진짜 중대 사안은 귀족 의회에서 결정된다는 보정.
+- `raw/sessions/current-session-liminaris-parliament-origin.md` - 리미나리스 의회가 과거 차원술사 귀족의 음모·공작·암살 실패를 반성해 만든 토론·다수결 기구라는 보정.
+- `raw/sessions/current-session-liminaris-parliament-left-right-factions.md` - 리미나리스 의회 좌우파의 첨예한 대립, 유연한 협력, 백성의 한통속 오해 보정.
+- `raw/sessions/current-session-liminaris-unwritten-rule-commoner-reaction.md` - 차원술사 동족 공작 금지 불문율이 일반인에게는 당연한 최소 윤리로 보인다는 사회적 인식 보정.
+- `raw/sessions/current-session-liminaris-openness-spy-network.md` - 휴리의 순혈 지배층과 대비되는 리미나리스의 개방성, 역동성, 네리네·여왕령 첩보망 보정.
+- `raw/sessions/current-session-liminaris-naksha-haway-origin.md` - 리미나리스의 시조 나크샤 크샤트리아 나즈샤라가 하웨이 가문 마신 출신이며, 리미나리스가 하웨이의 사실상 직계 후손이라는 기원과 스테리의 감정적 적의 보정.
+- `raw/sessions/current-session-liminaris-steri-haway-perception.md` - 리미나리스가 하웨이 혈통 덕분에 여왕령 차원술사·마신에게 우호를 받고, 스테리는 나크샤 대장군의 침공 기억 때문에 곱게 보지 않으며, 여왕령은 하웨이가 다른 방식으로 번영한다고 보는 관계 보정.
+- `raw/sessions/current-session-liminaris-economy-development.md` - 황금 수해 임업, 북부 호수 수산업, 네리네의 마수 험지 개척, 여왕령 교류와 벤처 기업 산실로서의 리미나리스 경제 구조 보정.
+- `raw/sessions/current-session-queenrealm-liminaris-investment-trade.md` - 리미나리스 개척지를 새로운 부로 본 여왕령 유력자들의 투자, 여왕의 경제 협력 요청, 스테리 이익을 계산한 네리네의 수락 보정.
+- `raw/sessions/current-session-queenrealm-mageorder-legitimacy-truce.md` - 네리네가 통합을 포기하지 않고 현자 의회 계승을 근거로 마법사령 정통성을 주장하며, 아이카가 반란군 대우를 유지해 휴전과 교류가 공존하는 체제가 된 보정.
+- `raw/sessions/current-session-grand-matron-title-dispute.md` - 네리네가 아이카를 여왕이 아니라 현자 회의 의원 중 하나라는 뜻의 그랜드 매트론으로 낮춰 부르고, 자신을 현자 회의 의장인 대마법사로 보는 호칭·정통성 보정.
+- `raw/sessions/current-session-sage-council-aika-sierra-succession.md` - 아이카의 현자 회의 의장 임명과 추종자 과반수 즉위, 시에라의 마법 창시·동부 이탈, 현자 회의 폐지와 72 대마신 체제 전환, 양측 정통성 주장의 억지 보정.
+- `raw/sessions/current-session-queenrealm-cult-rebel-sierra-power-rumor.md` - 여왕령이 마법사령을 실제로는 국가처럼 대하면서도 공식적으로는 사이비 종교 반군이라 부르고, 시에라 실세설이 도는 인식 보정.
+- `raw/sessions/current-session-queenrealm-mageorder-propaganda-elite-defection.md` - 여왕령이 마법사령을 네리네의 인형놀이 왕국으로 가르치면서도, 마법사령의 학술성과 자유가 신생 엘리트에게 이반 유혹으로 작동하는 구조 보정.
+- `raw/sessions/current-session-long-truce-proper-noun-rulers.md` - 마지막 전쟁 이후 수백 년간 굳은 여왕령-마법사령 장기 휴전, 경계 국지전, 네리네와 아이카 직함의 고유명사화 보정.
+- `raw/sessions/current-session-long-peace-military-suspicion.md` - 오래 지속된 평화 속에서 마법사령 상층부는 네리네 통합론을 구호로 보고, 여왕령 영주는 수도의 전쟁 명분 동원에 불만을 품지만, 군비 유지가 최상층의 불신을 살리는 구조 보정.
+- `raw/sessions/current-session-mageorder-hidden-military-superiority.md` - 작중 시점 마법사령 군사력의 실제 우위, 초절자·지하 도시 연구 은폐, 네리네의 단 한 번의 피해 없는 승리 전략 보정.
+- `raw/sessions/current-session-queenrealm-mashin-population-local-administration.md` - 여왕령 마신 수가 수천 단위로 늘어나 동네 촌장급 행정 수반까지 마신이 맡는 보편화, 일반 마신의 자유와 초절자 임무 대비 보정.
+- `raw/sessions/current-session-queenrealm-production-academic-rigidity.md` - 여왕령의 압도적 생산량, 체제 경직성으로 인한 학술 효율 열위, 대마신 상층부의 개혁 위기감과 백성의 현상 만족 보정.
+- `raw/sessions/current-session-haway-steri-invasion-three-demons.md` - 하웨이가 나크샤·이노리 이놀이바·테라시에 테라이 세 마신을 앞세워 스테리 클랜의 골렘 군대와 정보 조작계 무기를 박살낸 침공, 스테리의 마신 부재 후회, 노리어 동기 보정.
+- `raw/sessions/current-session-vistario-haway-steri-deception.md` - 비스타리오 하웨이가 스테리 대량 살상 무기 정보를 명분으로 세 마신을 움직이고, 하웨이의 마지막 무력에 기댄 폭력적 영향력을 일시 회복한 보정.
+- `raw/sessions/current-session-three-demons-eastern-defection.md` - 시에라 세라시에의 마법 완성 시점에 하웨이 세 마신이 스테리 노예 과반수를 이끌고 동쪽으로 탈주해 속죄하는 보정.
+- `raw/sessions/current-session-steri-alternative-mashinization.md` - 하웨이 침공 이후 스테리가 대체 마신화에 집착하고, 네리네의 대량 제물 마신화 금지를 윤리적 긍지와 새 시대의 의지로 받아들이는 보정.
+- `raw/sessions/current-session-steri-founder-pride-sierra-selection.md` - 네리네와 에뮤카레가 스테리 출신 시조급 마법사로서 스테리의 비마신화 선택과 자긍심을 정당화하고, 시에라가 이를 응원 차원에서 고른 보정.
+- `raw/sessions/current-session-steri-anti-mashin-indoctrination.md` - 스테리 영역의 강경 반마신 사상교육, 다른 지역의 완화 교리, 네리네를 `스테리의 불타는 창`으로 기억하는 영웅 신화 보정.
+- `raw/sessions/current-session-nerine-founder-neblade-official-myth.md` - 네리네가 시조 마신들의 네블레이드를 속죄와 권한 이양 신화로 발표하고, 스테리와 여왕령이 이를 다르게 받아들인 보정.
+- `raw/sessions/current-session-izlea-seichel-founder-opposition.md` - 네리네가 이즐레아와 세이첼을 살려둔 이유, 두 시조의 내부 야당 역할, 반네리네 성지 기능 보정.
+- `raw/sessions/current-session-hyuri-bloodline.md` - 휴리를 네리네가 직접 만든 두 번째 차원술사 혈족, 마법사령 프로젝트·군사·학술 집단, 리미나리스 억제력, 순혈 지배층 재생산, 이레니아 가주 후보 지정 구조로 보정.
+- `raw/sessions/current-session-hyuri-steri-rescue-operation.md` - 에메랄드 타블렛 사건 이후 네리네가 디마리에게 지시한 대규모 스테리 구출 작전, 휴리에 대한 스테리의 좋은 인식, 네리네의 레오나 체포 투정 보정.
+- `raw/sessions/current-session-jerae-sierra-conspiracy.md` - 제라애가 이레니아를 경계하는 진짜 이유인 시에라 공모 흔적, 회의록, 부재 정보 접근 위험과 네리네 사망 시 기록 폐기 보정.
+- `raw/sessions/current-session-hyuri-executors.md` - 제라애의 명을 받드는 휴리 실권자 스이카와 카나데라, 이레니아 제거 명령, 고백과 도주 조력 보정.
+- `raw/sessions/current-session-namaae-hyuri.md` - 제라애의 친딸 나마애, 가주 후보가 아닌 친딸 지위, 이레니아의 오해와 명령 지연 구원 보정.
+- `raw/sessions/current-session-jerae-deadman-order.md` - 제라애가 죽거나 사라질 경우 이레니아의 가주 후보화를 막기 위해 발동되는 즉시 암살 지시 보정.
+- `raw/sessions/current-session-izkata-true-heir.md` - 이즈카타 휴리 6이 제라애의 진짜 후계자이며 차원 방랑자 복원계획 성공례라는 보정, 네리네의 차원 닻 대비와 이레니아의 무지 정리.
+- `raw/sessions/current-session-irenia-elimination-escalation.md` - 이즈카타 후계 구도 때문에 시작된 이레니아 축출 계획이 부재기록 위험 점검 뒤 즉시 제거 명령으로 격상되는 보정.
+- `raw/sessions/current-session-hyuri-family-council-inner-circle.md` - 휴리 가주회의가 표면 행정부와 별개의 이너서클이며, 네리네가 내려보낸 자들은 참여하지 못하고 존재도 모른다는 보정.
+- `raw/sessions/current-session-hyuri-department-structure.md` - 휴리가 중앙·연구부·전쟁부·생산부로 나뉘어 하나의 집단처럼 운영되고, 리미나리스는 의회 아래 귀족별 기업·사회 재단으로 움직인다는 보정.
+- `raw/sessions/current-session-haisia-hyuri-progenitor.md` - 하이시아가 휴리의 시조이며, 백금발·푸른 눈 돌연변이형 외형, 불임, 마신화 선택 동기, 유전자 클론과 칵테일식 혈통 혼합으로 태어난 휴리 수십만 인구가 여왕령 마녀들에게 충격을 주었다는 보정.
+- `raw/sessions/current-session-haisia-hyuri-capital-shock.md` - 하이시아를 직접 알던 여왕령 과거 마신들이 휴리 수도에서 하이시아 후손의 군집을 보고 존경과 공포가 수백 배로 증폭되는 초현실적 반응을 겪는 보정.
+- `raw/sessions/current-session-haisia-future-release-hyuri-smile.md` - 먼 미래 하이시아가 네리네로부터 풀려난 뒤 후손 휴리의 번성을 보고 원한을 잊은 듯 행복하게 미소 짓고, 이를 보는 마신들이 깊은 패배감을 느끼는 루트 보정.
+- `raw/sessions/current-session-hyuri-three-branches.md` - 네리네가 휴리를 만들 때 나온 하스터·제라스·휴리 세 코드네임 계통, 코드네임 휴리의 주 계열화와 종족명화, 휴리의 자기오해 및 이레니아의 후일 충격 보정.
+- `raw/sessions/current-session-dimari-paragon-first-head.md` - 디마리 휴리가 초대 가주이자 하이시아 능력의 무제약 파라곤 원형이며, 네리네의 네블레이드 사태를 파고들다 처리되는 보정.
+- `raw/sessions/current-session-minaka-sadou-paid-cooperation-neblade.md` - 미나카 사도우가 디마리의 거액 마나 때문에 낮은 열의로 협력했다가 네리네에게 함께 네블레이드되고, 사도우의 반환 거절로 휴리-사도우 관계가 악화되는 보정.
+- `raw/sessions/current-session-dimari-encrypted-mana-oriana-abduction.md` - 디마리의 암호화된 수사 결과와 고액의 마나, 아이카의 오리아나 구출 오해, 스자스의 납치·보호, 휴리-리미나리스 관계 악화 보정.
+- `raw/sessions/current-session-oriana-arkill-fanta-larata.md` - 오리아나가 아이카의 보호 설명을 받아들이고, 아르킬 백작과 혼인해 쌍둥이 환타와 라라타를 낳는 혈통 인과 보정.
+- `raw/sessions/current-session-bardil-arkill-oriana-flight.md` - 바르딜의 아르킬 살해와 오리아나 성폭행, 오리아나의 실어증·마법사령 도주, 환타와 라라타 분리, 아이카의 지하 감옥 처벌과 라라타 고아원 양육 보정.
+- `raw/sessions/current-session-fanta-larata-planeswalker-twins.md` - 환타와 라라타가 여왕의 차원 방랑자 혈통과 하이시아의 전체론적 차원술사 혈통이 결합한 완성형 차원 방랑자 쌍둥이이며, 환타는 휴리 보물·제라애 숭배·리미나리스 결투 공격으로, 라라타는 재능 은폐·72 대마신·여왕령 원한으로 갈라지는 보정.
+- `raw/sessions/current-session-fanta-liminaris-duels-assassination.md` - 환타가 결투로 후우라 크로노스 후세이를 포함한 리미나리스 인재들을 불구나 재기불능으로 만들고, 오리아나의 제지를 무시하다 리나리로라에게 보석검으로 몰래 암살되는 보정.
+- `raw/sessions/current-session-high-concept-drafts.md` - 현 세션에서 정리한 72 대마신, 초절자, 승천자 검삭용 초안의 위키 승격 출처.
+- [[sources/제라애의 리나리로라 찬탈 원문 요약]] - `제라애의 리나리로라 찬탈.txt`에서 추출한 제라애 찬탈, 이즈카타의 결계 무력화, 리미나리스의 이즈카타 증오/공포 근거.
+- [[sources/즐거운 악몽 소스]] - `즐거운_악몽_통합본.md`와 `즐거운_악몽_추가편_통합본.md`에서 추출한 아세로리온 IF 루트, 유람, 심층 리뷰, 최악 분기 요약.
+- [[sources/아세로리온 이미지 레퍼런스와 세션 생성컷 확인]] - `P:\AI\Codex\generated_images`에서 회수한 아세로리온 세션 생성컷 27장과 정본/주의 컷 분류.
+- `raw/sessions/chronica-session-source-map.md` - 크로니카 크리엘라 관련 설정이 세션 기록 어디에서 왔는지 정리한 한국어 소스 맵.
+- `raw/sessions/current-session-chronica-split-body-additions.md` - 2026-05-11 대화에서 정리된 크로니카의 분체/스왑 인지 한계, 검은 새 분체, 소심한 실무형 매력 보강.
+- `raw/sessions/current-session-chronica-vampire-management-additions.md` - 2026-05-20 대화에서 정리된 크로니카의 연구형 영주 위상, 흡혈귀 관리, 마신-흡혈귀 비대칭, 혈핵 집중 연결, 검은 잎 진체 보강.
+- `raw/sessions/current-session-chronica-surrender-asylum-shock.md` - 크로니카가 흡혈 주술 발명자 책임 때문에 신도와 백성까지 숙청될까 두려워 마법사령에 투항하고, 자기 처분을 각오했으나 마법사령이 그녀까지 받아들여 여왕령 마신들에게 충격을 준 보정.
+- `raw/sessions/current-session-bzul-defection-chronica-precedent.md` - 파괴의 마신 브줄 가문이 에리디나 리나시타를 배출한 혈통 때문에 여왕령에서 제한을 받고, 크로니카 수용 선례를 근거로 사바하 브줄이 가문 전체를 마법사령으로 이반시킨 보정.
+- `raw/sessions/current-session-bzul-border-five-great-demons.md` - 브줄 이반이 크로니카 투항보다 큰 전략 손실이었기에 여왕령이 국경에 여왕 직권의 다섯 대마신을 배치한 후속 보정.
+- `raw/sessions/dimari-session-source-map.md` - 디마리 휴리 관련 설정이 세션 기록 어디에서 왔는지 정리한 한국어 소스 맵.
+- [[sources/Codex 생성 이미지 019dbb0f|Codex 생성 이미지 019dbb0f]] - `.codex/generated_images`에서 확인한 이 세션 생성 이미지 47장 전체 묶음.
+- [[sources/Codex 생성 이미지 2026-04-29|Codex 생성 이미지 2026-04-29]] - 이 세션에서 Codex가 생성해 파일로 저장한 크로니카, 라로카, 메이저스 이미지 묶음.
 
 ## 소설 종합
 
-- [[syntheses/nerine-common-event-spine|네리네 연대기 공통 사건 줄기]] - 대마법사가 된 네리네와 여왕령 사절 스자스의 첫 만남 이전을 공통루트로 보는 컷오프 기준과 사건 카드 양식.
-- [[syntheses/nerine-concept-review-list|네리네 연대기 개념 검삭 목록]] - 소설 원천에서 개념 문서로 승격할 후보를 세계 구조, 세력, 마법 체계, 마도구, 루트별로 넓게 모은 검수용 목록.
-- [[syntheses/novel-character-catalog]] - 현재 세션에 등장·언급된 인물을 주역, 후일담, 시조, 미래 축으로 나눈 빠른 참조 목록.
-- [[syntheses/novel-event-catalog]] - 뮤베일 잠입부터 에메랄드 타블렛, 보석검, 흡혈 마신화, 카마소, 미래 사건까지의 사건 목록.
-- [[syntheses/novel-event-detailed-chronology]] - 현재 위키 기준 소설 사건을 E번호로 나눈 상세 시간순 연표. 각 사건의 관련 인물, 전개, 결과, 후속 영향을 함께 정리.
+- [[syntheses/네리네 연대기 공통 사건 줄기|네리네 연대기 공통 사건 줄기]] - 대마법사가 된 네리네와 여왕령 사절 스자스의 첫 만남 이전을 공통루트로 보는 컷오프 기준과 사건 카드 양식.
+- [[syntheses/네리네 연대기 개념 검삭 목록|네리네 연대기 개념 검삭 목록]] - 소설 원천에서 개념 문서로 승격할 후보를 세계 구조, 세력, 마법 체계, 마도구, 루트별로 넓게 모은 검수용 목록.
+- `raw/archive/novel-character-catalog.md` - 현재 세션에 등장·언급된 인물을 주역, 후일담, 시조, 미래 축으로 나눈 빠른 참조 목록.
+- `raw/archive/novel-event-catalog.md` - 뮤베일 잠입부터 에메랄드 타블렛, 보석검, 흡혈 마신화, 카마소, 미래 사건까지의 사건 목록.
+- [[syntheses/소설 상세 사건 연표]] - 현재 위키 기준 소설 사건을 E번호로 나눈 상세 시간순 연표. 각 사건의 관련 인물, 전개, 결과, 후속 영향을 함께 정리.
 - [[events/소설 개별 사건 인덱스|소설 개별 사건 인덱스]] - 상세 사건 연표에서 분리한 개별 사건 페이지의 시간순 인덱스.
 - [[events/소설 대형 사건 해설서 인덱스|소설 대형 사건 해설서 인덱스]] - 세부 사건을 예시의 에메랄드 타블렛 사건처럼 큰 사건 단위로 재정리한 대형 사건 해설서 인덱스.
-- [[syntheses/novel-setting-catalog]] - 여왕령/마법사령, 리미나리스/휴리/하웨이, 주요 장소, 마술 체계, 아티팩트 정리.
-- [[syntheses/mubeil-acerorion-dimari-jewel-sword-arc]] - 리미나리스 교류, 만화경 보석검 연구, 아세로리온의 몰락, 아이카의 도주.
-- [[syntheses/pleasant-nightmare-if-route]] - 이즐레아의 망설임으로 길어진 아세로리온·뮤베일의 IF 루트와, 결국 같은 파국으로 수렴하는 `즐거운 악몽` 정리.
-- [[syntheses/aref-sierra-hidden-town-arc]] - 아레프가 뮤베일을 추적해 시에라의 미니어처 타운에 들어가고, 아이카와 보석검의 진상을 배우는 문답 아크.
-- [[syntheses/aradnoa-disappearance-arc]] - 아라드노아 리미나리스 분체의 교사·연구자·스테리 행적, 이즈카타 결투 소실, 노리어와 스자스 루트 분기.
-- [[syntheses/mukere-rinasita-and-miriokarion]] - 뮤케레와 리나시타의 반복 부활 실패, 노리어 에텔 기반, 미료카리온의 의도된 오답과 시에라 상아탑 진체.
-- [[syntheses/chronica-kamaso-blood-core-arc]] - 크로니카의 공유 주술, 혈핵, 카마소 카밀라 사태, 스자스의 훗날 반역 기반.
-- [[syntheses/chronica-criella-complete-storyline]] - 크로니카 크리엘라의 전체 개인 서사를 시간순으로 정리한 한국어 정본.
-- [[syntheses/chronica-criella-character-sheet]] - 크로니카의 외형, 성격, 잠재력, 한계, 관계, 작법 포인트를 한 장에 모은 캐릭터 시트.
-- [[syntheses/dimari-hyuri-complete-storyline]] - 디마리 휴리의 비서 코미디, 보석검 공방, 메이벨 전투, 암호 마나와 오리아나 납치, 바르딜 사건으로 이어지는 후대 인과를 시간순으로 정리한 한국어 정본.
-- [[syntheses/story-tone-and-black-comedy]] - 이 소설의 블랙 코미디, 비극, 행정 부조리, 문체 방향.
-- [[syntheses/current-novel-roadmap]] - 현재까지의 큰 줄기와 다음에 확장하기 좋은 장면.
+- `raw/archive/novel-setting-catalog.md` - 여왕령/마법사령, 리미나리스/휴리/하웨이, 주요 장소, 마술 체계, 아티팩트 정리.
+- [[syntheses/뮤베일·아세로리온·디마리 보석검 아크]] - 리미나리스 교류, 만화경 보석검 연구, 아세로리온의 몰락, 아이카의 도주.
+- [[syntheses/즐거운 악몽 IF 루트]] - 이즐레아의 망설임으로 길어진 아세로리온·뮤베일의 IF 루트와, 결국 같은 파국으로 수렴하는 `즐거운 악몽` 정리.
+- [[syntheses/아레프와 시에라의 숨은 마을 문답]] - 아레프가 뮤베일을 추적해 시에라의 미니어처 타운에 들어가고, 아이카와 보석검의 진상을 배우는 문답 아크.
+- [[syntheses/아라드노아의 행적]] - 아라드노아 리미나리스 분체의 교사·연구자·스테리 행적, 이즈카타 결투 소실, 노리어와 스자스 루트 분기.
+- [[syntheses/뮤케레와 리나시타, 미료카리온 유계 외전]] - 뮤케레와 리나시타의 반복 부활 실패, 노리어 에텔 기반, 미료카리온의 의도된 오답과 시에라 상아탑 진체.
+- [[syntheses/크로니카-카마소 혈핵 아크]] - 크로니카의 공유 주술, 혈핵, 카마소 카밀라 사태, 스자스의 훗날 반역 기반.
+- [[syntheses/크로니카 크리엘라 전체 서사]] - 크로니카 크리엘라의 전체 개인 서사를 시간순으로 정리한 한국어 정본.
+- [[syntheses/크로니카 캐릭터 시트]] - 크로니카의 외형, 성격, 잠재력, 한계, 관계, 작법 포인트를 한 장에 모은 캐릭터 시트.
+- [[syntheses/디마리 휴리 전체 서사]] - 디마리 휴리의 비서 코미디, 보석검 공방, 메이벨 전투, 암호 마나와 오리아나 납치, 바르딜 사건으로 이어지는 후대 인과를 시간순으로 정리한 한국어 정본.
+- [[syntheses/이야기 톤과 블랙 코미디]] - 이 소설의 블랙 코미디, 비극, 행정 부조리, 문체 방향.
+- [[syntheses/소설 로드맵]] - 현재까지의 큰 줄기와 다음에 확장하기 좋은 장면.
 
 ## 소설 인물
 
-- [[entities/aika-desmone-mubeil-aiki-lau]] - 여왕 아이카가 뮤베일로 위장해 리미나리스에서 보석검 연구와 아세로리온 비극을 겪은 행적. 데스모네 입양 전 평민명은 아이카 루이며, 슈고로와 하이시아를 되찾아 황금 새벽의 차원으로 이주하려 한다. 여왕령에서는 억제했던 자기 동상·찬양가·구세주 칭송 욕망을 황금 새벽의 차원에서 실현한다.
-- [[entities/sydeia]] - 외부 우주적 슈프림 플레인스워커이자 아레프 액셀 세이아 가면의 본체.
-- [[entities/aref-accel-seia]] - 시데이아가 여왕령과 리미나리스에서 쓰는 반여왕 투사/진보파 지도자 가면.
-- [[entities/aradnoa-liminaris]] - 시에라가 리미나리스 방계 마술교사의 육체를 이용해 운용한 분체이자 노리어의 엑시즈.
-- [[entities/acerorion-liminaris]] - 네리네에게 버림받은 리미나리스 가주가 뮤베일에게 의존하고 흡혈 마신화로 몰락한 행적.
-- [[entities/dimari-hyuri]] - 휴리 초대 가주이자 파라곤 원형, 네리네의 과로한 비서, 보석검 회로 조율자, 네블레이드 사태 추적자, 미나카 사도우에게 거액 마나를 보낸 협력 요청자이자 최후 암호 마나의 발신자.
-- [[entities/meibell-nast]] - 아세로리온의 퍼스트 서번트, 차원 조각 사용자, 아이카 도주 조력자, 가주 대리의 행적.
-- [[entities/nerine]] - 마법사령 최고 지도자이자 스테리 출신 마신, 보주와 휴리와 리미나리스를 조종하고 아세로리온을 토벌하며 대량 제물 마신화를 금지한 행적, 시조 권한 이양 공식 신화와 스테리 시조급 자긍심.
-- [[entities/leona-haway]] - 에메랄드 타블렛 사건의 하웨이 가주이자 백조의 탑 수감자, 보석검 완성 후원자의 행적.
-- [[entities/vistario-haway]] - 스테리 대량 살상 무기 정보를 명분으로 세 마신을 움직이고, 하웨이의 폭력적 영향력을 일시 회복한 과거 하웨이 인물.
-- [[entities/chronica-criella]] - 공유 주술 창시자, 흡혈 마술 오용의 책임자, 신도와 백성을 이끌고 마법사령에 투항한 보호자, 흡혈귀 단속 담당의 행적.
-- [[entities/szas-sreya]] - 처형 귀족, 검은 마견 이미지, 카마소 자멸 판단과 훗날 카밀라 재구축 기반의 행적.
-- [[entities/laroka]] - 질량 있는 환영의 마녀, 스자스의 동문, 카밀라 재구축 공범의 행적.
-- [[entities/sierra-serasie]] - 마법 창시자, 스자스와 라로카의 스승, 북부 호수 동굴 속 미니어처 시티의 대통령으로 숨어 힘을 기르며 북부 호수 개척 마을의 여관 종업원용 분체와 여러 은닉 영향망을 운용하는 인물.
-- [[entities/miriokarion]] - 유계와 우주론에 거의 도달했으나 의도된 오답 덕분에 살아남고, 죽은 뒤 시에라 진체에 감사가 닿는 학자.
-- [[entities/sushie-el]] - 시에라의 분체이자 북부 호수 리미나리스 개척 마을의 여관/온천 종업원용 현장 분체, 여왕을 알아보고 희생양이 된 행적.
-- [[entities/kamaso-kamila]] - 영지 전체 흡혈 의식으로 얼티밋급 혈핵 재난이 된 북부 영주의 행적.
-- [[entities/meijers-desmone-medalicia]] - 강제 승리 포말로 카마소 카밀라의 직격을 버틴 듯 보인 마녀 대장군의 행적.
-- [[entities/nigede-gedenia]] - 식물성 피 열매를 개발해 크로니카의 흡혈귀 단속을 가능하게 한 생물학계 대마신.
-- [[entities/nesta-haway]] - 에메랄드 타블렛 생산 실무를 맡고 스자스에게 진상을 흘린 하웨이 디바이너.
-- [[entities/meinoa-steri]] - 스테리 출신 연구원, 네스타의 죄책감을 대표하는 과거 동료.
-- [[entities/saijera-mi]] - 스테리 실종 의혹을 사회운동 네트워크로 퍼뜨린 디바이너.
-- [[entities/saijera]] - 사이제라 미와 동일 인물인지 미확정인 이름 분리 스텁.
-- [[entities/merika-kairei]] - 레오나의 뮤베일 신원 추적을 보고한 아이카 측 첩보 라인.
-- [[entities/merika]] - 메리카 카이레이와 동일 인물인지 미확정인 이름 분리 스텁.
-- [[entities/kairei]] - 메리카 카이레이와 동일 인물인지 미확정인 이름 분리 스텁.
-- [[entities/miraris-listia]] - 에메랄드 타블렛 사건의 법 해석을 맡은 법무부 장관.
-- [[entities/emukare-mukere]] - 스테리 출신 마신, 훗날 스자스가 에메랄드 타블렛으로 회유하고 노리어의 에텔 기반이 되며 스테리의 시조급 자긍심을 형성하는 인물.
-- [[entities/eridina-rinasita]] - 노리어의 에텔 원천이자 위메아 하란에게 이어지는 마법사의 힘. 브줄 가문 출신 마법사령 시조이기도 하다.
-- [[entities/wimea-haran]] - 브줄 출신 승천자. 에리디나 리나시타의 힘을 받아 첫 번째 승천자가 되는 인물.
-- [[entities/sabaha-bzul]] - 브줄 가문의 가주. 티라하가 72 대마신에서 밀려나자 가문 전체의 마법사령 이반을 결정한다.
-- [[entities/tiraha-bzul]] - 72 대마신에서 밀려난 일이 브줄 가문 이반의 도화선이 된 인물.
-- [[entities/laplaria-liminaris]] - 아세로리온의 장녀, 휴리 지원을 받는 리미나리스 계승 후보.
-- [[entities/linarirora]] - 아세로리온의 차녀, 레오나와 보석검 지원으로 계승전에 승리하는 후보.
-- [[entities/fanta-hyuri]] - 오리아나와 아르킬 백작의 완성형 차원 방랑자 쌍둥이 중 하나. 휴리 상층부의 보물과 어린 제라애의 숭배 대상이 되며, 리미나리스 적대 선동을 받아 결투로 차원술사 귀족들을 공격한다.
-- [[entities/jerae-hyuri]] - 현 휴리 가주이자 휴리 상회의 거두. 어린 시절 환타의 천재성을 숭배했고, 훗날 이즈카타를 진짜 후계자로 세우려 하며 이레니아가 부재기록을 캐물어 시에라 공모 흔적에 닿을까 두려워한다.
-- [[entities/suika-hyuri]] - 제라애의 명을 받드는 휴리 실권자, 이레니아 즉시 제거가 과하다고 느끼지만 제라애와 시에라의 관계를 모르고 결국 명을 실행하는 인물.
-- [[entities/kanadera-hyuri]] - 제라애의 직접 실행 명령을 받은 휴리 실권자, 즉시 제거가 과하다고 느끼며 마지막에 이레니아에게 고백하고 도망치게 하는 인물.
-- [[entities/namaae-hyuri]] - 제라애의 친딸이지만 가주 후보는 아니며, 친딸 지위로 이레니아 제거 명령을 지연시키는 인물.
-- [[entities/izkata]] - 아라드노아의 소실 무대가 되는 휴리의 완성형 차원 방랑자이자, 제라애가 진짜로 가주로 만들려는 극비 후계자.
-- [[entities/oriana-hyuri]] - 디마리의 딸이자 아이카의 오해로 스자스에게 납치·보호되고, 아르킬 백작과 혼인해 환타와 라라타를 낳지만 바르딜 사건으로 실어증과 도주를 겪는 미래 핵심 인물.
-- [[entities/arkill-count]] - 아이카의 혈족인 여왕령 백작, 오리아나와 혼인해 환타와 라라타의 아버지가 되는 혈통 연결점이며 바르딜에게 살해되는 인물.
-- [[entities/bardil-prince]] - 여왕령의 망나니 왕자이자 범죄자. 아르킬을 죽이고 오리아나를 성폭행해 환타와 라라타 분리의 직접 원인이 된다.
-- [[entities/huura-chronos-husei]] - 오리아나를 도와준 리미나리스 인재. 환타의 결투 공격으로 불구나 재기불능이 된 피해자 중 하나다.
-- [[entities/galieira-hyuri]] - 디마리의 후임 비서, 네리네의 변덕에 시달리는 과로 코미디 인물.
-- [[entities/irenia-hyuri-34]] - 네리네가 마법사 후보이자 차기 가주 후보로 내려보낸 휴리, 휴리 가주회의 이너서클의 존재를 모르지만 기록 추적 위험 때문에 제라애가 경계하는 인물.
-- [[entities/sizurinai-liminaris]] - 미네바의 또 다른 팔, 리미나리스의 긍지를 대표하는 구출 축이자 리미나리스식 가주 후보 인재 배치 사례.
-- [[entities/minerva-stantia]] - 네리네의 마지막 계승자 후보, 슈고로 인자 기반의 스탄티아 최고 걸작.
-- [[entities/magina-sadou]] - 미네바를 납치해 사도우 혼혈화를 노린 미래 사건의 가해자.
-- [[entities/minaka-sadou]] - 디마리의 협력 요청에 거액의 마나 때문에 응했다가 네리네에게 함께 네블레이드되고, 휴리-사도우 관계 악화의 계기가 되는 사도우 인물.
-- [[entities/larata]] - 오리아나와 아르킬 백작의 완성형 차원 방랑자 쌍둥이 중 하나. 여왕령에서 힘을 숨기고 자라다가 72 대마신 지위까지 오르지만, 자신을 사실상 내쳤다고 여기며 여왕령에 악감정을 품는다.
-- [[entities/haisia]] - 아이카를 여왕으로 만든 시간의 마녀이자 휴리의 시조. 아이카가 슈고로와 함께 되찾아 황금 새벽의 차원으로 데려가려는 친구이며, 미래 해방 루트에서는 후손 번성에 행복한 미소를 짓는다.
-- [[entities/naksha]] - 여왕령 하웨이 가문의 마신 출신 대장군이자, 네리네가 리미나리스를 만들어낸 시조 나크샤 크샤트리아 나즈샤라. 하웨이의 스테리 침공에서 이노리 이놀이바·테라시에 테라이와 함께 선봉에 섰다.
-- [[entities/shugoro-desmone]] - 보주 속 시조이자 아이카의 딸. 아이카가 하이시아와 함께 되찾아 황금 새벽의 차원으로 데려가려는 핵심 인연이며, 미네바의 기반 인자다.
-- [[entities/izlea-izzul]] - 네리네가 살려둔 최초 시조 중 하나로, 권한 이양 신화를 의심하고 선배들을 돌려내라고 요구하며 반네리네 성지의 한 축을 이루는 인물.
-- [[entities/searup-seirite]] - 세이첼 세아루프 세이리테. 네리네를 겉으로 인정하는 척하며 대항 수단을 모으는 생존 시조이자, 3개 시조 고정석과 성지 기능의 한 축.
-- [[entities/inoliba]] - 하웨이의 스테리 침공에서 나크샤·테라시에 테라이와 함께 선봉에 선 이노리 이놀이바. 네리네가 아세로리온 토벌전에서 펼친 결계 권능 또는 시조이기도 하다.
-- [[entities/sairi]] - 네리네가 아세로리온을 묶는 데 쓴 속박 권능 또는 시조.
-- [[entities/terai]] - 하웨이의 스테리 침공에서 나크샤·이노리 이놀이바와 함께 선봉에 선 테라시에 테라이. 네리네가 아세로리온을 압박하는 데 쓴 권능 또는 시조이기도 하다.
-- [[entities/seijuna]] - 보주 속 시조, 뮤베일이 여왕임을 폭로하려다 슈고로에게 제지된 인물.
-- [[entities/shiraraki-sainaid]] - 왕립 마술 연구원 동료, 아이카에게 고백했다 숙청 명령을 받은 인물.
-- [[entities/shurame]] - 아이카가 여왕 자리를 맡겨두었다고 언급되는 대리자.
-- [[entities/belrea]] - 아이카 탈출 때 고성능 연막탄을 뿌린 화학자.
-- [[entities/siri]] - 아이카 탈출 때 문장 같은 다중 술식탄과 둔화를 맡은 술식탄 사용자.
-- [[entities/mari]] - 아이카 탈출 때 미로 같은 에너지 장벽으로 여왕을 보호한 무인 호위.
-- [[entities/zerose-reirei]] - 환영의 대마신, 아이카 탈출 루트와 에메랄드 타블렛 사건의 환영 유도 담당.
-- [[entities/mina]] - 이름만 확인된 미확정 인물.
-- [[entities/ruga-rau]] - 이름만 확인된 라우 계열 미확정 인물.
+- [[entities/아이카 데스모네]] - 여왕 아이카가 뮤베일로 위장해 리미나리스에서 보석검 연구와 아세로리온 비극을 겪은 행적. 데스모네 입양 전 평민명은 아이카 루이며, 슈고로와 하이시아를 되찾아 황금 새벽의 차원으로 이주하려 한다. 여왕령에서는 억제했던 자기 동상·찬양가·구세주 칭송 욕망을 황금 새벽의 차원에서 실현한다.
+- [[entities/시데이아]] - 외부 우주적 슈프림 플레인스워커이자 아레프 액셀 세이아 가면의 본체.
+- [[entities/아레프 액셀 세이아]] - 시데이아가 여왕령과 리미나리스에서 쓰는 반여왕 투사/진보파 지도자 가면.
+- [[entities/아라드노아 리미나리스]] - 시에라가 리미나리스 방계 마술교사의 육체를 이용해 운용한 분체이자 노리어의 엑시즈.
+- [[entities/아세로리온 리미나리스]] - 네리네에게 버림받은 리미나리스 가주가 뮤베일에게 의존하고 흡혈 마신화로 몰락한 행적.
+- [[entities/디마리 휴리]] - 휴리 초대 가주이자 파라곤 원형, 네리네의 과로한 비서, 보석검 회로 조율자, 네블레이드 사태 추적자, 미나카 사도우에게 거액 마나를 보낸 협력 요청자이자 최후 암호 마나의 발신자.
+- [[entities/메이벨 나스트]] - 아세로리온의 퍼스트 서번트, 차원 조각 사용자, 아이카 도주 조력자, 가주 대리의 행적.
+- [[entities/네리네 네에나리]] - 마법사령 최고 지도자이자 스테리 출신 마신, 보주와 휴리와 리미나리스를 조종하고 아세로리온을 토벌하며 대량 제물 마신화를 금지한 행적, 시조 권한 이양 공식 신화와 스테리 시조급 자긍심.
+- [[entities/레오나 하웨이]] - 에메랄드 타블렛 사건의 하웨이 가주이자 백조의 탑 수감자, 보석검 완성 후원자의 행적.
+- [[entities/비스타리오 하웨이]] - 스테리 대량 살상 무기 정보를 명분으로 세 마신을 움직이고, 하웨이의 폭력적 영향력을 일시 회복한 과거 하웨이 인물.
+- [[entities/크로니카 크리엘라]] - 공유 주술 창시자, 흡혈 마술 오용의 책임자, 신도와 백성을 이끌고 마법사령에 투항한 보호자, 흡혈귀 단속 담당의 행적.
+- [[entities/스자스 스레이아]] - 처형 귀족, 검은 마견 이미지, 카마소 자멸 판단과 훗날 카밀라 재구축 기반의 행적.
+- [[entities/라로카]] - 질량 있는 환영의 마녀, 스자스의 동문, 카밀라 재구축 공범의 행적.
+- [[entities/시에라 세라시에]] - 마법 창시자, 스자스와 라로카의 스승, 북부 호수 동굴 속 미니어처 시티의 대통령으로 숨어 힘을 기르며 북부 호수 개척 마을의 여관 종업원용 분체와 여러 은닉 영향망을 운용하는 인물.
+- [[entities/미료카리온]] - 유계와 우주론에 거의 도달했으나 의도된 오답 덕분에 살아남고, 죽은 뒤 시에라 진체에 감사가 닿는 학자.
+- [[entities/슈시에 엘]] - 시에라의 분체이자 북부 호수 리미나리스 개척 마을의 여관/온천 종업원용 현장 분체, 여왕을 알아보고 희생양이 된 행적.
+- [[entities/카마소 카밀라]] - 영지 전체 흡혈 의식으로 얼티밋급 혈핵 재난이 된 북부 영주의 행적.
+- [[entities/메이저스 데스모네 메달리시아]] - 강제 승리 포말로 카마소 카밀라의 직격을 버틴 듯 보인 마녀 대장군의 행적.
+- [[entities/니게데 게데니아]] - 식물성 피 열매를 개발해 크로니카의 흡혈귀 단속을 가능하게 한 생물학계 대마신.
+- [[entities/네스타 하웨이]] - 에메랄드 타블렛 생산 실무를 맡고 스자스에게 진상을 흘린 하웨이 디바이너.
+- [[entities/메이노아 스테리]] - 스테리 출신 연구원, 네스타의 죄책감을 대표하는 과거 동료.
+- [[entities/사이제라 미]] - 스테리 실종 의혹을 사회운동 네트워크로 퍼뜨린 디바이너.
+- [[entities/사이제라]] - 사이제라 미와 동일 인물인지 미확정인 이름 분리 스텁.
+- [[entities/메리카 카이레이]] - 레오나의 뮤베일 신원 추적을 보고한 아이카 측 첩보 라인.
+- [[entities/메리카]] - 메리카 카이레이와 동일 인물인지 미확정인 이름 분리 스텁.
+- [[entities/카이레이]] - 메리카 카이레이와 동일 인물인지 미확정인 이름 분리 스텁.
+- [[entities/미라리스 리스티아]] - 에메랄드 타블렛 사건의 법 해석을 맡은 법무부 장관.
+- [[entities/에뮤카레 뮤케레]] - 스테리 출신 마신, 훗날 스자스가 에메랄드 타블렛으로 회유하고 노리어의 에텔 기반이 되며 스테리의 시조급 자긍심을 형성하는 인물.
+- [[entities/에리디나 리나시타]] - 노리어의 에텔 원천이자 위메아 하란에게 이어지는 마법사의 힘. 브줄 가문 출신 마법사령 시조이기도 하다.
+- [[entities/위메아 하란]] - 브줄 출신 승천자. 에리디나 리나시타의 힘을 받아 첫 번째 승천자가 되는 인물.
+- [[entities/사바하 브줄]] - 브줄 가문의 가주. 티라하가 72 대마신에서 밀려나자 가문 전체의 마법사령 이반을 결정한다.
+- [[entities/티라하 브줄]] - 72 대마신에서 밀려난 일이 브줄 가문 이반의 도화선이 된 인물.
+- [[entities/라플라리아 리미나리스]] - 아세로리온의 장녀, 휴리 지원을 받는 리미나리스 계승 후보.
+- [[entities/리나리로라]] - 아세로리온의 차녀, 레오나와 보석검 지원으로 계승전에 승리하는 후보.
+- [[entities/환타 휴리]] - 오리아나와 아르킬 백작의 완성형 차원 방랑자 쌍둥이 중 하나. 휴리 상층부의 보물과 어린 제라애의 숭배 대상이 되며, 리미나리스 적대 선동을 받아 결투로 차원술사 귀족들을 공격한다.
+- [[entities/제라애 휴리]] - 현 휴리 가주이자 휴리 상회의 거두. 어린 시절 환타의 천재성을 숭배했고, 훗날 이즈카타를 진짜 후계자로 세우려 하며 이레니아가 부재기록을 캐물어 시에라 공모 흔적에 닿을까 두려워한다.
+- [[entities/스이카 휴리]] - 제라애의 명을 받드는 휴리 실권자, 이레니아 즉시 제거가 과하다고 느끼지만 제라애와 시에라의 관계를 모르고 결국 명을 실행하는 인물.
+- [[entities/카나데라 휴리]] - 제라애의 직접 실행 명령을 받은 휴리 실권자, 즉시 제거가 과하다고 느끼며 마지막에 이레니아에게 고백하고 도망치게 하는 인물.
+- [[entities/나마애 휴리]] - 제라애의 친딸이지만 가주 후보는 아니며, 친딸 지위로 이레니아 제거 명령을 지연시키는 인물.
+- [[entities/이즈카타]] - 아라드노아의 소실 무대가 되는 휴리의 완성형 차원 방랑자이자, 제라애가 진짜로 가주로 만들려는 극비 후계자.
+- [[entities/오리아나 휴리]] - 디마리의 딸이자 아이카의 오해로 스자스에게 납치·보호되고, 아르킬 백작과 혼인해 환타와 라라타를 낳지만 바르딜 사건으로 실어증과 도주를 겪는 미래 핵심 인물.
+- [[entities/아르킬 백작]] - 아이카의 혈족인 여왕령 백작, 오리아나와 혼인해 환타와 라라타의 아버지가 되는 혈통 연결점이며 바르딜에게 살해되는 인물.
+- [[entities/바르딜]] - 여왕령의 망나니 왕자이자 범죄자. 아르킬을 죽이고 오리아나를 성폭행해 환타와 라라타 분리의 직접 원인이 된다.
+- [[entities/후우라 크로노스 후세이]] - 오리아나를 도와준 리미나리스 인재. 환타의 결투 공격으로 불구나 재기불능이 된 피해자 중 하나다.
+- [[entities/갈리에이라 휴리]] - 디마리의 후임 비서, 네리네의 변덕에 시달리는 과로 코미디 인물.
+- [[entities/이레니아 휴리 34]] - 네리네가 마법사 후보이자 차기 가주 후보로 내려보낸 휴리, 휴리 가주회의 이너서클의 존재를 모르지만 기록 추적 위험 때문에 제라애가 경계하는 인물.
+- [[entities/시즈리나이 리미나리스]] - 미네바의 또 다른 팔, 리미나리스의 긍지를 대표하는 구출 축이자 리미나리스식 가주 후보 인재 배치 사례.
+- [[entities/미네바 스탄티아]] - 네리네의 마지막 계승자 후보, 슈고로 인자 기반의 스탄티아 최고 걸작.
+- [[entities/마기나 사도우]] - 미네바를 납치해 사도우 혼혈화를 노린 미래 사건의 가해자.
+- [[entities/미나카 사도우]] - 디마리의 협력 요청에 거액의 마나 때문에 응했다가 네리네에게 함께 네블레이드되고, 휴리-사도우 관계 악화의 계기가 되는 사도우 인물.
+- [[entities/라라타]] - 오리아나와 아르킬 백작의 완성형 차원 방랑자 쌍둥이 중 하나. 여왕령에서 힘을 숨기고 자라다가 72 대마신 지위까지 오르지만, 자신을 사실상 내쳤다고 여기며 여왕령에 악감정을 품는다.
+- [[entities/하이시아]] - 아이카를 여왕으로 만든 시간의 마녀이자 휴리의 시조. 아이카가 슈고로와 함께 되찾아 황금 새벽의 차원으로 데려가려는 친구이며, 미래 해방 루트에서는 후손 번성에 행복한 미소를 짓는다.
+- [[entities/나크샤]] - 여왕령 하웨이 가문의 마신 출신 대장군이자, 네리네가 리미나리스를 만들어낸 시조 나크샤 크샤트리아 나즈샤라. 하웨이의 스테리 침공에서 이노리 이놀이바·테라시에 테라이와 함께 선봉에 섰다.
+- [[entities/슈고로]] - 보주 속 시조이자 아이카의 딸. 아이카가 하이시아와 함께 되찾아 황금 새벽의 차원으로 데려가려는 핵심 인연이며, 미네바의 기반 인자다.
+- [[entities/이즐레아 이즈쥴]] - 네리네가 살려둔 최초 시조 중 하나로, 권한 이양 신화를 의심하고 선배들을 돌려내라고 요구하며 반네리네 성지의 한 축을 이루는 인물.
+- [[entities/세아루프 세이리테]] - 세이첼 세아루프 세이리테. 네리네를 겉으로 인정하는 척하며 대항 수단을 모으는 생존 시조이자, 3개 시조 고정석과 성지 기능의 한 축.
+- [[entities/이놀리바]] - 하웨이의 스테리 침공에서 나크샤·테라시에 테라이와 함께 선봉에 선 이노리 이놀이바. 네리네가 아세로리온 토벌전에서 펼친 결계 권능 또는 시조이기도 하다.
+- [[entities/사이리]] - 네리네가 아세로리온을 묶는 데 쓴 속박 권능 또는 시조.
+- [[entities/테라이]] - 하웨이의 스테리 침공에서 나크샤·이노리 이놀이바와 함께 선봉에 선 테라시에 테라이. 네리네가 아세로리온을 압박하는 데 쓴 권능 또는 시조이기도 하다.
+- [[entities/세이쥬나]] - 보주 속 시조, 뮤베일이 여왕임을 폭로하려다 슈고로에게 제지된 인물.
+- [[entities/시라라키 사이네이드]] - 왕립 마술 연구원 동료, 아이카에게 고백했다 숙청 명령을 받은 인물.
+- [[entities/슈라메]] - 아이카가 여왕 자리를 맡겨두었다고 언급되는 대리자.
+- [[entities/벨레아]] - 아이카 탈출 때 고성능 연막탄을 뿌린 화학자.
+- [[entities/시리]] - 아이카 탈출 때 문장 같은 다중 술식탄과 둔화를 맡은 술식탄 사용자.
+- [[entities/마리]] - 아이카 탈출 때 미로 같은 에너지 장벽으로 여왕을 보호한 무인 호위.
+- [[entities/제로제 레이레이]] - 환영의 대마신, 아이카 탈출 루트와 에메랄드 타블렛 사건의 환영 유도 담당.
+- [[entities/미나]] - 이름만 확인된 미확정 인물.
+- [[entities/루가 라우]] - 이름만 확인된 라우 계열 미확정 인물.
 
 ## 최근 추가 사건
 
@@ -267,25 +267,25 @@ updated: 2026-06-01
 
 ## LLM Wiki Sources
 
-- [[sources/llm-wiki-pattern]] - LLM이 유지하는 지속형 위키 패턴의 소스 요약.
+- [[meta/llm-wiki-pattern]] - LLM이 유지하는 지속형 위키 패턴의 소스 요약.
 
 ## LLM Wiki Concepts
 
-- [[concepts/지속 누적 위키|지속 누적 위키]] - LLM 생성 위키 페이지가 누적 개선되어야 한다는 아이디어.
+- [[meta/지속 누적 위키|지속 누적 위키]] - LLM 생성 위키 페이지가 누적 개선되어야 한다는 아이디어.
 - [[concepts/출처 기반 종합|출처 기반 종합]] - 결론을 출처와 연결해 유지하는 방식.
 - [[concepts/입력 질의 점검 워크플로|입력 질의 점검 워크플로]] - 위키 유지의 세 작업 흐름: 입력, 질의, 점검.
 
 ## LLM Wiki Entities
 
-- [[entities/obsidian]] - 마크다운 읽기와 탐색 계층으로서의 Obsidian.
+- [[meta/obsidian]] - 마크다운 읽기와 탐색 계층으로서의 Obsidian.
 
 ## LLM Wiki Syntheses
 
-- [[syntheses/llm-wiki-architecture]] - 현재 위키 구조와 최소 운영 루프.
+- [[meta/llm-wiki-architecture]] - 현재 위키 구조와 최소 운영 루프.
 
 ## LLM Wiki Questions
 
-- [[questions/how-to-start-using-llm-wiki]] - 이 위키를 쓰기 위한 첫 단계와 프롬프트.
+- [[meta/how-to-start-using-llm-wiki]] - 이 위키를 쓰기 위한 첫 단계와 프롬프트.
 
 ## 미해결 질문
 

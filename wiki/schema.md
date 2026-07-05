@@ -23,8 +23,8 @@ This wiki is maintained by Codex from source-backed material in `raw/`.
 
 Use Obsidian-friendly wiki links:
 
-- Page link: `[[concepts/지속 누적 위키|지속 누적 위키]]`
-- Labeled link: `[[sources/llm-wiki-pattern|LLM Wiki Pattern]]`
+- Page link: `[[meta/지속 누적 위키|지속 누적 위키]]`
+- Labeled link: `[[meta/llm-wiki-pattern|LLM Wiki Pattern]]`
 
 ## Source Citation Style
 
