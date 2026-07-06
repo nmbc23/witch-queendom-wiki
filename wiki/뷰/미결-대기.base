@@ -1,0 +1,14 @@
+filters:
+  and:
+    - status == "draft"
+views:
+  - type: table
+    name: 초안 상태 페이지
+    order:
+      - file.name
+      - type
+      - part
+      - updated
+    sort:
+      - property: updated
+        direction: DESC

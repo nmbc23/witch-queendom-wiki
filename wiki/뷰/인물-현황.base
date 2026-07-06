@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("인물")
+views:
+  - type: table
+    name: 인물 현황
+    order:
+      - file.name
+      - status
+      - part
+      - updated
+    sort:
+      - property: file.name
+        direction: ASC
