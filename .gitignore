@@ -9,6 +9,9 @@ Desktop.ini
 
 # Local temporary / generated working folders
 .wiki-backups/
+.codex-backups/
+.tmp-bundle-verify/
+.tmp-wiki-restructure-inspect/
 temp_outputs/
 .worktrees/
 
@@ -20,5 +23,6 @@ temp_outputs/
 # Obsidian per-device state
 wiki/.obsidian/workspace.json
 wiki/.obsidian/workspace-mobile.json
+wiki/.obsidian/graph.json
 wiki/.obsidian/cache/
 wiki/.trash/
